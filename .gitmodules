@@ -1,0 +1,78 @@
+[submodule "cpufrequtils"]
+	path = cpufrequtils
+	url = https://github.com/atomlong/cpufrequtils.git
+[submodule "docker-systemctl-replacement-git"]
+	path = docker-systemctl-replacement-git
+	url = https://github.com/atomlong/docker-systemctl-replacement-git.git
+[submodule "drone"]
+	path = drone
+	url = https://github.com/atomlong/drone.git
+[submodule "drone-git"]
+	path = drone-git
+	url = https://github.com/atomlong/drone-git.git
+[submodule "drone-cli"]
+	path = drone-cli
+	url = https://github.com/atomlong/drone-cli.git
+[submodule "drone-runner-exec-git"]
+	path = drone-runner-exec-git
+	url = https://github.com/atomlong/drone-runner-exec-git.git
+[submodule "esptool-git"]
+	path = esptool-git
+	url = https://github.com/atomlong/esptool-git.git
+[submodule "eyun-keyring"]
+	path = eyun-keyring
+	url = https://github.com/atomlong/eyun-keyring.git
+[submodule "frp"]
+	path = frp
+	url = https://github.com/atomlong/frp.git
+[submodule "gitea-git"]
+	path = gitea-git
+	url = https://github.com/atomlong/gitea-git.git
+[submodule "gitea-tea"]
+	path = gitea-tea
+	url = https://github.com/atomlong/gitea-tea.git
+[submodule "go-git"]
+	path = go-git
+	url = https://github.com/atomlong/go-git.git
+[submodule "gogs"]
+	path = gogs
+	url = https://github.com/atomlong/gogs.git
+[submodule "home-assistant"]
+	path = home-assistant
+	url = https://github.com/atomlong/home-assistant.git
+[submodule "iozone"]
+	path = iozone
+	url = https://github.com/atomlong/iozone.git
+[submodule "perl-authen-pam"]
+	path = perl-authen-pam
+	url = https://github.com/atomlong/perl-authen-pam.git
+[submodule "perl-encode-detect"]
+	path = perl-encode-detect
+	url = https://github.com/atomlong/perl-encode-detect.git
+[submodule "platformio"]
+	path = platformio
+	url = https://github.com/atomlong/platformio.git
+[submodule "rclone-bin"]
+	path = rclone-bin
+	url = https://github.com/atomlong/rclone-bin.git
+[submodule "rclone-git"]
+	path = rclone-git
+	url = https://github.com/atomlong/rclone-git.git
+[submodule "sendmail"]
+	path = sendmail
+	url = https://github.com/atomlong/sendmail.git
+[submodule "sysbench-git"]
+	path = sysbench-git
+	url = https://github.com/atomlong/sysbench-git.git
+[submodule "webmin"]
+	path = webmin
+	url = https://github.com/atomlong/webmin.git
+[submodule "yay"]
+	path = yay
+	url = https://github.com/atomlong/yay.git
+[submodule "yay-bin"]
+	path = yay-bin
+	url = https://github.com/atomlong/yay-bin.git
+[submodule "yay-git"]
+	path = yay-git
+	url = https://github.com/atomlong/yay-git.git
