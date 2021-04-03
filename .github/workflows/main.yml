@@ -1,0 +1,70 @@
+  
+name: eyun CI
+
+on: 
+  release:
+    types: [published]
+  schedule:
+    - cron: 00 15 * * *
+  watch:
+    types: [started]
+
+jobs:
+  build-package:
+    runs-on: ubuntu-latest
+    name: Build on ubuntu
+    if: github.event.repository.owner.id == github.event.sender.id
+    env:
+      RCLONE_CONF:  ${{ secrets.RCLONE_CONF }}
+      PGP_PUBLIC_KEY:   ${{ secrets.PGP_PUBLIC_KEY }}
+      PGP_EMAIL:    ${{ secrets.PGP_EMAIL }}
+      DEPLOY_PATH:  ${{ secrets.DEPLOY_PATH }}
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Checkout submodules
+      uses: snickerbockers/submodules-init@v4
+    - name: Refresh access token
+      id: refresh
+      run: |
+        sudo apt install rclone -y
+        RCLONE_CONFIG_PATH=$(rclone config file | tail -n1)
+        mkdir -pv $(dirname ${RCLONE_CONFIG_PATH})
+        [ $(awk 'END{print NR}' <<< "${RCLONE_CONF}") == 1 ] &&
+        base64 --decode <<< "${RCLONE_CONF}" > ${RCLONE_CONFIG_PATH} ||
+        printf "${RCLONE_CONF}" > ${RCLONE_CONFIG_PATH}
+        REMOTES=($(rclone listremotes))
+        for remote in ${REMOTES[@]}; do
+        rclone lsd ${remote} &>/dev/null
+        done
+        gpg --import <<< "${PGP_PUBLIC_KEY}"
+        gpg --encrypt --always-trust --recipient ${PGP_EMAIL} ${RCLONE_CONFIG_PATH}
+        [ -f ${RCLONE_CONFIG_PATH}.gpg ] && {
+        rclone copy ${RCLONE_CONFIG_PATH}.gpg ${DEPLOY_PATH}
+        }
+        RCLONE_CONFIG_NEW=$(base64 ${RCLONE_CONFIG_PATH} | tr '\n' '\0')
+        echo ::set-output name=rclone_config::${RCLONE_CONFIG_NEW}
+        echo ::add-mask::${RCLONE_CONFIG_NEW}
+        rm -vf ${RCLONE_CONFIG_PATH}{,.gpg}
+    - name: Update Rclone Config secret
+      uses: atomlong/gh-update-secret@submod
+      if: ${{ steps.refresh.outputs.rclone_config != '' }}
+      with:
+        name: RCLONE_CONF
+        value: ${{ steps.refresh.outputs.rclone_config }}
+        pa_token: ${{ secrets.GH_PA_TOKEN }}
+    - name: Submodule Update
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        Submodules=($(git config --file .gitmodules --get-regexp path | awk '{ print $2 }'))
+        for mod in ${Submodules[@]}; do
+        git submodule update --progress --remote "${mod}"
+        git add "${mod}"
+        done
+        git commit -m "Submodule Update" -a || true
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    
