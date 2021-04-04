@@ -157,6 +157,9 @@
 [submodule "platformio"]
 	path = platformio
 	url = https://github.com/atomlong/platformio.git
+[submodule "python-yaml"]
+	path = python-yaml
+	url = https://github.com/atomlong/python-yaml.git
 [submodule "rclone-bin"]
 	path = rclone-bin
 	url = https://github.com/atomlong/rclone-bin.git
