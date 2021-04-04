@@ -82,6 +82,9 @@
 [submodule "gnome-mime-data"]
 	path = gnome-mime-data
 	url = https://github.com/atomlong/gnome-mime-data.git
+[submodule "gnome-vfs"]
+	path = gnome-vfs
+	url = https://github.com/atomlong/gnome-vfs.git
 [submodule "go-git"]
 	path = go-git
 	url = https://github.com/atomlong/go-git.git
