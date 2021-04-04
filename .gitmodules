@@ -19,6 +19,9 @@
 [submodule "crosstool-ng"]
 	path = crosstool-ng
 	url = https://github.com/atomlong/crosstool-ng.git
+[submodule "crosstool-ng-git"]
+	path = crosstool-ng-git
+	url = https://github.com/atomlong/crosstool-ng-git.git
 [submodule "docker-systemctl-replacement-git"]
 	path = docker-systemctl-replacement-git
 	url = https://github.com/atomlong/docker-systemctl-replacement-git.git
