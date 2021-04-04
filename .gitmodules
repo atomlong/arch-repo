@@ -43,6 +43,9 @@
 [submodule "drone-runner-exec-git"]
 	path = drone-runner-exec-git
 	url = https://github.com/atomlong/drone-runner-exec-git.git
+[submodule "esphome"]
+	path = esphome
+	url = https://github.com/atomlong/esphome.git
 [submodule "esptool-git"]
 	path = esptool-git
 	url = https://github.com/atomlong/esptool-git.git
