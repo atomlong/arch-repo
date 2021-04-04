@@ -64,6 +64,9 @@
 [submodule "gamin"]
 	path = gamin
 	url = https://github.com/atomlong/gamin.git
+[submodule "gconf"]
+	path = gconf
+	url = https://github.com/atomlong/gconf.git
 [submodule "gitea-git"]
 	path = gitea-git
 	url = https://github.com/atomlong/gitea-git.git
