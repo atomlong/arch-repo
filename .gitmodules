@@ -112,6 +112,9 @@
 [submodule "libbonobo"]
 	path = libbonobo
 	url = https://github.com/atomlong/libbonobo.git
+[submodule "libbonoboui"]
+	path = libbonoboui
+	url = https://github.com/atomlong/libbonoboui.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
