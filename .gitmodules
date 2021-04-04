@@ -124,6 +124,9 @@
 [submodule "libgnomeui"]
 	path = libgnomeui
 	url = https://github.com/atomlong/libgnomeui.git
+[submodule "linux-sunxi64"]
+	path = linux-sunxi64
+	url = https://github.com/atomlong/linux-sunxi64.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
