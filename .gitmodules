@@ -199,6 +199,9 @@
 [submodule "sysbench-git"]
 	path = sysbench-git
 	url = https://github.com/atomlong/sysbench-git.git
+[submodule "ttf-ms-fonts"]
+	path = ttf-ms-fonts
+	url = https://github.com/atomlong/ttf-ms-fonts.git
 [submodule "webmin"]
 	path = webmin
 	url = https://github.com/atomlong/webmin.git
