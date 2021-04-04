@@ -1,3 +1,6 @@
+[submodule "armutils-git"]
+	path = armutils-git
+	url = https://github.com/atomlong/armutils-git.git
 [submodule "cpufrequtils"]
 	path = cpufrequtils
 	url = https://github.com/atomlong/cpufrequtils.git
