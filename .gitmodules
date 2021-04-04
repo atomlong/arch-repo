@@ -58,6 +58,9 @@
 [submodule "eyun-keyring"]
 	path = eyun-keyring
 	url = https://github.com/atomlong/eyun-keyring.git
+[submodule "fcitx-sogoupinyin"]
+	path = fcitx-sogoupinyin
+	url = https://github.com/atomlong/fcitx-sogoupinyin.git
 [submodule "frp"]
 	path = frp
 	url = https://github.com/atomlong/frp.git
