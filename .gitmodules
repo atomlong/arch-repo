@@ -175,6 +175,9 @@
 [submodule "qemu-user-static-bin"]
 	path = qemu-user-static-bin
 	url = https://github.com/atomlong/qemu-user-static-bin.git
+[submodule "qtcam-git"]
+	path = qtcam-git
+	url = https://github.com/atomlong/qtcam-git.git
 [submodule "rclone-bin"]
 	path = rclone-bin
 	url = https://github.com/atomlong/rclone-bin.git
