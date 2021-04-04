@@ -142,6 +142,9 @@
 [submodule "orbit2"]
 	path = orbit2
 	url = https://github.com/atomlong/orbit2.git
+[submodule "pacman-git"]
+	path = pacman-git
+	url = https://github.com/atomlong/pacman-git.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
