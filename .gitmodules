@@ -160,6 +160,9 @@
 [submodule "python-aiohttp"]
 	path = python-aiohttp
 	url = https://github.com/atomlong/python-aiohttp.git
+[submodule "python-ajsonrpc"]
+	path = python-ajsonrpc
+	url = https://github.com/atomlong/python-ajsonrpc.git
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
