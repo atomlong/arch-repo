@@ -7,6 +7,9 @@
 [submodule "binfmt-qemu-static-all-arch"]
 	path = binfmt-qemu-static-all-arch
 	url = https://github.com/atomlong/binfmt-qemu-static-all-arch.git
+[submodule "camorama"]
+	path = camorama
+	url = https://github.com/atomlong/camorama.git
 [submodule "cpufrequtils"]
 	path = cpufrequtils
 	url = https://github.com/atomlong/cpufrequtils.git
