@@ -22,6 +22,9 @@
 [submodule "crosstool-ng-git"]
 	path = crosstool-ng-git
 	url = https://github.com/atomlong/crosstool-ng-git.git
+[submodule "dkms-frandom"]
+	path = dkms-frandom
+	url = https://github.com/atomlong/dkms-frandom.git
 [submodule "docker-systemctl-replacement-git"]
 	path = docker-systemctl-replacement-git
 	url = https://github.com/atomlong/docker-systemctl-replacement-git.git
