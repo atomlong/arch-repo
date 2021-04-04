@@ -1,6 +1,9 @@
 [submodule "armutils-git"]
 	path = armutils-git
 	url = https://github.com/atomlong/armutils-git.git
+[submodule "binfmt-qemu-static"]
+	path = binfmt-qemu-static
+	url = https://github.com/atomlong/binfmt-qemu-static.git
 [submodule "cpufrequtils"]
 	path = cpufrequtils
 	url = https://github.com/atomlong/cpufrequtils.git
