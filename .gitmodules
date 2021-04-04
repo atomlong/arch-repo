@@ -61,6 +61,9 @@
 [submodule "fswebcam"]
 	path = fswebcam
 	url = https://github.com/atomlong/fswebcam.git
+[submodule "gamin"]
+	path = gamin
+	url = https://github.com/atomlong/gamin.git
 [submodule "gitea-git"]
 	path = gitea-git
 	url = https://github.com/atomlong/gitea-git.git
