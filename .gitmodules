@@ -202,6 +202,9 @@
 [submodule "ttf-ms-fonts"]
 	path = ttf-ms-fonts
 	url = https://github.com/atomlong/ttf-ms-fonts.git
+[submodule "ttf-vista-fonts"]
+	path = ttf-vista-fonts
+	url = https://github.com/atomlong/ttf-vista-fonts.git
 [submodule "webmin"]
 	path = webmin
 	url = https://github.com/atomlong/webmin.git
