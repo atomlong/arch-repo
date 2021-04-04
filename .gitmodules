@@ -148,6 +148,9 @@
 [submodule "onedrive"]
 	path = onedrive
 	url = https://github.com/atomlong/onedrive.git
+[submodule "onedrive-abraunegg"]
+	path = onedrive-abraunegg
+	url = https://github.com/atomlong/onedrive-abraunegg.git
 [submodule "onedriver"]
 	path = onedriver
 	url = https://github.com/atomlong/onedriver.git
