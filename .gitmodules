@@ -136,6 +136,9 @@
 [submodule "onedrive"]
 	path = onedrive
 	url = https://github.com/atomlong/onedrive.git
+[submodule "onedriver"]
+	path = onedriver
+	url = https://github.com/atomlong/onedriver.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
