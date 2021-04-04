@@ -58,6 +58,9 @@
 [submodule "frp"]
 	path = frp
 	url = https://github.com/atomlong/frp.git
+[submodule "fswebcam"]
+	path = fswebcam
+	url = https://github.com/atomlong/fswebcam.git
 [submodule "gitea-git"]
 	path = gitea-git
 	url = https://github.com/atomlong/gitea-git.git
