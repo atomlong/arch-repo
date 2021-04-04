@@ -118,6 +118,9 @@
 [submodule "libgnome"]
 	path = libgnome
 	url = https://github.com/atomlong/libgnome.git
+[submodule "libgnomecanvas"]
+	path = libgnomecanvas
+	url = https://github.com/atomlong/libgnomecanvas.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
