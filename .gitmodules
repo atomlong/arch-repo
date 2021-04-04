@@ -187,6 +187,9 @@
 [submodule "rclone-git"]
 	path = rclone-git
 	url = https://github.com/atomlong/rclone-git.git
+[submodule "rng-tools-git"]
+	path = rng-tools-git
+	url = https://github.com/atomlong/rng-tools-git.git
 [submodule "sendmail"]
 	path = sendmail
 	url = https://github.com/atomlong/sendmail.git
