@@ -157,6 +157,9 @@
 [submodule "platformio"]
 	path = platformio
 	url = https://github.com/atomlong/platformio.git
+[submodule "python-aiohttp"]
+	path = python-aiohttp
+	url = https://github.com/atomlong/python-aiohttp.git
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
