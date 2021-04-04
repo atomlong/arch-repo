@@ -130,6 +130,9 @@
 [submodule "linux-wifi-hotspot"]
 	path = linux-wifi-hotspot
 	url = https://github.com/atomlong/linux-wifi-hotspot.git
+[submodule "mjpg-streamer-git"]
+	path = mjpg-streamer-git
+	url = https://github.com/atomlong/mjpg-streamer-git.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
