@@ -97,6 +97,9 @@
 [submodule "insync"]
 	path = insync
 	url = https://github.com/atomlong/insync.git
+[submodule "insync-headless"]
+	path = insync-headless
+	url = https://github.com/atomlong/insync-headless.git
 [submodule "iozone"]
 	path = iozone
 	url = https://github.com/atomlong/iozone.git
