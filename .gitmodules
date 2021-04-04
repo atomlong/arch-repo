@@ -193,6 +193,9 @@
 [submodule "sendmail"]
 	path = sendmail
 	url = https://github.com/atomlong/sendmail.git
+[submodule "sunxi-tools-git"]
+	path = sunxi-tools-git
+	url = https://github.com/atomlong/sunxi-tools-git.git
 [submodule "sysbench-git"]
 	path = sysbench-git
 	url = https://github.com/atomlong/sysbench-git.git
