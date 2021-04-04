@@ -109,6 +109,9 @@
 [submodule "libart-lgpl"]
 	path = libart-lgpl
 	url = https://github.com/atomlong/libart-lgpl.git
+[submodule "libbonobo"]
+	path = libbonobo
+	url = https://github.com/atomlong/libbonobo.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
