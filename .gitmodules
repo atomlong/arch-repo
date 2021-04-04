@@ -127,6 +127,9 @@
 [submodule "linux-sunxi64"]
 	path = linux-sunxi64
 	url = https://github.com/atomlong/linux-sunxi64.git
+[submodule "linux-wifi-hotspot"]
+	path = linux-wifi-hotspot
+	url = https://github.com/atomlong/linux-wifi-hotspot.git
 [submodule "perl-authen-pam"]
 	path = perl-authen-pam
 	url = https://github.com/atomlong/perl-authen-pam.git
