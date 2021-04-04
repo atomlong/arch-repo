@@ -28,6 +28,9 @@
 [submodule "docker-systemctl-replacement-git"]
 	path = docker-systemctl-replacement-git
 	url = https://github.com/atomlong/docker-systemctl-replacement-git.git
+[submodule "droidcam"]
+	path = droidcam
+	url = https://github.com/atomlong/droidcam.git
 [submodule "drone"]
 	path = drone
 	url = https://github.com/atomlong/drone.git
