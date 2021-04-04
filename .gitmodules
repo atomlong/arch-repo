@@ -94,6 +94,9 @@
 [submodule "home-assistant"]
 	path = home-assistant
 	url = https://github.com/atomlong/home-assistant.git
+[submodule "insync"]
+	path = insync
+	url = https://github.com/atomlong/insync.git
 [submodule "iozone"]
 	path = iozone
 	url = https://github.com/atomlong/iozone.git
