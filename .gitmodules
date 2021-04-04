@@ -124,6 +124,9 @@
 [submodule "libgnomeui"]
 	path = libgnomeui
 	url = https://github.com/atomlong/libgnomeui.git
+[submodule "linux-sunxi"]
+	path = linux-sunxi
+	url = https://github.com/atomlong/linux-sunxi.git
 [submodule "linux-sunxi64"]
 	path = linux-sunxi64
 	url = https://github.com/atomlong/linux-sunxi64.git
