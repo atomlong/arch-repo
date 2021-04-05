@@ -1,3 +1,6 @@
+[submodule "alpm_octopi_utils"]
+	path = alpm_octopi_utils
+	url = https://github.com/atomlong/alpm_octopi_utils.git
 [submodule "armutils-git"]
 	path = armutils-git
 	url = https://github.com/atomlong/armutils-git.git
