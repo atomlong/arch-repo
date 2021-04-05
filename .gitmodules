@@ -226,6 +226,9 @@
 [submodule "sendmail"]
 	path = sendmail
 	url = https://github.com/atomlong/sendmail.git
+[submodule "snappymail"]
+	path = snappymail
+	url = https://github.com/atomlong/snappymail.git
 [submodule "sunxi-tools-git"]
 	path = sunxi-tools-git
 	url = https://github.com/atomlong/sunxi-tools-git.git
