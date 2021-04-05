@@ -223,6 +223,9 @@
 [submodule "rng-tools-git"]
 	path = rng-tools-git
 	url = https://github.com/atomlong/rng-tools-git.git
+[submodule "rollup"]
+	path = rollup
+	url = https://github.com/atomlong/rollup.git
 [submodule "sendmail"]
 	path = sendmail
 	url = https://github.com/atomlong/sendmail.git
