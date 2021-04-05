@@ -1,6 +1,9 @@
 [submodule "armutils-git"]
 	path = armutils-git
 	url = https://github.com/atomlong/armutils-git.git
+[submodule "aurto"]
+	path = aurto
+	url = https://github.com/atomlong/aurto.git
 [submodule "bcompare"]
 	path = bcompare
 	url = https://github.com/atomlong/bcompare.git
