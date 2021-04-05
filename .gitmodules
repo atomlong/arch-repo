@@ -109,6 +109,9 @@
 [submodule "google-chrome"]
 	path = google-chrome
 	url = https://github.com/atomlong/google-chrome.git
+[submodule "google-chrome-dev"]
+	path = google-chrome-dev
+	url = https://github.com/atomlong/google-chrome-dev.git
 [submodule "home-assistant"]
 	path = home-assistant
 	url = https://github.com/atomlong/home-assistant.git
