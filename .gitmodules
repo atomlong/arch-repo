@@ -163,6 +163,9 @@
 [submodule "onedriver"]
 	path = onedriver
 	url = https://github.com/atomlong/onedriver.git
+[submodule "openrc"]
+	path = openrc
+	url = https://github.com/atomlong/openrc.git
 [submodule "opentmpfiles"]
 	path = opentmpfiles
 	url = https://github.com/atomlong/opentmpfiles.git
