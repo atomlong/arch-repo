@@ -184,6 +184,9 @@
 [submodule "pamac-aur"]
 	path = pamac-aur
 	url = https://github.com/atomlong/pamac-aur.git
+[submodule "paru"]
+	path = paru
+	url = https://github.com/atomlong/paru.git
 [submodule "pcre-static"]
 	path = pcre-static
 	url = https://github.com/atomlong/pcre-static.git
