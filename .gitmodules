@@ -25,6 +25,9 @@
 [submodule "buildbot-git"]
 	path = buildbot-git
 	url = https://github.com/atomlong/buildbot-git.git
+[submodule "buildbot-worker-git"]
+	path = buildbot-worker-git
+	url = https://github.com/atomlong/buildbot-worker-git.git
 [submodule "camorama"]
 	path = camorama
 	url = https://github.com/atomlong/camorama.git
