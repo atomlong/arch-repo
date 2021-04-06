@@ -22,6 +22,9 @@
 [submodule "binfmt-qemu-static-all-arch"]
 	path = binfmt-qemu-static-all-arch
 	url = https://github.com/atomlong/binfmt-qemu-static-all-arch.git
+[submodule "buildbot-git"]
+	path = buildbot-git
+	url = https://github.com/atomlong/buildbot-git.git
 [submodule "camorama"]
 	path = camorama
 	url = https://github.com/atomlong/camorama.git
