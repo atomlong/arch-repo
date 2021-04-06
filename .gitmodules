@@ -229,6 +229,9 @@
 [submodule "python-ajsonrpc"]
 	path = python-ajsonrpc
 	url = https://github.com/atomlong/python-ajsonrpc.git
+[submodule "python-buildbot-gitea"]
+	path = python-buildbot-gitea
+	url = https://github.com/atomlong/python-buildbot-gitea.git
 [submodule "python-buildbot-pkg-git"]
 	path = python-buildbot-pkg-git
 	url = https://github.com/atomlong/python-buildbot-pkg-git.git
