@@ -97,6 +97,9 @@
 [submodule "git-hub"]
 	path = git-hub
 	url = https://github.com/atomlong/git-hub.git
+[submodule "glib2-git"]
+	path = glib2-git
+	url = https://github.com/atomlong/glib2-git.git
 [submodule "glib2-static"]
 	path = glib2-static
 	url = https://github.com/atomlong/glib2-static.git
