@@ -160,6 +160,9 @@
 [submodule "libbonoboui"]
 	path = libbonoboui
 	url = https://github.com/atomlong/libbonoboui.git
+[submodule "libcap-git"]
+	path = libcap-git
+	url = https://github.com/atomlong/libcap-git.git
 [submodule "libgnome"]
 	path = libgnome
 	url = https://github.com/atomlong/libgnome.git
