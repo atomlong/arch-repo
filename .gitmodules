@@ -136,6 +136,9 @@
 [submodule "home-assistant"]
 	path = home-assistant
 	url = https://github.com/atomlong/home-assistant.git
+[submodule "inetutils-git"]
+	path = inetutils-git
+	url = https://github.com/atomlong/inetutils-git.git
 [submodule "insync"]
 	path = insync
 	url = https://github.com/atomlong/insync.git
