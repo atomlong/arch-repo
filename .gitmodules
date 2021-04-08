@@ -298,6 +298,9 @@
 [submodule "snappymail"]
 	path = snappymail
 	url = https://github.com/atomlong/snappymail.git
+[submodule "ssr2json"]
+	path = ssr2json
+	url = https://github.com/atomlong/ssr2json.git
 [submodule "sunxi-tools-git"]
 	path = sunxi-tools-git
 	url = https://github.com/atomlong/sunxi-tools-git.git
