@@ -277,6 +277,9 @@
 [submodule "python-jsonpath-rw"]
 	path = python-jsonpath-rw
 	url = https://github.com/atomlong/python-jsonpath-rw.git
+[submodule "python-netdisco"]
+	path = python-netdisco
+	url = https://github.com/atomlong/python-netdisco.git
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
