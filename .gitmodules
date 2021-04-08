@@ -298,6 +298,9 @@
 [submodule "ttf-vista-fonts"]
 	path = ttf-vista-fonts
 	url = https://github.com/atomlong/ttf-vista-fonts.git
+[submodule "webcamoid"]
+	path = webcamoid
+	url = https://github.com/atomlong/webcamoid.git
 [submodule "webmin"]
 	path = webmin
 	url = https://github.com/atomlong/webmin.git
