@@ -292,6 +292,9 @@
 [submodule "sendmail"]
 	path = sendmail
 	url = https://github.com/atomlong/sendmail.git
+[submodule "shadowsocksr"]
+	path = shadowsocksr
+	url = https://github.com/atomlong/shadowsocksr.git
 [submodule "snappymail"]
 	path = snappymail
 	url = https://github.com/atomlong/snappymail.git
