@@ -175,6 +175,9 @@
 [submodule "libgnomeui"]
 	path = libgnomeui
 	url = https://github.com/atomlong/libgnomeui.git
+[submodule "libmega-git"]
+	path = libmega-git
+	url = https://github.com/atomlong/libmega-git.git
 [submodule "libuvc"]
 	path = libuvc
 	url = https://github.com/atomlong/libuvc.git
