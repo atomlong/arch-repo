@@ -337,6 +337,9 @@
 [submodule "webmin"]
 	path = webmin
 	url = https://github.com/atomlong/webmin.git
+[submodule "xmake"]
+	path = xmake
+	url = https://github.com/atomlong/xmake.git
 [submodule "yay"]
 	path = yay
 	url = https://github.com/atomlong/yay.git
