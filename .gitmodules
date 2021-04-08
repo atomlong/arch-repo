@@ -247,6 +247,9 @@
 [submodule "platformio"]
 	path = platformio
 	url = https://github.com/atomlong/platformio.git
+[submodule "proxychains-ng-git"]
+	path = proxychains-ng-git
+	url = https://github.com/atomlong/proxychains-ng-git.git
 [submodule "python-aiohttp"]
 	path = python-aiohttp
 	url = https://github.com/atomlong/python-aiohttp.git
