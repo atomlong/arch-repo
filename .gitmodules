@@ -178,6 +178,9 @@
 [submodule "libmega-git"]
 	path = libmega-git
 	url = https://github.com/atomlong/libmega-git.git
+[submodule "libpdfium-nojs"]
+	path = libpdfium-nojs
+	url = https://github.com/atomlong/libpdfium-nojs.git
 [submodule "libuvc"]
 	path = libuvc
 	url = https://github.com/atomlong/libuvc.git
