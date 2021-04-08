@@ -274,6 +274,9 @@
 [submodule "python-certifi"]
 	path = python-certifi
 	url = https://github.com/atomlong/python-certifi.git
+[submodule "python-jsonpath-rw"]
+	path = python-jsonpath-rw
+	url = https://github.com/atomlong/python-jsonpath-rw.git
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
