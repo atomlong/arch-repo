@@ -136,6 +136,9 @@
 [submodule "google-chrome-dev"]
 	path = google-chrome-dev
 	url = https://github.com/atomlong/google-chrome-dev.git
+[submodule "grive-git"]
+	path = grive-git
+	url = https://github.com/atomlong/grive-git.git
 [submodule "home-assistant"]
 	path = home-assistant
 	url = https://github.com/atomlong/home-assistant.git
