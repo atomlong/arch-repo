@@ -37,6 +37,9 @@
 [submodule "camorama-git"]
 	path = camorama-git
 	url = https://github.com/atomlong/camorama-git.git
+[submodule "cloudflared"]
+	path = cloudflared
+	url = https://github.com/atomlong/cloudflared.git
 [submodule "cpufrequtils"]
 	path = cpufrequtils
 	url = https://github.com/atomlong/cpufrequtils.git
