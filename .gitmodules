@@ -55,6 +55,9 @@
 [submodule "crosstool-ng-git"]
 	path = crosstool-ng-git
 	url = https://github.com/atomlong/crosstool-ng-git.git
+[submodule "dcron"]
+	path = dcron
+	url = https://github.com/atomlong/dcron.git
 [submodule "dkms-frandom"]
 	path = dkms-frandom
 	url = https://github.com/atomlong/dkms-frandom.git
