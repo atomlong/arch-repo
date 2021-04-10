@@ -58,6 +58,9 @@
 [submodule "dcron"]
 	path = dcron
 	url = https://github.com/atomlong/dcron.git
+[submodule "dcron-git"]
+	path = dcron-git
+	url = https://github.com/atomlong/dcron-git.git
 [submodule "dkms-frandom"]
 	path = dkms-frandom
 	url = https://github.com/atomlong/dkms-frandom.git
