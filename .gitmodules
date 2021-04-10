@@ -13,6 +13,9 @@
 [submodule "aurto"]
 	path = aurto
 	url = https://github.com/atomlong/aurto.git
+[submodule "ansiweather"]
+	path = ansiweather
+	url = https://github.com/atomlong/ansiweather.git
 [submodule "aurutils"]
 	path = aurutils
 	url = https://github.com/atomlong/aurutils.git
