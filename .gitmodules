@@ -94,6 +94,9 @@
 [submodule "fcitx-sogoupinyin"]
 	path = fcitx-sogoupinyin
 	url = https://github.com/atomlong/fcitx-sogoupinyin.git
+[submodule "ffx264"]
+	path = ffx264
+	url = https://github.com/atomlong/ffx264.git
 [submodule "frp"]
 	path = frp
 	url = https://github.com/atomlong/frp.git
