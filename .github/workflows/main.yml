@@ -57,7 +57,7 @@ jobs:
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        Submodules=($(git config --file .gitmodules --get-regexp path | awk '{ print $2 }'))
+        Submodules=($(git config --file .gitmodules --name-only --get-regexp path | sed -rn 's/^submodule\.(\S+)\.path\s*$/\1/p'))
         for mod in ${Submodules[@]}; do
         git submodule update --progress --remote "${mod}"
         git add "${mod}"
