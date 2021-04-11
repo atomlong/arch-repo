@@ -214,9 +214,6 @@
 [submodule "linux-armv7"]
 	path = linux-armv7
 	url = https://github.com/atomlong/linux-armv7.git
-[submodule "linux-raspberrypi4-cacule-stable"]
-	path = linux-raspberrypi4-cacule-stable
-	url = https://github.com/atomlong/linux-raspberrypi4-cacule-stable.git
 [submodule "linux-sunxi"]
 	path = linux-sunxi
 	url = https://github.com/atomlong/linux-sunxi.git
