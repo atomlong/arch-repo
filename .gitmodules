@@ -103,6 +103,9 @@
 [submodule "ffx264"]
 	path = ffx264
 	url = https://github.com/atomlong/ffx264.git
+[submodule "flashrom-git"]
+	path = flashrom-git
+	url = https://github.com/atomlong/flashrom-git.git
 [submodule "frp"]
 	path = frp
 	url = https://github.com/atomlong/frp.git
