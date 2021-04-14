@@ -88,6 +88,9 @@
 [submodule "elinks-git"]
 	path = elinks-git
 	url = https://github.com/atomlong/elinks-git.git
+[submodule "email2pdf"]
+	path = email2pdf
+	url = https://github.com/atomlong/email2pdf.git
 [submodule "esphome"]
 	path = esphome
 	url = https://github.com/atomlong/esphome.git
