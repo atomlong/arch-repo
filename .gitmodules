@@ -277,6 +277,9 @@
 [submodule "perl-encode-detect"]
 	path = perl-encode-detect
 	url = https://github.com/atomlong/perl-encode-detect.git
+[submodule "perl-pod-pom-view-restructured"]
+	path = perl-pod-pom-view-restructured
+	url = https://github.com/atomlong/perl-pod-pom-view-restructured.git
 [submodule "platformio"]
 	path = platformio
 	url = https://github.com/atomlong/platformio.git
