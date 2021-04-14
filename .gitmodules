@@ -193,6 +193,9 @@
 [submodule "libcap-git"]
 	path = libcap-git
 	url = https://github.com/atomlong/libcap-git.git
+[submodule "libchardet"]
+	path = libchardet
+	url = https://github.com/atomlong/libchardet.git
 [submodule "libgnome"]
 	path = libgnome
 	url = https://github.com/atomlong/libgnome.git
