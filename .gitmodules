@@ -310,6 +310,9 @@
 [submodule "python-netdisco"]
 	path = python-netdisco
 	url = https://github.com/atomlong/python-netdisco.git
+[submodule "python-pypdf2"]
+	path = python-pypdf2
+	url = https://github.com/atomlong/python-pypdf2.git
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
