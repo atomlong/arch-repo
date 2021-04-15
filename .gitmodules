@@ -22,6 +22,9 @@
 [submodule "bcg729-git"]
 	path = bcg729-git
 	url = https://github.com/atomlong/bcg729-git.git
+[submodule "bcmatroska2-git"]
+	path = bcmatroska2-git
+	url = https://github.com/atomlong/bcmatroska2-git.git
 [submodule "bcompare"]
 	path = bcompare
 	url = https://github.com/atomlong/bcompare.git
