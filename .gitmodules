@@ -241,6 +241,9 @@
 [submodule "linux-wifi-hotspot"]
 	path = linux-wifi-hotspot
 	url = https://github.com/atomlong/linux-wifi-hotspot.git
+[submodule "mediastreamer-git"]
+	path = mediastreamer-git
+	url = https://github.com/atomlong/mediastreamer-git.git
 [submodule "megasync"]
 	path = megasync
 	url = https://github.com/atomlong/megasync.git
