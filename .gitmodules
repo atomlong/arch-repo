@@ -382,6 +382,9 @@
 [submodule "ttf-vista-fonts"]
 	path = ttf-vista-fonts
 	url = https://github.com/atomlong/ttf-vista-fonts.git
+[submodule "ustreamer"]
+	path = ustreamer
+	url = https://github.com/atomlong/ustreamer.git
 [submodule "webcamoid"]
 	path = webcamoid
 	url = https://github.com/atomlong/webcamoid.git
