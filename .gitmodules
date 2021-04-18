@@ -172,6 +172,9 @@
 [submodule "grive-git"]
 	path = grive-git
 	url = https://github.com/atomlong/grive-git.git
+[submodule "gstreamer-git"]
+	path = gstreamer-git
+	url = https://github.com/atomlong/gstreamer-git.git
 [submodule "home-assistant"]
 	path = home-assistant
 	url = https://github.com/atomlong/home-assistant.git
