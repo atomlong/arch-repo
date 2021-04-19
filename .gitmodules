@@ -199,6 +199,9 @@
 [submodule "janus-gateway"]
 	path = janus-gateway
 	url = https://github.com/atomlong/janus-gateway.git
+[submodule "janus-gateway-git"]
+	path = janus-gateway-git
+	url = https://github.com/atomlong/janus-gateway-git.git
 [submodule "kamoso-git"]
 	path = kamoso-git
 	url = https://github.com/atomlong/kamoso-git.git
