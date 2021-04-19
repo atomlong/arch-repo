@@ -172,6 +172,9 @@
 [submodule "grive-git"]
 	path = grive-git
 	url = https://github.com/atomlong/grive-git.git
+[submodule "gst-plugins-openwebrtc"]
+	path = gst-plugins-openwebrtc
+	url = https://github.com/atomlong/gst-plugins-openwebrtc.git
 [submodule "gstreamer-git"]
 	path = gstreamer-git
 	url = https://github.com/atomlong/gstreamer-git.git
