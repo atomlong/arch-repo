@@ -427,6 +427,9 @@
 [submodule "xmake"]
 	path = xmake
 	url = https://github.com/atomlong/xmake.git
+[submodule "yaffs2utils"]
+	path = yaffs2utils
+	url = https://github.com/atomlong/yaffs2utils.git
 [submodule "yay"]
 	path = yay
 	url = https://github.com/atomlong/yay.git
