@@ -403,6 +403,9 @@
 [submodule "ssr2json"]
 	path = ssr2json
 	url = https://github.com/atomlong/ssr2json.git
+[submodule "stlink-git"]
+	path = stlink-git
+	url = https://github.com/atomlong/stlink-git.git
 [submodule "stm32flash"]
 	path = stm32flash
 	url = https://github.com/atomlong/stm32flash.git
