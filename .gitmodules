@@ -355,6 +355,9 @@
 [submodule "python-jsonpath-rw"]
 	path = python-jsonpath-rw
 	url = https://github.com/atomlong/python-jsonpath-rw.git
+[submodule "python-markupsafe"]
+	path = python-markupsafe
+	url = https://github.com/atomlong/python-markupsafe.git
 [submodule "python-netdisco"]
 	path = python-netdisco
 	url = https://github.com/atomlong/python-netdisco.git
