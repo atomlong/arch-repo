@@ -391,6 +391,12 @@
 [submodule "rclone-bin"]
 	path = rclone-bin
 	url = https://github.com/atomlong/rclone-bin.git
+[submodule "rclone-browser"]
+	path = rclone-browser
+	url = https://github.com/atomlong/rclone-browser.git
+[submodule "rclone-browser-git"]
+	path = rclone-browser-git
+	url = https://github.com/atomlong/rclone-browser-git.git
 [submodule "rclone-git"]
 	path = rclone-git
 	url = https://github.com/atomlong/rclone-git.git
