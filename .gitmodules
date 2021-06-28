@@ -88,6 +88,9 @@
 [submodule "drone-cli"]
 	path = drone-cli
 	url = https://github.com/atomlong/drone-cli.git
+[submodule "drone-cli-git"]
+	path = drone-cli-git
+	url = https://github.com/atomlong/drone-cli-git.git
 [submodule "drone-runner-docker"]
 	path = drone-runner-docker
 	url = https://github.com/atomlong/drone-runner-docker.git
