@@ -76,6 +76,9 @@
 [submodule "docker-systemctl-replacement-git"]
 	path = docker-systemctl-replacement-git
 	url = https://github.com/atomlong/docker-systemctl-replacement-git.git
+[submodule "dokuwiki-git"]
+	path = dokuwiki-git
+	url = https://github.com/atomlong/dokuwiki-git.git
 [submodule "droidcam"]
 	path = droidcam
 	url = https://github.com/atomlong/droidcam.git
