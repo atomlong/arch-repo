@@ -79,6 +79,9 @@
 [submodule "dokuwiki-git"]
 	path = dokuwiki-git
 	url = https://github.com/atomlong/dokuwiki-git.git
+[submodule "dokuwiki-plugin-dw2pdf"]
+	path = dokuwiki-plugin-dw2pdf
+	url = https://github.com/atomlong/dokuwiki-plugin-dw2pdf.git
 [submodule "droidcam"]
 	path = droidcam
 	url = https://github.com/atomlong/droidcam.git
