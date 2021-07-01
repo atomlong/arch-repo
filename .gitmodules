@@ -256,6 +256,9 @@
 [submodule "libpdfium-nojs"]
 	path = libpdfium-nojs
 	url = https://github.com/atomlong/libpdfium-nojs.git
+[submodule "libsepol"]
+	path = libsepol
+	url = https://github.com/atomlong/libsepol.git
 [submodule "libusrsctp"]
 	path = libusrsctp
 	url = https://github.com/atomlong/libusrsctp.git
