@@ -361,6 +361,9 @@
 [submodule "platformio"]
 	path = platformio
 	url = https://github.com/atomlong/platformio.git
+[submodule "plowshare-git"]
+	path = plowshare-git
+	url = https://github.com/atomlong/plowshare-git.git
 [submodule "pnpm"]
 	path = pnpm
 	url = https://github.com/atomlong/pnpm.git
