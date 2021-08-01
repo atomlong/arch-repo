@@ -58,6 +58,9 @@
 [submodule "cloudflared"]
 	path = cloudflared
 	url = https://github.com/atomlong/cloudflared.git
+[submodule "cloudflare-wrangler"]
+	path = cloudflare-wrangler
+	url = https://github.com/atomlong/cloudflare-wrangler.git
 [submodule "cpufrequtils"]
 	path = cpufrequtils
 	url = https://github.com/atomlong/cpufrequtils.git
