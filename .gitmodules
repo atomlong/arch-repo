@@ -313,6 +313,9 @@
 [submodule "nginx-rtmp-sergey-git"]
 	path = nginx-rtmp-sergey-git
 	url = https://github.com/atomlong/nginx-rtmp-sergey-git.git
+[submodule "ntpdate"]
+	path = ntpdate
+	url = https://github.com/atomlong/ntpdate.git
 [submodule "octopi"]
 	path = octopi
 	url = https://github.com/atomlong/octopi.git
