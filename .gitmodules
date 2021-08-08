@@ -310,6 +310,9 @@
 [submodule "mingw-w64-configure"]
 	path = mingw-w64-configure
 	url = https://github.com/atomlong/mingw-w64-configure.git
+[submodule "mingw-w64-dlfcn"]
+	path = mingw-w64-dlfcn
+	url = https://github.com/atomlong/mingw-w64-dlfcn.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
