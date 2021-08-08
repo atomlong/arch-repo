@@ -352,6 +352,9 @@
 [submodule "mingw-w64-readline"]
 	path = mingw-w64-readline
 	url = https://github.com/atomlong/mingw-w64-readline.git
+[submodule "mingw-w64-termcap"]
+	path = mingw-w64-termcap
+	url = https://github.com/atomlong/mingw-w64-termcap.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
