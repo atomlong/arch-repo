@@ -301,6 +301,9 @@
 [submodule "megasync"]
 	path = megasync
 	url = https://github.com/atomlong/megasync.git
+[submodule "mingw-w64-adwaita-icon-theme"]
+	path = mingw-w64-adwaita-icon-theme
+	url = https://github.com/atomlong/mingw-w64-adwaita-icon-theme.git
 [submodule "mingw-w64-bzip2"]
 	path = mingw-w64-bzip2
 	url = https://github.com/atomlong/mingw-w64-bzip2.git
