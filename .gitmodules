@@ -349,6 +349,9 @@
 [submodule "mingw-w64-pkg-config"]
 	path = mingw-w64-pkg-config
 	url = https://github.com/atomlong/mingw-w64-pkg-config.git
+[submodule "mingw-w64-readline"]
+	path = mingw-w64-readline
+	url = https://github.com/atomlong/mingw-w64-readline.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
