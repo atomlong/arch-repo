@@ -322,6 +322,9 @@
 [submodule "mingw-w64-gdb"]
 	path = mingw-w64-gdb
 	url = https://github.com/atomlong/mingw-w64-gdb.git
+[submodule "mingw-w64-gettext"]
+	path = mingw-w64-gettext
+	url = https://github.com/atomlong/mingw-w64-gettext.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
