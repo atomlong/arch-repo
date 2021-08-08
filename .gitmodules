@@ -334,6 +334,9 @@
 [submodule "mingw-w64-libiconv"]
 	path = mingw-w64-libiconv
 	url = https://github.com/atomlong/mingw-w64-libiconv.git
+[submodule "mingw-w64-libunistring"]
+	path = mingw-w64-libunistring
+	url = https://github.com/atomlong/mingw-w64-libunistring.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
