@@ -343,6 +343,9 @@
 [submodule "mingw-w64-pcre"]
 	path = mingw-w64-pcre
 	url = https://github.com/atomlong/mingw-w64-pcre.git
+[submodule "mingw-w64-pdcurses"]
+	path = mingw-w64-pdcurses
+	url = https://github.com/atomlong/mingw-w64-pdcurses.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
