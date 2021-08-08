@@ -325,6 +325,9 @@
 [submodule "mingw-w64-gettext"]
 	path = mingw-w64-gettext
 	url = https://github.com/atomlong/mingw-w64-gettext.git
+[submodule "mingw-w64-glib2"]
+	path = mingw-w64-glib2
+	url = https://github.com/atomlong/mingw-w64-glib2.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
