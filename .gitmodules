@@ -307,6 +307,9 @@
 [submodule "mingw-w64-cmake"]
 	path = mingw-w64-cmake
 	url = https://github.com/atomlong/mingw-w64-cmake.git
+[submodule "mingw-w64-configure"]
+	path = mingw-w64-configure
+	url = https://github.com/atomlong/mingw-w64-configure.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
