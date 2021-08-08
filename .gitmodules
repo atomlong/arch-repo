@@ -355,6 +355,9 @@
 [submodule "mingw-w64-termcap"]
 	path = mingw-w64-termcap
 	url = https://github.com/atomlong/mingw-w64-termcap.git
+[submodule "mingw-w64-wine"]
+	path = mingw-w64-wine
+	url = https://github.com/atomlong/mingw-w64-wine.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
