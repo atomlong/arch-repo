@@ -16,8 +16,8 @@ jobs:
     if: github.event.repository.owner.id == github.event.sender.id
     env:
       RCLONE_CONF:  ${{ secrets.RCLONE_CONF }}
-      PGP_PUBLIC_KEY:   ${{ secrets.PGP_PUBLIC_KEY }}
-      PGP_EMAIL:    ${{ secrets.PGP_EMAIL }}
+      ZIP_PASSWD:   ${{ secrets.ZIP_PASSWD }}
+      ZIP_COMMENT:    ${{ secrets.ZIP_COMMENT }}
       DEPLOY_PATH:  ${{ secrets.DEPLOY_PATH }}
     steps:
     - name: Checkout
@@ -27,7 +27,7 @@ jobs:
     - name: Refresh access token
       id: refresh
       run: |
-        sudo apt install rclone -y
+        sudo apt install rclone zip -y
         RCLONE_CONFIG_PATH=$(rclone config file | tail -n1)
         mkdir -pv $(dirname ${RCLONE_CONFIG_PATH})
         [ $(awk 'END{print NR}' <<< "${RCLONE_CONF}") == 1 ] &&
@@ -37,10 +37,13 @@ jobs:
         for remote in ${REMOTES[@]}; do
         rclone lsd ${remote} &>/dev/null
         done
-        gpg --import <<< "${PGP_PUBLIC_KEY}"
-        gpg --encrypt --always-trust --recipient ${PGP_EMAIL} ${RCLONE_CONFIG_PATH}
-        [ -f ${RCLONE_CONFIG_PATH}.gpg ] && {
-        rclone copy ${RCLONE_CONFIG_PATH}.gpg ${DEPLOY_PATH}
+        rm -f rclone.config.zip
+        zip -z -P "${ZIP_PASSWD}" -j rclone.config.zip ${RCLONE_CONFIG_PATH} << EOF
+        ${ZIP_COMMENT}
+        .
+        EOF
+        [ -f rclone.config.zip ] && {
+        rclone copy rclone.config.zip ${DEPLOY_PATH}
         }
         RCLONE_CONFIG_NEW=$(base64 ${RCLONE_CONFIG_PATH} | tr '\n' '\0')
         echo ::set-output name=rclone_config::${RCLONE_CONFIG_NEW}
