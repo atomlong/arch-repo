@@ -790,6 +790,9 @@
 [submodule "mingw-w64-stb-git"]
 	path = mingw-w64-stb-git
 	url = https://github.com/atomlong/mingw-w64-stb-git.git
+[submodule "mingw-w64-szip"]
+	path = mingw-w64-szip
+	url = https://github.com/atomlong/mingw-w64-szip.git
 [submodule "mingw-w64-tbb"]
 	path = mingw-w64-tbb
 	url = https://github.com/atomlong/mingw-w64-tbb.git
