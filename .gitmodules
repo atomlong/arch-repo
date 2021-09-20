@@ -1108,6 +1108,9 @@
 [submodule "mingw-w64-qhull"]
 	path = mingw-w64-qhull
 	url = https://github.com/atomlong/mingw-w64-qhull.git
+[submodule "mingw-w64-qrencode"]
+	path = mingw-w64-qrencode
+	url = https://github.com/atomlong/mingw-w64-qrencode.git
 [submodule "mingw-w64-qscintilla-qt5"]
 	path = mingw-w64-qscintilla-qt5
 	url = https://github.com/atomlong/mingw-w64-qscintilla-qt5.git
