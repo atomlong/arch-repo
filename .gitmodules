@@ -946,6 +946,9 @@
 [submodule "mingw-w64-libsamplerate"]
 	path = mingw-w64-libsamplerate
 	url = https://github.com/atomlong/mingw-w64-libsamplerate.git
+[submodule "mingw-w64-libsass"]
+	path = mingw-w64-libsass
+	url = https://github.com/atomlong/mingw-w64-libsass.git
 [submodule "mingw-w64-libsearpc"]
 	path = mingw-w64-libsearpc
 	url = https://github.com/atomlong/mingw-w64-libsearpc.git
