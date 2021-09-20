@@ -466,6 +466,9 @@
 [submodule "mingw-w64-environment"]
 	path = mingw-w64-environment
 	url = https://github.com/atomlong/mingw-w64-environment.git
+[submodule "mingw-w64-evince-light"]
+	path = mingw-w64-evince-light
+	url = https://github.com/atomlong/mingw-w64-evince-light.git
 [submodule "mingw-w64-exiv2"]
 	path = mingw-w64-exiv2
 	url = https://github.com/atomlong/mingw-w64-exiv2.git
