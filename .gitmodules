@@ -2191,6 +2191,9 @@
 [submodule "python-pypdf2"]
 	path = python-pypdf2
 	url = https://github.com/atomlong/python-pypdf2.git
+[submodule "python-pyperclip-git"]
+	path = python-pyperclip-git
+	url = https://github.com/atomlong/python-pyperclip-git.git
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
