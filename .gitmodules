@@ -805,6 +805,9 @@
 [submodule "mingw-w64-qt6-declarative"]
 	path = mingw-w64-qt6-declarative
 	url = https://github.com/atomlong/mingw-w64-qt6-declarative.git
+[submodule "mingw-w64-qt6-quicktimeline"]
+	path = mingw-w64-qt6-quicktimeline
+	url = https://github.com/atomlong/mingw-w64-qt6-quicktimeline.git
 [submodule "mingw-w64-qt6-shadertools"]
 	path = mingw-w64-qt6-shadertools
 	url = https://github.com/atomlong/mingw-w64-qt6-shadertools.git
