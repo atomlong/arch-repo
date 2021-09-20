@@ -1936,6 +1936,9 @@
 [submodule "mingw-w64-xerces-c"]
 	path = mingw-w64-xerces-c
 	url = https://github.com/atomlong/mingw-w64-xerces-c.git
+[submodule "mingw-w64-xerces-c-icu"]
+	path = mingw-w64-xerces-c-icu
+	url = https://github.com/atomlong/mingw-w64-xerces-c-icu.git
 [submodule "mingw-w64-xgboost"]
 	path = mingw-w64-xgboost
 	url = https://github.com/atomlong/mingw-w64-xgboost.git
