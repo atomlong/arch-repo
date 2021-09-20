@@ -400,6 +400,9 @@
 [submodule "mingw-w64-dav1d"]
 	path = mingw-w64-dav1d
 	url = https://github.com/atomlong/mingw-w64-dav1d.git
+[submodule "mingw-w64-dbh"]
+	path = mingw-w64-dbh
+	url = https://github.com/atomlong/mingw-w64-dbh.git
 [submodule "mingw-w64-dbus-c-"]
 	path = mingw-w64-dbus-c-
 	url = https://github.com/atomlong/mingw-w64-dbus-c-.git
