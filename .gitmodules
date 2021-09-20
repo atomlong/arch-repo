@@ -373,6 +373,9 @@
 [submodule "mingw-w64-pkg-config"]
 	path = mingw-w64-pkg-config
 	url = https://github.com/atomlong/mingw-w64-pkg-config.git
+[submodule "mingw-w64-qt5-scxml"]
+	path = mingw-w64-qt5-scxml
+	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
 [submodule "mingw-w64-readline"]
 	path = mingw-w64-readline
 	url = https://github.com/atomlong/mingw-w64-readline.git
