@@ -316,6 +316,9 @@
 [submodule "mingw-w64-aom"]
 	path = mingw-w64-aom
 	url = https://github.com/atomlong/mingw-w64-aom.git
+[submodule "mingw-w64-asio"]
+	path = mingw-w64-asio
+	url = https://github.com/atomlong/mingw-w64-asio.git
 [submodule "mingw-w64-asmjit"]
 	path = mingw-w64-asmjit
 	url = https://github.com/atomlong/mingw-w64-asmjit.git
