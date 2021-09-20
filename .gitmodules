@@ -340,6 +340,9 @@
 [submodule "mingw-w64-hicolor-icon-theme"]
 	path = mingw-w64-hicolor-icon-theme
 	url = https://github.com/atomlong/mingw-w64-hicolor-icon-theme.git
+[submodule "mingw-w64-libconfig"]
+	path = mingw-w64-libconfig
+	url = https://github.com/atomlong/mingw-w64-libconfig.git
 [submodule "mingw-w64-libffi"]
 	path = mingw-w64-libffi
 	url = https://github.com/atomlong/mingw-w64-libffi.git
