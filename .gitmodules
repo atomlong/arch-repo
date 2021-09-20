@@ -934,6 +934,9 @@
 [submodule "mingw-w64-libsigc-"]
 	path = mingw-w64-libsigc-
 	url = https://github.com/atomlong/mingw-w64-libsigc-.git
+[submodule "mingw-w64-libsmf"]
+	path = mingw-w64-libsmf
+	url = https://github.com/atomlong/mingw-w64-libsmf.git
 [submodule "mingw-w64-libsndfile"]
 	path = mingw-w64-libsndfile
 	url = https://github.com/atomlong/mingw-w64-libsndfile.git
