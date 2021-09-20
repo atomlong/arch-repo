@@ -397,6 +397,9 @@
 [submodule "mingw-w64-fann"]
 	path = mingw-w64-fann
 	url = https://github.com/atomlong/mingw-w64-fann.git
+[submodule "mingw-w64-fcgi"]
+	path = mingw-w64-fcgi
+	url = https://github.com/atomlong/mingw-w64-fcgi.git
 [submodule "mingw-w64-fftw-bin"]
 	path = mingw-w64-fftw-bin
 	url = https://github.com/atomlong/mingw-w64-fftw-bin.git
