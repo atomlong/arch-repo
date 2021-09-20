@@ -334,6 +334,9 @@
 [submodule "mingw-w64-async--git"]
 	path = mingw-w64-async--git
 	url = https://github.com/atomlong/mingw-w64-async--git.git
+[submodule "mingw-w64-atk"]
+	path = mingw-w64-atk
+	url = https://github.com/atomlong/mingw-w64-atk.git
 [submodule "mingw-w64-bcunit"]
 	path = mingw-w64-bcunit
 	url = https://github.com/atomlong/mingw-w64-bcunit.git
