@@ -616,6 +616,9 @@
 [submodule "mingw-w64-mumps"]
 	path = mingw-w64-mumps
 	url = https://github.com/atomlong/mingw-w64-mumps.git
+[submodule "mingw-w64-ncurses"]
+	path = mingw-w64-ncurses
+	url = https://github.com/atomlong/mingw-w64-ncurses.git
 [submodule "mingw-w64-netcdf"]
 	path = mingw-w64-netcdf
 	url = https://github.com/atomlong/mingw-w64-netcdf.git
