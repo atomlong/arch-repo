@@ -58,6 +58,9 @@
 [submodule "c-utilities-doc"]
 	path = c-utilities-doc
 	url = https://github.com/atomlong/c-utilities-doc.git
+[submodule "c-utilities-git"]
+	path = c-utilities-git
+	url = https://github.com/atomlong/c-utilities-git.git
 [submodule "camorama"]
 	path = camorama
 	url = https://github.com/atomlong/camorama.git
