@@ -661,6 +661,9 @@
 [submodule "mingw-w64-speex"]
 	path = mingw-w64-speex
 	url = https://github.com/atomlong/mingw-w64-speex.git
+[submodule "mingw-w64-sphinxbase"]
+	path = mingw-w64-sphinxbase
+	url = https://github.com/atomlong/mingw-w64-sphinxbase.git
 [submodule "mingw-w64-spirv-cross"]
 	path = mingw-w64-spirv-cross
 	url = https://github.com/atomlong/mingw-w64-spirv-cross.git
