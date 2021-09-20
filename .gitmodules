@@ -658,6 +658,9 @@
 [submodule "mingw-w64-libgnurx"]
 	path = mingw-w64-libgnurx
 	url = https://github.com/atomlong/mingw-w64-libgnurx.git
+[submodule "mingw-w64-libgpg-error"]
+	path = mingw-w64-libgpg-error
+	url = https://github.com/atomlong/mingw-w64-libgpg-error.git
 [submodule "mingw-w64-libharu"]
 	path = mingw-w64-libharu
 	url = https://github.com/atomlong/mingw-w64-libharu.git
