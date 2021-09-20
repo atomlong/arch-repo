@@ -817,6 +817,9 @@
 [submodule "mingw-w64-qt6-base"]
 	path = mingw-w64-qt6-base
 	url = https://github.com/atomlong/mingw-w64-qt6-base.git
+[submodule "mingw-w64-qt6-datavis3d"]
+	path = mingw-w64-qt6-datavis3d
+	url = https://github.com/atomlong/mingw-w64-qt6-datavis3d.git
 [submodule "mingw-w64-qt6-declarative"]
 	path = mingw-w64-qt6-declarative
 	url = https://github.com/atomlong/mingw-w64-qt6-declarative.git
