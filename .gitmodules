@@ -466,6 +466,9 @@
 [submodule "mingw-w64-fftw-bin"]
 	path = mingw-w64-fftw-bin
 	url = https://github.com/atomlong/mingw-w64-fftw-bin.git
+[submodule "mingw-w64-flac"]
+	path = mingw-w64-flac
+	url = https://github.com/atomlong/mingw-w64-flac.git
 [submodule "mingw-w64-flex-wrapper"]
 	path = mingw-w64-flex-wrapper
 	url = https://github.com/atomlong/mingw-w64-flex-wrapper.git
