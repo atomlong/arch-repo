@@ -1711,6 +1711,9 @@
 [submodule "mingw-w64-serd"]
 	path = mingw-w64-serd
 	url = https://github.com/atomlong/mingw-w64-serd.git
+[submodule "mingw-w64-shaderc"]
+	path = mingw-w64-shaderc
+	url = https://github.com/atomlong/mingw-w64-shaderc.git
 [submodule "mingw-w64-shared-mime-info-bin"]
 	path = mingw-w64-shared-mime-info-bin
 	url = https://github.com/atomlong/mingw-w64-shared-mime-info-bin.git
