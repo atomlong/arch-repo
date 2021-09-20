@@ -361,6 +361,9 @@
 [submodule "mingw-w64-cminpack"]
 	path = mingw-w64-cminpack
 	url = https://github.com/atomlong/mingw-w64-cminpack.git
+[submodule "mingw-w64-coin-or-csdp"]
+	path = mingw-w64-coin-or-csdp
+	url = https://github.com/atomlong/mingw-w64-coin-or-csdp.git
 [submodule "mingw-w64-configure"]
 	path = mingw-w64-configure
 	url = https://github.com/atomlong/mingw-w64-configure.git
