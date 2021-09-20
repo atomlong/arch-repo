@@ -676,6 +676,9 @@
 [submodule "mingw-w64-python38-bin"]
 	path = mingw-w64-python38-bin
 	url = https://github.com/atomlong/mingw-w64-python38-bin.git
+[submodule "mingw-w64-qt5-connectivity"]
+	path = mingw-w64-qt5-connectivity
+	url = https://github.com/atomlong/mingw-w64-qt5-connectivity.git
 [submodule "mingw-w64-qt5-datavis3d"]
 	path = mingw-w64-qt5-datavis3d
 	url = https://github.com/atomlong/mingw-w64-qt5-datavis3d.git
