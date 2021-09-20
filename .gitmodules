@@ -430,6 +430,9 @@
 [submodule "mingw-w64-giflib"]
 	path = mingw-w64-giflib
 	url = https://github.com/atomlong/mingw-w64-giflib.git
+[submodule "mingw-w64-glib-networking"]
+	path = mingw-w64-glib-networking
+	url = https://github.com/atomlong/mingw-w64-glib-networking.git
 [submodule "mingw-w64-glib2"]
 	path = mingw-w64-glib2
 	url = https://github.com/atomlong/mingw-w64-glib2.git
