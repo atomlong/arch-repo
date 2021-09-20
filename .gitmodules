@@ -1612,6 +1612,9 @@
 [submodule "mingw-w64-wineditline"]
 	path = mingw-w64-wineditline
 	url = https://github.com/atomlong/mingw-w64-wineditline.git
+[submodule "mingw-w64-wxmsw"]
+	path = mingw-w64-wxmsw
+	url = https://github.com/atomlong/mingw-w64-wxmsw.git
 [submodule "mingw-w64-x264-bootstrap"]
 	path = mingw-w64-x264-bootstrap
 	url = https://github.com/atomlong/mingw-w64-x264-bootstrap.git
