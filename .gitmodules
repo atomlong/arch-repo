@@ -349,6 +349,9 @@
 [submodule "mingw-w64-gettext"]
 	path = mingw-w64-gettext
 	url = https://github.com/atomlong/mingw-w64-gettext.git
+[submodule "mingw-w64-gfsm"]
+	path = mingw-w64-gfsm
+	url = https://github.com/atomlong/mingw-w64-gfsm.git
 [submodule "mingw-w64-glib2"]
 	path = mingw-w64-glib2
 	url = https://github.com/atomlong/mingw-w64-glib2.git
