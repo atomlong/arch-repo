@@ -499,6 +499,9 @@
 [submodule "mingw-w64-qt5-datavis3d"]
 	path = mingw-w64-qt5-datavis3d
 	url = https://github.com/atomlong/mingw-w64-qt5-datavis3d.git
+[submodule "mingw-w64-qt5-location"]
+	path = mingw-w64-qt5-location
+	url = https://github.com/atomlong/mingw-w64-qt5-location.git
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
