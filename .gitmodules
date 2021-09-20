@@ -943,6 +943,9 @@
 [submodule "mingw-w64-qt6-networkauth"]
 	path = mingw-w64-qt6-networkauth
 	url = https://github.com/atomlong/mingw-w64-qt6-networkauth.git
+[submodule "mingw-w64-qt6-networkauth-static"]
+	path = mingw-w64-qt6-networkauth-static
+	url = https://github.com/atomlong/mingw-w64-qt6-networkauth-static.git
 [submodule "mingw-w64-qt6-quickcontrols2"]
 	path = mingw-w64-qt6-quickcontrols2
 	url = https://github.com/atomlong/mingw-w64-qt6-quickcontrols2.git
