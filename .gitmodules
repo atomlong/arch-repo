@@ -1396,6 +1396,9 @@
 [submodule "mingw-w64-qt6-declarative-static"]
 	path = mingw-w64-qt6-declarative-static
 	url = https://github.com/atomlong/mingw-w64-qt6-declarative-static.git
+[submodule "mingw-w64-qt6-lottie"]
+	path = mingw-w64-qt6-lottie
+	url = https://github.com/atomlong/mingw-w64-qt6-lottie.git
 [submodule "mingw-w64-qt6-lottie-static"]
 	path = mingw-w64-qt6-lottie-static
 	url = https://github.com/atomlong/mingw-w64-qt6-lottie-static.git
