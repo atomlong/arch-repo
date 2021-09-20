@@ -562,6 +562,9 @@
 [submodule "mingw-w64-libmodbus"]
 	path = mingw-w64-libmodbus
 	url = https://github.com/atomlong/mingw-w64-libmodbus.git
+[submodule "mingw-w64-libmodbus-dev"]
+	path = mingw-w64-libmodbus-dev
+	url = https://github.com/atomlong/mingw-w64-libmodbus-dev.git
 [submodule "mingw-w64-libmodplug"]
 	path = mingw-w64-libmodplug
 	url = https://github.com/atomlong/mingw-w64-libmodplug.git
