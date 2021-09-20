@@ -2173,6 +2173,9 @@
 [submodule "python-netdisco"]
 	path = python-netdisco
 	url = https://github.com/atomlong/python-netdisco.git
+[submodule "python-npyscreen"]
+	path = python-npyscreen
+	url = https://github.com/atomlong/python-npyscreen.git
 [submodule "python-pyexecjs"]
 	path = python-pyexecjs
 	url = https://github.com/atomlong/python-pyexecjs.git
