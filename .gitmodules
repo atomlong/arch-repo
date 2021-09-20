@@ -487,6 +487,9 @@
 [submodule "mingw-w64-gst-plugins-base"]
 	path = mingw-w64-gst-plugins-base
 	url = https://github.com/atomlong/mingw-w64-gst-plugins-base.git
+[submodule "mingw-w64-gst-plugins-base-git"]
+	path = mingw-w64-gst-plugins-base-git
+	url = https://github.com/atomlong/mingw-w64-gst-plugins-base-git.git
 [submodule "mingw-w64-gstreamer"]
 	path = mingw-w64-gstreamer
 	url = https://github.com/atomlong/mingw-w64-gstreamer.git
