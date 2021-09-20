@@ -370,6 +370,9 @@
 [submodule "mingw-w64-cminpack"]
 	path = mingw-w64-cminpack
 	url = https://github.com/atomlong/mingw-w64-cminpack.git
+[submodule "mingw-w64-cmocka"]
+	path = mingw-w64-cmocka
+	url = https://github.com/atomlong/mingw-w64-cmocka.git
 [submodule "mingw-w64-coin-or-asl"]
 	path = mingw-w64-coin-or-asl
 	url = https://github.com/atomlong/mingw-w64-coin-or-asl.git
