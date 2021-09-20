@@ -679,6 +679,9 @@
 [submodule "mingw-w64-libkate"]
 	path = mingw-w64-libkate
 	url = https://github.com/atomlong/mingw-w64-libkate.git
+[submodule "mingw-w64-libksba"]
+	path = mingw-w64-libksba
+	url = https://github.com/atomlong/mingw-w64-libksba.git
 [submodule "mingw-w64-liblo"]
 	path = mingw-w64-liblo
 	url = https://github.com/atomlong/mingw-w64-liblo.git
