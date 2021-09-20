@@ -1222,6 +1222,9 @@
 [submodule "mingw-w64-openimagedenoise-bin"]
 	path = mingw-w64-openimagedenoise-bin
 	url = https://github.com/atomlong/mingw-w64-openimagedenoise-bin.git
+[submodule "mingw-w64-openimageio"]
+	path = mingw-w64-openimageio
+	url = https://github.com/atomlong/mingw-w64-openimageio.git
 [submodule "mingw-w64-openlibm"]
 	path = mingw-w64-openlibm
 	url = https://github.com/atomlong/mingw-w64-openlibm.git
