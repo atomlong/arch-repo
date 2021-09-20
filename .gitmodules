@@ -352,6 +352,9 @@
 [submodule "mingw-w64-configure"]
 	path = mingw-w64-configure
 	url = https://github.com/atomlong/mingw-w64-configure.git
+[submodule "mingw-w64-coveo-linq-git"]
+	path = mingw-w64-coveo-linq-git
+	url = https://github.com/atomlong/mingw-w64-coveo-linq-git.git
 [submodule "mingw-w64-dbus-c-"]
 	path = mingw-w64-dbus-c-
 	url = https://github.com/atomlong/mingw-w64-dbus-c-.git
