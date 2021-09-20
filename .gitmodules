@@ -820,6 +820,9 @@
 [submodule "mingw-w64-libxdiff"]
 	path = mingw-w64-libxdiff
 	url = https://github.com/atomlong/mingw-w64-libxdiff.git
+[submodule "mingw-w64-libxslt"]
+	path = mingw-w64-libxslt
+	url = https://github.com/atomlong/mingw-w64-libxslt.git
 [submodule "mingw-w64-libyaml"]
 	path = mingw-w64-libyaml
 	url = https://github.com/atomlong/mingw-w64-libyaml.git
