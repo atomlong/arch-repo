@@ -871,6 +871,9 @@
 [submodule "mingw-w64-mumps"]
 	path = mingw-w64-mumps
 	url = https://github.com/atomlong/mingw-w64-mumps.git
+[submodule "mingw-w64-mygui"]
+	path = mingw-w64-mygui
+	url = https://github.com/atomlong/mingw-w64-mygui.git
 [submodule "mingw-w64-nauty"]
 	path = mingw-w64-nauty
 	url = https://github.com/atomlong/mingw-w64-nauty.git
