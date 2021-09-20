@@ -595,6 +595,9 @@
 [submodule "mingw-w64-jsoncpp"]
 	path = mingw-w64-jsoncpp
 	url = https://github.com/atomlong/mingw-w64-jsoncpp.git
+[submodule "mingw-w64-kcodecs"]
+	path = mingw-w64-kcodecs
+	url = https://github.com/atomlong/mingw-w64-kcodecs.git
 [submodule "mingw-w64-kcoreaddons"]
 	path = mingw-w64-kcoreaddons
 	url = https://github.com/atomlong/mingw-w64-kcoreaddons.git
