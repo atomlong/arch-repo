@@ -985,6 +985,9 @@
 [submodule "mingw-w64-nettle"]
 	path = mingw-w64-nettle
 	url = https://github.com/atomlong/mingw-w64-nettle.git
+[submodule "mingw-w64-nfft"]
+	path = mingw-w64-nfft
+	url = https://github.com/atomlong/mingw-w64-nfft.git
 [submodule "mingw-w64-nlohmann-json"]
 	path = mingw-w64-nlohmann-json
 	url = https://github.com/atomlong/mingw-w64-nlohmann-json.git
