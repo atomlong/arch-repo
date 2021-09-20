@@ -502,6 +502,9 @@
 [submodule "mingw-w64-libmodplug"]
 	path = mingw-w64-libmodplug
 	url = https://github.com/atomlong/mingw-w64-libmodplug.git
+[submodule "mingw-w64-libnumbertext"]
+	path = mingw-w64-libnumbertext
+	url = https://github.com/atomlong/mingw-w64-libnumbertext.git
 [submodule "mingw-w64-librsvg-bin"]
 	path = mingw-w64-librsvg-bin
 	url = https://github.com/atomlong/mingw-w64-librsvg-bin.git
