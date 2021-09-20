@@ -1159,6 +1159,9 @@
 [submodule "mingw-w64-qtutilities"]
 	path = mingw-w64-qtutilities
 	url = https://github.com/atomlong/mingw-w64-qtutilities.git
+[submodule "mingw-w64-qwt"]
+	path = mingw-w64-qwt
+	url = https://github.com/atomlong/mingw-w64-qwt.git
 [submodule "mingw-w64-qwt-qt6"]
 	path = mingw-w64-qwt-qt6
 	url = https://github.com/atomlong/mingw-w64-qwt-qt6.git
