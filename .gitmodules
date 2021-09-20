@@ -787,6 +787,9 @@
 [submodule "mingw-w64-qt6-base"]
 	path = mingw-w64-qt6-base
 	url = https://github.com/atomlong/mingw-w64-qt6-base.git
+[submodule "mingw-w64-qt6-shadertools"]
+	path = mingw-w64-qt6-shadertools
+	url = https://github.com/atomlong/mingw-w64-qt6-shadertools.git
 [submodule "mingw-w64-qt6-svg"]
 	path = mingw-w64-qt6-svg
 	url = https://github.com/atomlong/mingw-w64-qt6-svg.git
