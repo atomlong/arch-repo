@@ -1234,6 +1234,9 @@
 [submodule "ustreamer"]
 	path = ustreamer
 	url = https://github.com/atomlong/ustreamer.git
+[submodule "v2ray-git"]
+	path = v2ray-git
+	url = https://github.com/atomlong/v2ray-git.git
 [submodule "webcamoid"]
 	path = webcamoid
 	url = https://github.com/atomlong/webcamoid.git
