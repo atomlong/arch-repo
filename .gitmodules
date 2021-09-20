@@ -28,6 +28,9 @@
 [submodule "aurutils"]
 	path = aurutils
 	url = https://github.com/atomlong/aurutils.git
+[submodule "automake-1.11"]
+	path = automake-1.11
+	url = https://github.com/atomlong/automake-1.11.git
 [submodule "bcg729-git"]
 	path = bcg729-git
 	url = https://github.com/atomlong/bcg729-git.git
