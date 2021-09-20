@@ -2200,6 +2200,9 @@
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
+[submodule "python2-ruamel-yaml"]
+	path = python2-ruamel-yaml
+	url = https://github.com/atomlong/python2-ruamel-yaml.git
 [submodule "qemu-user-static"]
 	path = qemu-user-static
 	url = https://github.com/atomlong/qemu-user-static.git
