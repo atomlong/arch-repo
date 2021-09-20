@@ -514,6 +514,9 @@
 [submodule "mingw-w64-potrace"]
 	path = mingw-w64-potrace
 	url = https://github.com/atomlong/mingw-w64-potrace.git
+[submodule "mingw-w64-pugixml"]
+	path = mingw-w64-pugixml
+	url = https://github.com/atomlong/mingw-w64-pugixml.git
 [submodule "mingw-w64-python27-bin"]
 	path = mingw-w64-python27-bin
 	url = https://github.com/atomlong/mingw-w64-python27-bin.git
