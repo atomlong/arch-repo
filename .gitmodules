@@ -52,6 +52,9 @@
 [submodule "buildbot-www-git"]
 	path = buildbot-www-git
 	url = https://github.com/atomlong/buildbot-www-git.git
+[submodule "c-utilities"]
+	path = c-utilities
+	url = https://github.com/atomlong/c-utilities.git
 [submodule "c-utilities-doc"]
 	path = c-utilities-doc
 	url = https://github.com/atomlong/c-utilities-doc.git
