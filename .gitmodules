@@ -367,6 +367,9 @@
 [submodule "mingw-w64-libiconv"]
 	path = mingw-w64-libiconv
 	url = https://github.com/atomlong/mingw-w64-libiconv.git
+[submodule "mingw-w64-libsrtp"]
+	path = mingw-w64-libsrtp
+	url = https://github.com/atomlong/mingw-w64-libsrtp.git
 [submodule "mingw-w64-libunistring"]
 	path = mingw-w64-libunistring
 	url = https://github.com/atomlong/mingw-w64-libunistring.git
