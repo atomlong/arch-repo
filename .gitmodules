@@ -460,6 +460,9 @@
 [submodule "mingw-w64-gdb"]
 	path = mingw-w64-gdb
 	url = https://github.com/atomlong/mingw-w64-gdb.git
+[submodule "mingw-w64-gdk-pixbuf2-bin"]
+	path = mingw-w64-gdk-pixbuf2-bin
+	url = https://github.com/atomlong/mingw-w64-gdk-pixbuf2-bin.git
 [submodule "mingw-w64-geos"]
 	path = mingw-w64-geos
 	url = https://github.com/atomlong/mingw-w64-geos.git
