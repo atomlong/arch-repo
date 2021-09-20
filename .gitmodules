@@ -769,6 +769,9 @@
 [submodule "mingw-w64-opus"]
 	path = mingw-w64-opus
 	url = https://github.com/atomlong/mingw-w64-opus.git
+[submodule "mingw-w64-opusfile"]
+	path = mingw-w64-opusfile
+	url = https://github.com/atomlong/mingw-w64-opusfile.git
 [submodule "mingw-w64-orc"]
 	path = mingw-w64-orc
 	url = https://github.com/atomlong/mingw-w64-orc.git
