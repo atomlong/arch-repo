@@ -391,6 +391,9 @@
 [submodule "mingw-w64-pkg-config"]
 	path = mingw-w64-pkg-config
 	url = https://github.com/atomlong/mingw-w64-pkg-config.git
+[submodule "mingw-w64-potrace"]
+	path = mingw-w64-potrace
+	url = https://github.com/atomlong/mingw-w64-potrace.git
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
