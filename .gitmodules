@@ -853,6 +853,9 @@
 [submodule "mingw-w64-waffle"]
 	path = mingw-w64-waffle
 	url = https://github.com/atomlong/mingw-w64-waffle.git
+[submodule "mingw-w64-wavpack"]
+	path = mingw-w64-wavpack
+	url = https://github.com/atomlong/mingw-w64-wavpack.git
 [submodule "mingw-w64-wine"]
 	path = mingw-w64-wine
 	url = https://github.com/atomlong/mingw-w64-wine.git
