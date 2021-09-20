@@ -964,6 +964,9 @@
 [submodule "mingw-w64-miniglog"]
 	path = mingw-w64-miniglog
 	url = https://github.com/atomlong/mingw-w64-miniglog.git
+[submodule "mingw-w64-minizip"]
+	path = mingw-w64-minizip
+	url = https://github.com/atomlong/mingw-w64-minizip.git
 [submodule "mingw-w64-mono"]
 	path = mingw-w64-mono
 	url = https://github.com/atomlong/mingw-w64-mono.git
