@@ -922,6 +922,9 @@
 [submodule "mingw-w64-rtmpdump"]
 	path = mingw-w64-rtmpdump
 	url = https://github.com/atomlong/mingw-w64-rtmpdump.git
+[submodule "mingw-w64-schroedinger"]
+	path = mingw-w64-schroedinger
+	url = https://github.com/atomlong/mingw-w64-schroedinger.git
 [submodule "mingw-w64-sdl"]
 	path = mingw-w64-sdl
 	url = https://github.com/atomlong/mingw-w64-sdl.git
