@@ -490,6 +490,9 @@
 [submodule "mingw-w64-endian"]
 	path = mingw-w64-endian
 	url = https://github.com/atomlong/mingw-w64-endian.git
+[submodule "mingw-w64-ensmallen"]
+	path = mingw-w64-ensmallen
+	url = https://github.com/atomlong/mingw-w64-ensmallen.git
 [submodule "mingw-w64-environment"]
 	path = mingw-w64-environment
 	url = https://github.com/atomlong/mingw-w64-environment.git
