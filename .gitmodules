@@ -838,6 +838,9 @@
 [submodule "mingw-w64-qt6-svg"]
 	path = mingw-w64-qt6-svg
 	url = https://github.com/atomlong/mingw-w64-qt6-svg.git
+[submodule "mingw-w64-qt6-tools"]
+	path = mingw-w64-qt6-tools
+	url = https://github.com/atomlong/mingw-w64-qt6-tools.git
 [submodule "mingw-w64-qtkeychain-qt5"]
 	path = mingw-w64-qtkeychain-qt5
 	url = https://github.com/atomlong/mingw-w64-qtkeychain-qt5.git
