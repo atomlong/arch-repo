@@ -1573,6 +1573,9 @@
 [submodule "mingw-w64-spirv-headers"]
 	path = mingw-w64-spirv-headers
 	url = https://github.com/atomlong/mingw-w64-spirv-headers.git
+[submodule "mingw-w64-spirv-tools"]
+	path = mingw-w64-spirv-tools
+	url = https://github.com/atomlong/mingw-w64-spirv-tools.git
 [submodule "mingw-w64-sqlcipher"]
 	path = mingw-w64-sqlcipher
 	url = https://github.com/atomlong/mingw-w64-sqlcipher.git
