@@ -1006,6 +1006,9 @@
 [submodule "mingw-w64-mesa"]
 	path = mingw-w64-mesa
 	url = https://github.com/atomlong/mingw-w64-mesa.git
+[submodule "mingw-w64-mesa-demos-git"]
+	path = mingw-w64-mesa-demos-git
+	url = https://github.com/atomlong/mingw-w64-mesa-demos-git.git
 [submodule "mingw-w64-mesa-git"]
 	path = mingw-w64-mesa-git
 	url = https://github.com/atomlong/mingw-w64-mesa-git.git
