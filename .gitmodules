@@ -664,6 +664,9 @@
 [submodule "mingw-w64-netcdf-cxx"]
 	path = mingw-w64-netcdf-cxx
 	url = https://github.com/atomlong/mingw-w64-netcdf-cxx.git
+[submodule "mingw-w64-netcdf-cxx-legacy"]
+	path = mingw-w64-netcdf-cxx-legacy
+	url = https://github.com/atomlong/mingw-w64-netcdf-cxx-legacy.git
 [submodule "mingw-w64-nettle"]
 	path = mingw-w64-nettle
 	url = https://github.com/atomlong/mingw-w64-nettle.git
