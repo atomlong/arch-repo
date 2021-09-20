@@ -454,6 +454,9 @@
 [submodule "mingw-w64-hwloc"]
 	path = mingw-w64-hwloc
 	url = https://github.com/atomlong/mingw-w64-hwloc.git
+[submodule "mingw-w64-isl"]
+	path = mingw-w64-isl
+	url = https://github.com/atomlong/mingw-w64-isl.git
 [submodule "mingw-w64-jansson"]
 	path = mingw-w64-jansson
 	url = https://github.com/atomlong/mingw-w64-jansson.git
