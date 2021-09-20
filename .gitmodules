@@ -1180,6 +1180,9 @@
 [submodule "mingw-w64-opencl-icd"]
 	path = mingw-w64-opencl-icd
 	url = https://github.com/atomlong/mingw-w64-opencl-icd.git
+[submodule "mingw-w64-opencolorio"]
+	path = mingw-w64-opencolorio
+	url = https://github.com/atomlong/mingw-w64-opencolorio.git
 [submodule "mingw-w64-opencolorio1"]
 	path = mingw-w64-opencolorio1
 	url = https://github.com/atomlong/mingw-w64-opencolorio1.git
