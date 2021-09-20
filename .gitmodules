@@ -979,6 +979,9 @@
 [submodule "mingw-w64-pkg-config"]
 	path = mingw-w64-pkg-config
 	url = https://github.com/atomlong/mingw-w64-pkg-config.git
+[submodule "mingw-w64-plib"]
+	path = mingw-w64-plib
+	url = https://github.com/atomlong/mingw-w64-plib.git
 [submodule "mingw-w64-pocketsphinx"]
 	path = mingw-w64-pocketsphinx
 	url = https://github.com/atomlong/mingw-w64-pocketsphinx.git
