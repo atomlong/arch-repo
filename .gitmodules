@@ -643,6 +643,9 @@
 [submodule "mingw-w64-kitemviews"]
 	path = mingw-w64-kitemviews
 	url = https://github.com/atomlong/mingw-w64-kitemviews.git
+[submodule "mingw-w64-kunitconversion"]
+	path = mingw-w64-kunitconversion
+	url = https://github.com/atomlong/mingw-w64-kunitconversion.git
 [submodule "mingw-w64-l-smash"]
 	path = mingw-w64-l-smash
 	url = https://github.com/atomlong/mingw-w64-l-smash.git
