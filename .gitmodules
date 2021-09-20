@@ -628,6 +628,9 @@
 [submodule "mingw-w64-libelf-lfg-win32-git"]
 	path = mingw-w64-libelf-lfg-win32-git
 	url = https://github.com/atomlong/mingw-w64-libelf-lfg-win32-git.git
+[submodule "mingw-w64-libepoxy"]
+	path = mingw-w64-libepoxy
+	url = https://github.com/atomlong/mingw-w64-libepoxy.git
 [submodule "mingw-w64-libfdk-aac"]
 	path = mingw-w64-libfdk-aac
 	url = https://github.com/atomlong/mingw-w64-libfdk-aac.git
