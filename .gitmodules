@@ -1180,6 +1180,9 @@
 [submodule "mingw-w64-qt5-webchannel"]
 	path = mingw-w64-qt5-webchannel
 	url = https://github.com/atomlong/mingw-w64-qt5-webchannel.git
+[submodule "mingw-w64-qt5-webchannel-static"]
+	path = mingw-w64-qt5-webchannel-static
+	url = https://github.com/atomlong/mingw-w64-qt5-webchannel-static.git
 [submodule "mingw-w64-qt5-webglplugin"]
 	path = mingw-w64-qt5-webglplugin
 	url = https://github.com/atomlong/mingw-w64-qt5-webglplugin.git
