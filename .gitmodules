@@ -850,6 +850,9 @@
 [submodule "mingw-w64-libbluray"]
 	path = mingw-w64-libbluray
 	url = https://github.com/atomlong/mingw-w64-libbluray.git
+[submodule "mingw-w64-libbs2b"]
+	path = mingw-w64-libbs2b
+	url = https://github.com/atomlong/mingw-w64-libbs2b.git
 [submodule "mingw-w64-libconfig"]
 	path = mingw-w64-libconfig
 	url = https://github.com/atomlong/mingw-w64-libconfig.git
