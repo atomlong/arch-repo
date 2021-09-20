@@ -925,6 +925,9 @@
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
+[submodule "mingw-w64-qt5-svg"]
+	path = mingw-w64-qt5-svg
+	url = https://github.com/atomlong/mingw-w64-qt5-svg.git
 [submodule "mingw-w64-qt5-webchannel"]
 	path = mingw-w64-qt5-webchannel
 	url = https://github.com/atomlong/mingw-w64-qt5-webchannel.git
