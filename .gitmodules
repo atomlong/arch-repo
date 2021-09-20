@@ -640,6 +640,9 @@
 [submodule "mingw-w64-libmodplug"]
 	path = mingw-w64-libmodplug
 	url = https://github.com/atomlong/mingw-w64-libmodplug.git
+[submodule "mingw-w64-libnice"]
+	path = mingw-w64-libnice
+	url = https://github.com/atomlong/mingw-w64-libnice.git
 [submodule "mingw-w64-libnumbertext"]
 	path = mingw-w64-libnumbertext
 	url = https://github.com/atomlong/mingw-w64-libnumbertext.git
