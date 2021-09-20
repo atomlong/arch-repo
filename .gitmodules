@@ -559,6 +559,9 @@
 [submodule "mingw-w64-hmat-oss"]
 	path = mingw-w64-hmat-oss
 	url = https://github.com/atomlong/mingw-w64-hmat-oss.git
+[submodule "mingw-w64-hmat-oss16"]
+	path = mingw-w64-hmat-oss16
+	url = https://github.com/atomlong/mingw-w64-hmat-oss16.git
 [submodule "mingw-w64-http-parser"]
 	path = mingw-w64-http-parser
 	url = https://github.com/atomlong/mingw-w64-http-parser.git
