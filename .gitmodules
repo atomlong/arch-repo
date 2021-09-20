@@ -1747,6 +1747,9 @@
 [submodule "mingw-w64-reflective-rapidjson"]
 	path = mingw-w64-reflective-rapidjson
 	url = https://github.com/atomlong/mingw-w64-reflective-rapidjson.git
+[submodule "mingw-w64-resource"]
+	path = mingw-w64-resource
+	url = https://github.com/atomlong/mingw-w64-resource.git
 [submodule "mingw-w64-rhash"]
 	path = mingw-w64-rhash
 	url = https://github.com/atomlong/mingw-w64-rhash.git
