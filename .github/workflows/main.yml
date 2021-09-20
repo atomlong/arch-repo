@@ -66,6 +66,7 @@ jobs:
         git add "${mod}"
         done
         git commit -m "Submodule Update" -a || true
+        .ci/ci-submod.sh auto
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
