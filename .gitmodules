@@ -472,6 +472,9 @@
 [submodule "mingw-w64-librsvg-bin"]
 	path = mingw-w64-librsvg-bin
 	url = https://github.com/atomlong/mingw-w64-librsvg-bin.git
+[submodule "mingw-w64-libsquish"]
+	path = mingw-w64-libsquish
+	url = https://github.com/atomlong/mingw-w64-libsquish.git
 [submodule "mingw-w64-libsrtp"]
 	path = mingw-w64-libsrtp
 	url = https://github.com/atomlong/mingw-w64-libsrtp.git
