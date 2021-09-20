@@ -997,6 +997,9 @@
 [submodule "mingw-w64-physfs-hg"]
 	path = mingw-w64-physfs-hg
 	url = https://github.com/atomlong/mingw-w64-physfs-hg.git
+[submodule "mingw-w64-piglit-git"]
+	path = mingw-w64-piglit-git
+	url = https://github.com/atomlong/mingw-w64-piglit-git.git
 [submodule "mingw-w64-pkg-config"]
 	path = mingw-w64-pkg-config
 	url = https://github.com/atomlong/mingw-w64-pkg-config.git
