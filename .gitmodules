@@ -1132,6 +1132,9 @@
 [submodule "mingw-w64-qt5-networkauth"]
 	path = mingw-w64-qt5-networkauth
 	url = https://github.com/atomlong/mingw-w64-qt5-networkauth.git
+[submodule "mingw-w64-qt5-networkauth-static"]
+	path = mingw-w64-qt5-networkauth-static
+	url = https://github.com/atomlong/mingw-w64-qt5-networkauth-static.git
 [submodule "mingw-w64-qt5-quickcontrols"]
 	path = mingw-w64-qt5-quickcontrols
 	url = https://github.com/atomlong/mingw-w64-qt5-quickcontrols.git
