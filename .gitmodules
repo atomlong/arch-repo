@@ -907,6 +907,9 @@
 [submodule "mingw-w64-libidn"]
 	path = mingw-w64-libidn
 	url = https://github.com/atomlong/mingw-w64-libidn.git
+[submodule "mingw-w64-libilbc"]
+	path = mingw-w64-libilbc
+	url = https://github.com/atomlong/mingw-w64-libilbc.git
 [submodule "mingw-w64-libircclient"]
 	path = mingw-w64-libircclient
 	url = https://github.com/atomlong/mingw-w64-libircclient.git
