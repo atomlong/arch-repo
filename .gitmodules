@@ -2194,6 +2194,9 @@
 [submodule "python-pyperclip-git"]
 	path = python-pyperclip-git
 	url = https://github.com/atomlong/python-pyperclip-git.git
+[submodule "python-ruamel-yaml-hg"]
+	path = python-ruamel-yaml-hg
+	url = https://github.com/atomlong/python-ruamel-yaml-hg.git
 [submodule "python-ruyaml"]
 	path = python-ruyaml
 	url = https://github.com/atomlong/python-ruyaml.git
