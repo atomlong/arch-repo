@@ -1330,6 +1330,9 @@
 [submodule "mingw-w64-qt5-svg-static"]
 	path = mingw-w64-qt5-svg-static
 	url = https://github.com/atomlong/mingw-w64-qt5-svg-static.git
+[submodule "mingw-w64-qt5-tools"]
+	path = mingw-w64-qt5-tools
+	url = https://github.com/atomlong/mingw-w64-qt5-tools.git
 [submodule "mingw-w64-qt5-tools-static"]
 	path = mingw-w64-qt5-tools-static
 	url = https://github.com/atomlong/mingw-w64-qt5-tools-static.git
