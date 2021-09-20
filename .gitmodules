@@ -493,6 +493,9 @@
 [submodule "mingw-w64-ffmpeg-minimal"]
 	path = mingw-w64-ffmpeg-minimal
 	url = https://github.com/atomlong/mingw-w64-ffmpeg-minimal.git
+[submodule "mingw-w64-fftw"]
+	path = mingw-w64-fftw
+	url = https://github.com/atomlong/mingw-w64-fftw.git
 [submodule "mingw-w64-fftw-bin"]
 	path = mingw-w64-fftw-bin
 	url = https://github.com/atomlong/mingw-w64-fftw-bin.git
