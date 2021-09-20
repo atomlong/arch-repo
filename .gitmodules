@@ -1315,6 +1315,9 @@
 [submodule "mingw-w64-openmesh"]
 	path = mingw-w64-openmesh
 	url = https://github.com/atomlong/mingw-w64-openmesh.git
+[submodule "mingw-w64-openssl-1.0"]
+	path = mingw-w64-openssl-1.0
+	url = https://github.com/atomlong/mingw-w64-openssl-1.0.git
 [submodule "mingw-w64-optpp"]
 	path = mingw-w64-optpp
 	url = https://github.com/atomlong/mingw-w64-optpp.git
