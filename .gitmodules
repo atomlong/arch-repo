@@ -454,6 +454,9 @@
 [submodule "mingw-w64-coin-or-ipopt"]
 	path = mingw-w64-coin-or-ipopt
 	url = https://github.com/atomlong/mingw-w64-coin-or-ipopt.git
+[submodule "mingw-w64-coin-or-mp"]
+	path = mingw-w64-coin-or-mp
+	url = https://github.com/atomlong/mingw-w64-coin-or-mp.git
 [submodule "mingw-w64-coin-or-osi"]
 	path = mingw-w64-coin-or-osi
 	url = https://github.com/atomlong/mingw-w64-coin-or-osi.git
