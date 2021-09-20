@@ -1777,6 +1777,9 @@
 [submodule "mingw-w64-x265"]
 	path = mingw-w64-x265
 	url = https://github.com/atomlong/mingw-w64-x265.git
+[submodule "mingw-w64-xcb-proto"]
+	path = mingw-w64-xcb-proto
+	url = https://github.com/atomlong/mingw-w64-xcb-proto.git
 [submodule "mingw-w64-xerces-c"]
 	path = mingw-w64-xerces-c
 	url = https://github.com/atomlong/mingw-w64-xerces-c.git
