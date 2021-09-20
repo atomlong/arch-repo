@@ -424,6 +424,9 @@
 [submodule "mingw-w64-mpdecimal"]
 	path = mingw-w64-mpdecimal
 	url = https://github.com/atomlong/mingw-w64-mpdecimal.git
+[submodule "mingw-w64-openblas-lapack"]
+	path = mingw-w64-openblas-lapack
+	url = https://github.com/atomlong/mingw-w64-openblas-lapack.git
 [submodule "mingw-w64-openimagedenoise-bin"]
 	path = mingw-w64-openimagedenoise-bin
 	url = https://github.com/atomlong/mingw-w64-openimagedenoise-bin.git
