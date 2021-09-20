@@ -355,6 +355,9 @@
 [submodule "mingw-w64-asmjit"]
 	path = mingw-w64-asmjit
 	url = https://github.com/atomlong/mingw-w64-asmjit.git
+[submodule "mingw-w64-assimp"]
+	path = mingw-w64-assimp
+	url = https://github.com/atomlong/mingw-w64-assimp.git
 [submodule "mingw-w64-async--git"]
 	path = mingw-w64-async--git
 	url = https://github.com/atomlong/mingw-w64-async--git.git
