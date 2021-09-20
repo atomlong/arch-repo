@@ -769,6 +769,9 @@
 [submodule "mingw-w64-qt5-xmlpatterns"]
 	path = mingw-w64-qt5-xmlpatterns
 	url = https://github.com/atomlong/mingw-w64-qt5-xmlpatterns.git
+[submodule "mingw-w64-qt6-5compat"]
+	path = mingw-w64-qt6-5compat
+	url = https://github.com/atomlong/mingw-w64-qt6-5compat.git
 [submodule "mingw-w64-qt6-base"]
 	path = mingw-w64-qt6-base
 	url = https://github.com/atomlong/mingw-w64-qt6-base.git
