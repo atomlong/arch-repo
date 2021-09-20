@@ -94,6 +94,9 @@
 [submodule "dcron-git"]
 	path = dcron-git
 	url = https://github.com/atomlong/dcron-git.git
+[submodule "depot-tools-git"]
+	path = depot-tools-git
+	url = https://github.com/atomlong/depot-tools-git.git
 [submodule "dkms-frandom"]
 	path = dkms-frandom
 	url = https://github.com/atomlong/dkms-frandom.git
