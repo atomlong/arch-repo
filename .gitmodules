@@ -994,6 +994,9 @@
 [submodule "mingw-w64-openimagedenoise-bin"]
 	path = mingw-w64-openimagedenoise-bin
 	url = https://github.com/atomlong/mingw-w64-openimagedenoise-bin.git
+[submodule "mingw-w64-openlibm"]
+	path = mingw-w64-openlibm
+	url = https://github.com/atomlong/mingw-w64-openlibm.git
 [submodule "mingw-w64-openmesh"]
 	path = mingw-w64-openmesh
 	url = https://github.com/atomlong/mingw-w64-openmesh.git
