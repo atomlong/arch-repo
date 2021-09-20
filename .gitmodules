@@ -1183,6 +1183,9 @@
 [submodule "mingw-w64-nlopt"]
 	path = mingw-w64-nlopt
 	url = https://github.com/atomlong/mingw-w64-nlopt.git
+[submodule "mingw-w64-npth"]
+	path = mingw-w64-npth
+	url = https://github.com/atomlong/mingw-w64-npth.git
 [submodule "mingw-w64-nspr"]
 	path = mingw-w64-nspr
 	url = https://github.com/atomlong/mingw-w64-nspr.git
