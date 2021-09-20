@@ -559,6 +559,9 @@
 [submodule "mingw-w64-libiconv"]
 	path = mingw-w64-libiconv
 	url = https://github.com/atomlong/mingw-w64-libiconv.git
+[submodule "mingw-w64-libircclient"]
+	path = mingw-w64-libircclient
+	url = https://github.com/atomlong/mingw-w64-libircclient.git
 [submodule "mingw-w64-libkate"]
 	path = mingw-w64-libkate
 	url = https://github.com/atomlong/mingw-w64-libkate.git
