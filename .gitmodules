@@ -853,6 +853,9 @@
 [submodule "mingw-w64-python2-bin"]
 	path = mingw-w64-python2-bin
 	url = https://github.com/atomlong/mingw-w64-python2-bin.git
+[submodule "mingw-w64-python26-bin"]
+	path = mingw-w64-python26-bin
+	url = https://github.com/atomlong/mingw-w64-python26-bin.git
 [submodule "mingw-w64-python27-bin"]
 	path = mingw-w64-python27-bin
 	url = https://github.com/atomlong/mingw-w64-python27-bin.git
