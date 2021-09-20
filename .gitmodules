@@ -475,6 +475,9 @@
 [submodule "mingw-w64-fltk"]
 	path = mingw-w64-fltk
 	url = https://github.com/atomlong/mingw-w64-fltk.git
+[submodule "mingw-w64-freetype2"]
+	path = mingw-w64-freetype2
+	url = https://github.com/atomlong/mingw-w64-freetype2.git
 [submodule "mingw-w64-freetype2-bootstrap"]
 	path = mingw-w64-freetype2-bootstrap
 	url = https://github.com/atomlong/mingw-w64-freetype2-bootstrap.git
