@@ -2170,6 +2170,9 @@
 [submodule "python-jsonpath-rw"]
 	path = python-jsonpath-rw
 	url = https://github.com/atomlong/python-jsonpath-rw.git
+[submodule "python-loguru"]
+	path = python-loguru
+	url = https://github.com/atomlong/python-loguru.git
 [submodule "python-netdisco"]
 	path = python-netdisco
 	url = https://github.com/atomlong/python-netdisco.git
