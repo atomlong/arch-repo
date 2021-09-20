@@ -1327,6 +1327,9 @@
 [submodule "mingw-w64-qscintilla-qt5"]
 	path = mingw-w64-qscintilla-qt5
 	url = https://github.com/atomlong/mingw-w64-qscintilla-qt5.git
+[submodule "mingw-w64-qt5-activeqt"]
+	path = mingw-w64-qt5-activeqt
+	url = https://github.com/atomlong/mingw-w64-qt5-activeqt.git
 [submodule "mingw-w64-qt5-base"]
 	path = mingw-w64-qt5-base
 	url = https://github.com/atomlong/mingw-w64-qt5-base.git
