@@ -979,6 +979,9 @@
 [submodule "mingw-w64-p11-kit"]
 	path = mingw-w64-p11-kit
 	url = https://github.com/atomlong/mingw-w64-p11-kit.git
+[submodule "mingw-w64-passwordfile"]
+	path = mingw-w64-passwordfile
+	url = https://github.com/atomlong/mingw-w64-passwordfile.git
 [submodule "mingw-w64-pcre"]
 	path = mingw-w64-pcre
 	url = https://github.com/atomlong/mingw-w64-pcre.git
