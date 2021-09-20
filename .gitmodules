@@ -1000,6 +1000,9 @@
 [submodule "mingw-w64-marisa"]
 	path = mingw-w64-marisa
 	url = https://github.com/atomlong/mingw-w64-marisa.git
+[submodule "mingw-w64-mcfgthread"]
+	path = mingw-w64-mcfgthread
+	url = https://github.com/atomlong/mingw-w64-mcfgthread.git
 [submodule "mingw-w64-md4c"]
 	path = mingw-w64-md4c
 	url = https://github.com/atomlong/mingw-w64-md4c.git
