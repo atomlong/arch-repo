@@ -571,6 +571,9 @@
 [submodule "mingw-w64-freetype2-bootstrap"]
 	path = mingw-w64-freetype2-bootstrap
 	url = https://github.com/atomlong/mingw-w64-freetype2-bootstrap.git
+[submodule "mingw-w64-gbafix"]
+	path = mingw-w64-gbafix
+	url = https://github.com/atomlong/mingw-w64-gbafix.git
 [submodule "mingw-w64-gdal"]
 	path = mingw-w64-gdal
 	url = https://github.com/atomlong/mingw-w64-gdal.git
