@@ -1507,6 +1507,9 @@
 [submodule "mingw-w64-sqlite"]
 	path = mingw-w64-sqlite
 	url = https://github.com/atomlong/mingw-w64-sqlite.git
+[submodule "mingw-w64-sratom"]
+	path = mingw-w64-sratom
+	url = https://github.com/atomlong/mingw-w64-sratom.git
 [submodule "mingw-w64-srt"]
 	path = mingw-w64-srt
 	url = https://github.com/atomlong/mingw-w64-srt.git
