@@ -646,6 +646,9 @@
 [submodule "mingw-w64-libfreexl"]
 	path = mingw-w64-libfreexl
 	url = https://github.com/atomlong/mingw-w64-libfreexl.git
+[submodule "mingw-w64-libgcrypt"]
+	path = mingw-w64-libgcrypt
+	url = https://github.com/atomlong/mingw-w64-libgcrypt.git
 [submodule "mingw-w64-libgeoip"]
 	path = mingw-w64-libgeoip
 	url = https://github.com/atomlong/mingw-w64-libgeoip.git
