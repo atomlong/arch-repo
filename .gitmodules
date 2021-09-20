@@ -1243,6 +1243,9 @@
 [submodule "mingw-w64-qt6-networkauth-static"]
 	path = mingw-w64-qt6-networkauth-static
 	url = https://github.com/atomlong/mingw-w64-qt6-networkauth-static.git
+[submodule "mingw-w64-qt6-quick3d"]
+	path = mingw-w64-qt6-quick3d
+	url = https://github.com/atomlong/mingw-w64-qt6-quick3d.git
 [submodule "mingw-w64-qt6-quick3d-static"]
 	path = mingw-w64-qt6-quick3d-static
 	url = https://github.com/atomlong/mingw-w64-qt6-quick3d-static.git
