@@ -322,6 +322,9 @@
 [submodule "mingw-w64-capnproto"]
 	path = mingw-w64-capnproto
 	url = https://github.com/atomlong/mingw-w64-capnproto.git
+[submodule "mingw-w64-chrono-date"]
+	path = mingw-w64-chrono-date
+	url = https://github.com/atomlong/mingw-w64-chrono-date.git
 [submodule "mingw-w64-civetweb"]
 	path = mingw-w64-civetweb
 	url = https://github.com/atomlong/mingw-w64-civetweb.git
