@@ -1066,6 +1066,9 @@
 [submodule "mingw-w64-qt6-quicktimeline"]
 	path = mingw-w64-qt6-quicktimeline
 	url = https://github.com/atomlong/mingw-w64-qt6-quicktimeline.git
+[submodule "mingw-w64-qt6-quicktimeline-static"]
+	path = mingw-w64-qt6-quicktimeline-static
+	url = https://github.com/atomlong/mingw-w64-qt6-quicktimeline-static.git
 [submodule "mingw-w64-qt6-scxml-static"]
 	path = mingw-w64-qt6-scxml-static
 	url = https://github.com/atomlong/mingw-w64-qt6-scxml-static.git
