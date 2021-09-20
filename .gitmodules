@@ -1153,6 +1153,9 @@
 [submodule "mingw-w64-qt5-quickcontrols2-static"]
 	path = mingw-w64-qt5-quickcontrols2-static
 	url = https://github.com/atomlong/mingw-w64-qt5-quickcontrols2-static.git
+[submodule "mingw-w64-qt5-script-static"]
+	path = mingw-w64-qt5-script-static
+	url = https://github.com/atomlong/mingw-w64-qt5-script-static.git
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
