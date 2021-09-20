@@ -433,6 +433,9 @@
 [submodule "mingw-w64-libxdiff"]
 	path = mingw-w64-libxdiff
 	url = https://github.com/atomlong/mingw-w64-libxdiff.git
+[submodule "mingw-w64-lz4"]
+	path = mingw-w64-lz4
+	url = https://github.com/atomlong/mingw-w64-lz4.git
 [submodule "mingw-w64-meson"]
 	path = mingw-w64-meson
 	url = https://github.com/atomlong/mingw-w64-meson.git
