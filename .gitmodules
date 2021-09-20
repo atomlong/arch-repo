@@ -982,6 +982,9 @@
 [submodule "mingw-w64-libnumbertext"]
 	path = mingw-w64-libnumbertext
 	url = https://github.com/atomlong/mingw-w64-libnumbertext.git
+[submodule "mingw-w64-libpaper"]
+	path = mingw-w64-libpaper
+	url = https://github.com/atomlong/mingw-w64-libpaper.git
 [submodule "mingw-w64-libpsl"]
 	path = mingw-w64-libpsl
 	url = https://github.com/atomlong/mingw-w64-libpsl.git
