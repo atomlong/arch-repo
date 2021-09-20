@@ -310,6 +310,9 @@
 [submodule "mingw-w64-agrum"]
 	path = mingw-w64-agrum
 	url = https://github.com/atomlong/mingw-w64-agrum.git
+[submodule "mingw-w64-asmjit"]
+	path = mingw-w64-asmjit
+	url = https://github.com/atomlong/mingw-w64-asmjit.git
 [submodule "mingw-w64-bcunit"]
 	path = mingw-w64-bcunit
 	url = https://github.com/atomlong/mingw-w64-bcunit.git
