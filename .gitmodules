@@ -973,6 +973,9 @@
 [submodule "mingw-w64-libsndfile"]
 	path = mingw-w64-libsndfile
 	url = https://github.com/atomlong/mingw-w64-libsndfile.git
+[submodule "mingw-w64-libsoundio"]
+	path = mingw-w64-libsoundio
+	url = https://github.com/atomlong/mingw-w64-libsoundio.git
 [submodule "mingw-w64-libsoup"]
 	path = mingw-w64-libsoup
 	url = https://github.com/atomlong/mingw-w64-libsoup.git
