@@ -1246,6 +1246,9 @@
 [submodule "xmake"]
 	path = xmake
 	url = https://github.com/atomlong/xmake.git
+[submodule "xray-domain-list-community"]
+	path = xray-domain-list-community
+	url = https://github.com/atomlong/xray-domain-list-community.git
 [submodule "yaffs2utils"]
 	path = yaffs2utils
 	url = https://github.com/atomlong/yaffs2utils.git
