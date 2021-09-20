@@ -700,6 +700,9 @@
 [submodule "mingw-w64-librsvg-bin"]
 	path = mingw-w64-librsvg-bin
 	url = https://github.com/atomlong/mingw-w64-librsvg-bin.git
+[submodule "mingw-w64-librtmp0"]
+	path = mingw-w64-librtmp0
+	url = https://github.com/atomlong/mingw-w64-librtmp0.git
 [submodule "mingw-w64-librttopo"]
 	path = mingw-w64-librttopo
 	url = https://github.com/atomlong/mingw-w64-librttopo.git
