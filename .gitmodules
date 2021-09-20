@@ -511,6 +511,9 @@
 [submodule "mingw-w64-ldd"]
 	path = mingw-w64-ldd
 	url = https://github.com/atomlong/mingw-w64-ldd.git
+[submodule "mingw-w64-leveldb"]
+	path = mingw-w64-leveldb
+	url = https://github.com/atomlong/mingw-w64-leveldb.git
 [submodule "mingw-w64-libaec"]
 	path = mingw-w64-libaec
 	url = https://github.com/atomlong/mingw-w64-libaec.git
