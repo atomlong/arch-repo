@@ -586,6 +586,9 @@
 [submodule "mingw-w64-wine"]
 	path = mingw-w64-wine
 	url = https://github.com/atomlong/mingw-w64-wine.git
+[submodule "mingw-w64-x265"]
+	path = mingw-w64-x265
+	url = https://github.com/atomlong/mingw-w64-x265.git
 [submodule "mingw-w64-xgboost"]
 	path = mingw-w64-xgboost
 	url = https://github.com/atomlong/mingw-w64-xgboost.git
