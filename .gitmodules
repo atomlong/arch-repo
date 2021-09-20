@@ -421,6 +421,9 @@
 [submodule "mingw-w64-jansson"]
 	path = mingw-w64-jansson
 	url = https://github.com/atomlong/mingw-w64-jansson.git
+[submodule "mingw-w64-jemalloc"]
+	path = mingw-w64-jemalloc
+	url = https://github.com/atomlong/mingw-w64-jemalloc.git
 [submodule "mingw-w64-kdreports-git"]
 	path = mingw-w64-kdreports-git
 	url = https://github.com/atomlong/mingw-w64-kdreports-git.git
