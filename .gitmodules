@@ -445,6 +445,9 @@
 [submodule "mingw-w64-grvk"]
 	path = mingw-w64-grvk
 	url = https://github.com/atomlong/mingw-w64-grvk.git
+[submodule "mingw-w64-gstreamer"]
+	path = mingw-w64-gstreamer
+	url = https://github.com/atomlong/mingw-w64-gstreamer.git
 [submodule "mingw-w64-gstreamer-git"]
 	path = mingw-w64-gstreamer-git
 	url = https://github.com/atomlong/mingw-w64-gstreamer-git.git
