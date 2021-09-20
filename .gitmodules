@@ -1240,6 +1240,9 @@
 [submodule "v2ray-git"]
 	path = v2ray-git
 	url = https://github.com/atomlong/v2ray-git.git
+[submodule "v2raya"]
+	path = v2raya
+	url = https://github.com/atomlong/v2raya.git
 [submodule "webcamoid"]
 	path = webcamoid
 	url = https://github.com/atomlong/webcamoid.git
