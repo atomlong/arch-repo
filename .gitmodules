@@ -2113,6 +2113,9 @@
 [submodule "shadowsocksr"]
 	path = shadowsocksr
 	url = https://github.com/atomlong/shadowsocksr.git
+[submodule "slick"]
+	path = slick
+	url = https://github.com/atomlong/slick.git
 [submodule "snappymail"]
 	path = snappymail
 	url = https://github.com/atomlong/snappymail.git
