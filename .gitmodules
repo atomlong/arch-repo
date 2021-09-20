@@ -2158,6 +2158,9 @@
 [submodule "python-certifi"]
 	path = python-certifi
 	url = https://github.com/atomlong/python-certifi.git
+[submodule "python-click-aliases"]
+	path = python-click-aliases
+	url = https://github.com/atomlong/python-click-aliases.git
 [submodule "python-esphome-dashboard"]
 	path = python-esphome-dashboard
 	url = https://github.com/atomlong/python-esphome-dashboard.git
