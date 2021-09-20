@@ -760,6 +760,9 @@
 [submodule "mingw-w64-kcoreaddons"]
 	path = mingw-w64-kcoreaddons
 	url = https://github.com/atomlong/mingw-w64-kcoreaddons.git
+[submodule "mingw-w64-kdbusaddons"]
+	path = mingw-w64-kdbusaddons
+	url = https://github.com/atomlong/mingw-w64-kdbusaddons.git
 [submodule "mingw-w64-kdoctools"]
 	path = mingw-w64-kdoctools
 	url = https://github.com/atomlong/mingw-w64-kdoctools.git
