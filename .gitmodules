@@ -391,6 +391,9 @@
 [submodule "mingw-w64-cairo-bootstrap"]
 	path = mingw-w64-cairo-bootstrap
 	url = https://github.com/atomlong/mingw-w64-cairo-bootstrap.git
+[submodule "mingw-w64-cairomm"]
+	path = mingw-w64-cairomm
+	url = https://github.com/atomlong/mingw-w64-cairomm.git
 [submodule "mingw-w64-capnproto"]
 	path = mingw-w64-capnproto
 	url = https://github.com/atomlong/mingw-w64-capnproto.git
