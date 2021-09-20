@@ -1285,6 +1285,9 @@
 [submodule "mingw-w64-pybind11"]
 	path = mingw-w64-pybind11
 	url = https://github.com/atomlong/mingw-w64-pybind11.git
+[submodule "mingw-w64-pystring"]
+	path = mingw-w64-pystring
+	url = https://github.com/atomlong/mingw-w64-pystring.git
 [submodule "mingw-w64-python"]
 	path = mingw-w64-python
 	url = https://github.com/atomlong/mingw-w64-python.git
