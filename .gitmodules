@@ -994,6 +994,9 @@
 [submodule "mingw-w64-libxdiff"]
 	path = mingw-w64-libxdiff
 	url = https://github.com/atomlong/mingw-w64-libxdiff.git
+[submodule "mingw-w64-libxlsxwriter-git"]
+	path = mingw-w64-libxlsxwriter-git
+	url = https://github.com/atomlong/mingw-w64-libxlsxwriter-git.git
 [submodule "mingw-w64-libxslt"]
 	path = mingw-w64-libxslt
 	url = https://github.com/atomlong/mingw-w64-libxslt.git
