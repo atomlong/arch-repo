@@ -1435,6 +1435,9 @@
 [submodule "mingw-w64-qt6-imageformats"]
 	path = mingw-w64-qt6-imageformats
 	url = https://github.com/atomlong/mingw-w64-qt6-imageformats.git
+[submodule "mingw-w64-qt6-imageformats-static"]
+	path = mingw-w64-qt6-imageformats-static
+	url = https://github.com/atomlong/mingw-w64-qt6-imageformats-static.git
 [submodule "mingw-w64-qt6-lottie"]
 	path = mingw-w64-qt6-lottie
 	url = https://github.com/atomlong/mingw-w64-qt6-lottie.git
