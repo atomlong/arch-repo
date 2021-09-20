@@ -1342,6 +1342,9 @@
 [submodule "mingw-w64-qt5-declarative-static"]
 	path = mingw-w64-qt5-declarative-static
 	url = https://github.com/atomlong/mingw-w64-qt5-declarative-static.git
+[submodule "mingw-w64-qt5-feedback"]
+	path = mingw-w64-qt5-feedback
+	url = https://github.com/atomlong/mingw-w64-qt5-feedback.git
 [submodule "mingw-w64-qt5-gamepad"]
 	path = mingw-w64-qt5-gamepad
 	url = https://github.com/atomlong/mingw-w64-qt5-gamepad.git
