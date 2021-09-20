@@ -313,6 +313,9 @@
 [submodule "mingw-w64-amf-headers"]
 	path = mingw-w64-amf-headers
 	url = https://github.com/atomlong/mingw-w64-amf-headers.git
+[submodule "mingw-w64-aom"]
+	path = mingw-w64-aom
+	url = https://github.com/atomlong/mingw-w64-aom.git
 [submodule "mingw-w64-asmjit"]
 	path = mingw-w64-asmjit
 	url = https://github.com/atomlong/mingw-w64-asmjit.git
