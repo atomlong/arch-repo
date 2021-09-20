@@ -529,6 +529,9 @@
 [submodule "mingw-w64-xgboost"]
 	path = mingw-w64-xgboost
 	url = https://github.com/atomlong/mingw-w64-xgboost.git
+[submodule "mingw-w64-xvidcore"]
+	path = mingw-w64-xvidcore
+	url = https://github.com/atomlong/mingw-w64-xvidcore.git
 [submodule "mingw-w64-zlib"]
 	path = mingw-w64-zlib
 	url = https://github.com/atomlong/mingw-w64-zlib.git
