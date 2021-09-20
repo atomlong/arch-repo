@@ -937,6 +937,9 @@
 [submodule "mingw-w64-libpsl"]
 	path = mingw-w64-libpsl
 	url = https://github.com/atomlong/mingw-w64-libpsl.git
+[submodule "mingw-w64-libraw"]
+	path = mingw-w64-libraw
+	url = https://github.com/atomlong/mingw-w64-libraw.git
 [submodule "mingw-w64-librsvg-bin"]
 	path = mingw-w64-librsvg-bin
 	url = https://github.com/atomlong/mingw-w64-librsvg-bin.git
