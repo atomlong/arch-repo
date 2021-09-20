@@ -628,6 +628,9 @@
 [submodule "mingw-w64-qt5-location"]
 	path = mingw-w64-qt5-location
 	url = https://github.com/atomlong/mingw-w64-qt5-location.git
+[submodule "mingw-w64-qt5-quickcontrols2"]
+	path = mingw-w64-qt5-quickcontrols2
+	url = https://github.com/atomlong/mingw-w64-qt5-quickcontrols2.git
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
