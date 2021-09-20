@@ -793,6 +793,9 @@
 [submodule "mingw-w64-nspr"]
 	path = mingw-w64-nspr
 	url = https://github.com/atomlong/mingw-w64-nspr.git
+[submodule "mingw-w64-ntldd-git"]
+	path = mingw-w64-ntldd-git
+	url = https://github.com/atomlong/mingw-w64-ntldd-git.git
 [submodule "mingw-w64-ois"]
 	path = mingw-w64-ois
 	url = https://github.com/atomlong/mingw-w64-ois.git
