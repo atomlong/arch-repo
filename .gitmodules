@@ -1735,6 +1735,9 @@
 [submodule "mingw-w64-sdl2_image"]
 	path = mingw-w64-sdl2_image
 	url = https://github.com/atomlong/mingw-w64-sdl2_image.git
+[submodule "mingw-w64-sdl2_mixer"]
+	path = mingw-w64-sdl2_mixer
+	url = https://github.com/atomlong/mingw-w64-sdl2_mixer.git
 [submodule "mingw-w64-sdl2_net"]
 	path = mingw-w64-sdl2_net
 	url = https://github.com/atomlong/mingw-w64-sdl2_net.git
