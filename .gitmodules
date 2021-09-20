@@ -238,6 +238,9 @@
 [submodule "iozone"]
 	path = iozone
 	url = https://github.com/atomlong/iozone.git
+[submodule "ipgeo-git"]
+	path = ipgeo-git
+	url = https://github.com/atomlong/ipgeo-git.git
 [submodule "janus-gateway"]
 	path = janus-gateway
 	url = https://github.com/atomlong/janus-gateway.git
