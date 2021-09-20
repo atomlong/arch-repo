@@ -721,6 +721,9 @@
 [submodule "mingw-w64-libaec"]
 	path = mingw-w64-libaec
 	url = https://github.com/atomlong/mingw-w64-libaec.git
+[submodule "mingw-w64-libatomic_ops"]
+	path = mingw-w64-libatomic_ops
+	url = https://github.com/atomlong/mingw-w64-libatomic_ops.git
 [submodule "mingw-w64-libbacktrace-git"]
 	path = mingw-w64-libbacktrace-git
 	url = https://github.com/atomlong/mingw-w64-libbacktrace-git.git
