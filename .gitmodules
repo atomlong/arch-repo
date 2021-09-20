@@ -967,6 +967,9 @@
 [submodule "mingw-w64-libvirt"]
 	path = mingw-w64-libvirt
 	url = https://github.com/atomlong/mingw-w64-libvirt.git
+[submodule "mingw-w64-libvirt-glib"]
+	path = mingw-w64-libvirt-glib
+	url = https://github.com/atomlong/mingw-w64-libvirt-glib.git
 [submodule "mingw-w64-libvisual"]
 	path = mingw-w64-libvisual
 	url = https://github.com/atomlong/mingw-w64-libvisual.git
