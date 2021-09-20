@@ -757,6 +757,9 @@
 [submodule "mingw-w64-readline"]
 	path = mingw-w64-readline
 	url = https://github.com/atomlong/mingw-w64-readline.git
+[submodule "mingw-w64-snappy"]
+	path = mingw-w64-snappy
+	url = https://github.com/atomlong/mingw-w64-snappy.git
 [submodule "mingw-w64-solid"]
 	path = mingw-w64-solid
 	url = https://github.com/atomlong/mingw-w64-solid.git
