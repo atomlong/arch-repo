@@ -1390,6 +1390,9 @@
 [submodule "mingw-w64-qt5-serialport"]
 	path = mingw-w64-qt5-serialport
 	url = https://github.com/atomlong/mingw-w64-qt5-serialport.git
+[submodule "mingw-w64-qt5-serialport-static"]
+	path = mingw-w64-qt5-serialport-static
+	url = https://github.com/atomlong/mingw-w64-qt5-serialport-static.git
 [submodule "mingw-w64-qt5-speech"]
 	path = mingw-w64-qt5-speech
 	url = https://github.com/atomlong/mingw-w64-qt5-speech.git
