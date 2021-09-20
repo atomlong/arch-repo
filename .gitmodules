@@ -481,6 +481,9 @@
 [submodule "mingw-w64-hwloc"]
 	path = mingw-w64-hwloc
 	url = https://github.com/atomlong/mingw-w64-hwloc.git
+[submodule "mingw-w64-irrlicht"]
+	path = mingw-w64-irrlicht
+	url = https://github.com/atomlong/mingw-w64-irrlicht.git
 [submodule "mingw-w64-isl"]
 	path = mingw-w64-isl
 	url = https://github.com/atomlong/mingw-w64-isl.git
