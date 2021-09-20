@@ -829,6 +829,9 @@
 [submodule "mingw-w64-qt6-networkauth"]
 	path = mingw-w64-qt6-networkauth
 	url = https://github.com/atomlong/mingw-w64-qt6-networkauth.git
+[submodule "mingw-w64-qt6-quickcontrols2"]
+	path = mingw-w64-qt6-quickcontrols2
+	url = https://github.com/atomlong/mingw-w64-qt6-quickcontrols2.git
 [submodule "mingw-w64-qt6-quicktimeline"]
 	path = mingw-w64-qt6-quicktimeline
 	url = https://github.com/atomlong/mingw-w64-qt6-quicktimeline.git
