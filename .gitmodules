@@ -1681,6 +1681,9 @@
 [submodule "mingw-w64-readline"]
 	path = mingw-w64-readline
 	url = https://github.com/atomlong/mingw-w64-readline.git
+[submodule "mingw-w64-recode"]
+	path = mingw-w64-recode
+	url = https://github.com/atomlong/mingw-w64-recode.git
 [submodule "mingw-w64-reflective-rapidjson"]
 	path = mingw-w64-reflective-rapidjson
 	url = https://github.com/atomlong/mingw-w64-reflective-rapidjson.git
