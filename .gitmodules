@@ -571,6 +571,9 @@
 [submodule "mingw-w64-fluidsynth-bin"]
 	path = mingw-w64-fluidsynth-bin
 	url = https://github.com/atomlong/mingw-w64-fluidsynth-bin.git
+[submodule "mingw-w64-fpc"]
+	path = mingw-w64-fpc
+	url = https://github.com/atomlong/mingw-w64-fpc.git
 [submodule "mingw-w64-freeglut"]
 	path = mingw-w64-freeglut
 	url = https://github.com/atomlong/mingw-w64-freeglut.git
