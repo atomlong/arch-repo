@@ -1063,6 +1063,9 @@
 [submodule "mingw-w64-qt6-5compat-static"]
 	path = mingw-w64-qt6-5compat-static
 	url = https://github.com/atomlong/mingw-w64-qt6-5compat-static.git
+[submodule "mingw-w64-qt6-activeqt"]
+	path = mingw-w64-qt6-activeqt
+	url = https://github.com/atomlong/mingw-w64-qt6-activeqt.git
 [submodule "mingw-w64-qt6-base"]
 	path = mingw-w64-qt6-base
 	url = https://github.com/atomlong/mingw-w64-qt6-base.git
