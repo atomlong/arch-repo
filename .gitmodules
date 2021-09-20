@@ -481,6 +481,9 @@
 [submodule "mingw-w64-l-smash"]
 	path = mingw-w64-l-smash
 	url = https://github.com/atomlong/mingw-w64-l-smash.git
+[submodule "mingw-w64-ladspa"]
+	path = mingw-w64-ladspa
+	url = https://github.com/atomlong/mingw-w64-ladspa.git
 [submodule "mingw-w64-lame"]
 	path = mingw-w64-lame
 	url = https://github.com/atomlong/mingw-w64-lame.git
