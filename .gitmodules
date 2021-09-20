@@ -469,6 +469,9 @@
 [submodule "mingw-w64-exprtk-git"]
 	path = mingw-w64-exprtk-git
 	url = https://github.com/atomlong/mingw-w64-exprtk-git.git
+[submodule "mingw-w64-f2c"]
+	path = mingw-w64-f2c
+	url = https://github.com/atomlong/mingw-w64-f2c.git
 [submodule "mingw-w64-fann"]
 	path = mingw-w64-fann
 	url = https://github.com/atomlong/mingw-w64-fann.git
