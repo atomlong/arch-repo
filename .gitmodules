@@ -538,6 +538,9 @@
 [submodule "mingw-w64-gstreamer-git"]
 	path = mingw-w64-gstreamer-git
 	url = https://github.com/atomlong/mingw-w64-gstreamer-git.git
+[submodule "mingw-w64-gtest"]
+	path = mingw-w64-gtest
+	url = https://github.com/atomlong/mingw-w64-gtest.git
 [submodule "mingw-w64-gtk3-bin"]
 	path = mingw-w64-gtk3-bin
 	url = https://github.com/atomlong/mingw-w64-gtk3-bin.git
