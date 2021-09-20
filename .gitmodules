@@ -472,6 +472,9 @@
 [submodule "mingw-w64-openblas-lapack"]
 	path = mingw-w64-openblas-lapack
 	url = https://github.com/atomlong/mingw-w64-openblas-lapack.git
+[submodule "mingw-w64-opencl-headers"]
+	path = mingw-w64-opencl-headers
+	url = https://github.com/atomlong/mingw-w64-opencl-headers.git
 [submodule "mingw-w64-openimagedenoise-bin"]
 	path = mingw-w64-openimagedenoise-bin
 	url = https://github.com/atomlong/mingw-w64-openimagedenoise-bin.git
