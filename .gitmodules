@@ -442,6 +442,9 @@
 [submodule "mingw-w64-readline"]
 	path = mingw-w64-readline
 	url = https://github.com/atomlong/mingw-w64-readline.git
+[submodule "mingw-w64-solid"]
+	path = mingw-w64-solid
+	url = https://github.com/atomlong/mingw-w64-solid.git
 [submodule "mingw-w64-spirv-cross"]
 	path = mingw-w64-spirv-cross
 	url = https://github.com/atomlong/mingw-w64-spirv-cross.git
