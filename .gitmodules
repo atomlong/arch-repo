@@ -940,6 +940,9 @@
 [submodule "mingw-w64-miniglog"]
 	path = mingw-w64-miniglog
 	url = https://github.com/atomlong/mingw-w64-miniglog.git
+[submodule "mingw-w64-mono"]
+	path = mingw-w64-mono
+	url = https://github.com/atomlong/mingw-w64-mono.git
 [submodule "mingw-w64-mpdecimal"]
 	path = mingw-w64-mpdecimal
 	url = https://github.com/atomlong/mingw-w64-mpdecimal.git
