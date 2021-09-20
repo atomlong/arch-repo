@@ -1399,6 +1399,9 @@
 [submodule "mingw-w64-vsqlite-"]
 	path = mingw-w64-vsqlite-
 	url = https://github.com/atomlong/mingw-w64-vsqlite-.git
+[submodule "mingw-w64-vtk-git"]
+	path = mingw-w64-vtk-git
+	url = https://github.com/atomlong/mingw-w64-vtk-git.git
 [submodule "mingw-w64-vulkan-icd-loader"]
 	path = mingw-w64-vulkan-icd-loader
 	url = https://github.com/atomlong/mingw-w64-vulkan-icd-loader.git
