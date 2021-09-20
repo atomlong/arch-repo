@@ -1096,6 +1096,9 @@
 [submodule "mingw-w64-libtasn1"]
 	path = mingw-w64-libtasn1
 	url = https://github.com/atomlong/mingw-w64-libtasn1.git
+[submodule "mingw-w64-libthai"]
+	path = mingw-w64-libthai
+	url = https://github.com/atomlong/mingw-w64-libthai.git
 [submodule "mingw-w64-libtheora"]
 	path = mingw-w64-libtheora
 	url = https://github.com/atomlong/mingw-w64-libtheora.git
