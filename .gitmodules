@@ -439,6 +439,9 @@
 [submodule "mingw-w64-gnu-efi"]
 	path = mingw-w64-gnu-efi
 	url = https://github.com/atomlong/mingw-w64-gnu-efi.git
+[submodule "mingw-w64-gnutls"]
+	path = mingw-w64-gnutls
+	url = https://github.com/atomlong/mingw-w64-gnutls.git
 [submodule "mingw-w64-google-glog"]
 	path = mingw-w64-google-glog
 	url = https://github.com/atomlong/mingw-w64-google-glog.git
