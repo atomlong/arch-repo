@@ -1030,6 +1030,9 @@
 [submodule "mingw-w64-marisa"]
 	path = mingw-w64-marisa
 	url = https://github.com/atomlong/mingw-w64-marisa.git
+[submodule "mingw-w64-mbedtls"]
+	path = mingw-w64-mbedtls
+	url = https://github.com/atomlong/mingw-w64-mbedtls.git
 [submodule "mingw-w64-mcfgthread"]
 	path = mingw-w64-mcfgthread
 	url = https://github.com/atomlong/mingw-w64-mcfgthread.git
