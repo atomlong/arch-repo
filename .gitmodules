@@ -355,6 +355,9 @@
 [submodule "mingw-w64-glib2"]
 	path = mingw-w64-glib2
 	url = https://github.com/atomlong/mingw-w64-glib2.git
+[submodule "mingw-w64-gnu-efi"]
+	path = mingw-w64-gnu-efi
+	url = https://github.com/atomlong/mingw-w64-gnu-efi.git
 [submodule "mingw-w64-gstreamer-git"]
 	path = mingw-w64-gstreamer-git
 	url = https://github.com/atomlong/mingw-w64-gstreamer-git.git
