@@ -898,6 +898,9 @@
 [submodule "mingw-w64-liblo"]
 	path = mingw-w64-liblo
 	url = https://github.com/atomlong/mingw-w64-liblo.git
+[submodule "mingw-w64-libmikmod"]
+	path = mingw-w64-libmikmod
+	url = https://github.com/atomlong/mingw-w64-libmikmod.git
 [submodule "mingw-w64-libmixmod"]
 	path = mingw-w64-libmixmod
 	url = https://github.com/atomlong/mingw-w64-libmixmod.git
