@@ -337,6 +337,9 @@
 [submodule "mingw-w64-aom"]
 	path = mingw-w64-aom
 	url = https://github.com/atomlong/mingw-w64-aom.git
+[submodule "mingw-w64-armadillo"]
+	path = mingw-w64-armadillo
+	url = https://github.com/atomlong/mingw-w64-armadillo.git
 [submodule "mingw-w64-arpack"]
 	path = mingw-w64-arpack
 	url = https://github.com/atomlong/mingw-w64-arpack.git
