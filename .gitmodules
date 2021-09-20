@@ -163,6 +163,9 @@
 [submodule "flashrom-git"]
 	path = flashrom-git
 	url = https://github.com/atomlong/flashrom-git.git
+[submodule "freenom-next"]
+	path = freenom-next
+	url = https://github.com/atomlong/freenom-next.git
 [submodule "frp"]
 	path = frp
 	url = https://github.com/atomlong/frp.git
