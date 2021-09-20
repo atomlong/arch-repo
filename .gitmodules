@@ -1801,6 +1801,9 @@
 [submodule "mingw-w64-shared-mime-info-bin"]
 	path = mingw-w64-shared-mime-info-bin
 	url = https://github.com/atomlong/mingw-w64-shared-mime-info-bin.git
+[submodule "mingw-w64-smpeg"]
+	path = mingw-w64-smpeg
+	url = https://github.com/atomlong/mingw-w64-smpeg.git
 [submodule "mingw-w64-smpeg2"]
 	path = mingw-w64-smpeg2
 	url = https://github.com/atomlong/mingw-w64-smpeg2.git
