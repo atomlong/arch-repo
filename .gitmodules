@@ -1084,6 +1084,9 @@
 [submodule "mingw-w64-p11-kit"]
 	path = mingw-w64-p11-kit
 	url = https://github.com/atomlong/mingw-w64-p11-kit.git
+[submodule "mingw-w64-pagmo"]
+	path = mingw-w64-pagmo
+	url = https://github.com/atomlong/mingw-w64-pagmo.git
 [submodule "mingw-w64-passwordfile"]
 	path = mingw-w64-passwordfile
 	url = https://github.com/atomlong/mingw-w64-passwordfile.git
