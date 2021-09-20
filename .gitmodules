@@ -1345,6 +1345,9 @@
 [submodule "mingw-w64-utf8cpp"]
 	path = mingw-w64-utf8cpp
 	url = https://github.com/atomlong/mingw-w64-utf8cpp.git
+[submodule "mingw-w64-vamp-plugin-sdk"]
+	path = mingw-w64-vamp-plugin-sdk
+	url = https://github.com/atomlong/mingw-w64-vamp-plugin-sdk.git
 [submodule "mingw-w64-vo-aacenc"]
 	path = mingw-w64-vo-aacenc
 	url = https://github.com/atomlong/mingw-w64-vo-aacenc.git
