@@ -445,6 +445,9 @@
 [submodule "mingw-w64-discord-rpc-api"]
 	path = mingw-w64-discord-rpc-api
 	url = https://github.com/atomlong/mingw-w64-discord-rpc-api.git
+[submodule "mingw-w64-djvulibre"]
+	path = mingw-w64-djvulibre
+	url = https://github.com/atomlong/mingw-w64-djvulibre.git
 [submodule "mingw-w64-dlfcn"]
 	path = mingw-w64-dlfcn
 	url = https://github.com/atomlong/mingw-w64-dlfcn.git
