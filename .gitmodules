@@ -871,6 +871,9 @@
 [submodule "mingw-w64-qt5-location"]
 	path = mingw-w64-qt5-location
 	url = https://github.com/atomlong/mingw-w64-qt5-location.git
+[submodule "mingw-w64-qt5-multimedia"]
+	path = mingw-w64-qt5-multimedia
+	url = https://github.com/atomlong/mingw-w64-qt5-multimedia.git
 [submodule "mingw-w64-qt5-networkauth"]
 	path = mingw-w64-qt5-networkauth
 	url = https://github.com/atomlong/mingw-w64-qt5-networkauth.git
