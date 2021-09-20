@@ -1078,6 +1078,9 @@
 [submodule "mingw-w64-lz4"]
 	path = mingw-w64-lz4
 	url = https://github.com/atomlong/mingw-w64-lz4.git
+[submodule "mingw-w64-lzop"]
+	path = mingw-w64-lzop
+	url = https://github.com/atomlong/mingw-w64-lzop.git
 [submodule "mingw-w64-make"]
 	path = mingw-w64-make
 	url = https://github.com/atomlong/mingw-w64-make.git
