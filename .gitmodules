@@ -760,6 +760,9 @@
 [submodule "mingw-w64-xvidcore"]
 	path = mingw-w64-xvidcore
 	url = https://github.com/atomlong/mingw-w64-xvidcore.git
+[submodule "mingw-w64-xxhash"]
+	path = mingw-w64-xxhash
+	url = https://github.com/atomlong/mingw-w64-xxhash.git
 [submodule "mingw-w64-yaml-cpp"]
 	path = mingw-w64-yaml-cpp
 	url = https://github.com/atomlong/mingw-w64-yaml-cpp.git
