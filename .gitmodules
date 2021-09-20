@@ -2131,6 +2131,9 @@
 [submodule "perl-pod-pom-view-restructured"]
 	path = perl-pod-pom-view-restructured
 	url = https://github.com/atomlong/perl-pod-pom-view-restructured.git
+[submodule "phantomjs"]
+	path = phantomjs
+	url = https://github.com/atomlong/phantomjs.git
 [submodule "platformio"]
 	path = platformio
 	url = https://github.com/atomlong/platformio.git
