@@ -448,6 +448,9 @@
 [submodule "mingw-w64-zlib"]
 	path = mingw-w64-zlib
 	url = https://github.com/atomlong/mingw-w64-zlib.git
+[submodule "mingw-w64-zstd"]
+	path = mingw-w64-zstd
+	url = https://github.com/atomlong/mingw-w64-zstd.git
 [submodule "mjpeg-proxy-git"]
 	path = mjpeg-proxy-git
 	url = https://github.com/atomlong/mjpeg-proxy-git.git
