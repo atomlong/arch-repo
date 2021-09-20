@@ -448,6 +448,9 @@
 [submodule "mingw-w64-solid"]
 	path = mingw-w64-solid
 	url = https://github.com/atomlong/mingw-w64-solid.git
+[submodule "mingw-w64-spectra09"]
+	path = mingw-w64-spectra09
+	url = https://github.com/atomlong/mingw-w64-spectra09.git
 [submodule "mingw-w64-spirv-cross"]
 	path = mingw-w64-spirv-cross
 	url = https://github.com/atomlong/mingw-w64-spirv-cross.git
