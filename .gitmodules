@@ -556,6 +556,9 @@
 [submodule "mingw-w64-json-c"]
 	path = mingw-w64-json-c
 	url = https://github.com/atomlong/mingw-w64-json-c.git
+[submodule "mingw-w64-json-glib"]
+	path = mingw-w64-json-glib
+	url = https://github.com/atomlong/mingw-w64-json-glib.git
 [submodule "mingw-w64-json-glib-bin"]
 	path = mingw-w64-json-glib-bin
 	url = https://github.com/atomlong/mingw-w64-json-glib-bin.git
