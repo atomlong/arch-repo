@@ -877,6 +877,9 @@
 [submodule "mingw-w64-libaec"]
 	path = mingw-w64-libaec
 	url = https://github.com/atomlong/mingw-w64-libaec.git
+[submodule "mingw-w64-libao"]
+	path = mingw-w64-libao
+	url = https://github.com/atomlong/mingw-w64-libao.git
 [submodule "mingw-w64-libarchive"]
 	path = mingw-w64-libarchive
 	url = https://github.com/atomlong/mingw-w64-libarchive.git
