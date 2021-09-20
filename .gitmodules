@@ -982,6 +982,9 @@
 [submodule "mingw-w64-libsoup"]
 	path = mingw-w64-libsoup
 	url = https://github.com/atomlong/mingw-w64-libsoup.git
+[submodule "mingw-w64-libsoxr"]
+	path = mingw-w64-libsoxr
+	url = https://github.com/atomlong/mingw-w64-libsoxr.git
 [submodule "mingw-w64-libspatialite"]
 	path = mingw-w64-libspatialite
 	url = https://github.com/atomlong/mingw-w64-libspatialite.git
