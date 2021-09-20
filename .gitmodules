@@ -883,6 +883,9 @@
 [submodule "mingw-w64-uchardet"]
 	path = mingw-w64-uchardet
 	url = https://github.com/atomlong/mingw-w64-uchardet.git
+[submodule "mingw-w64-udis86"]
+	path = mingw-w64-udis86
+	url = https://github.com/atomlong/mingw-w64-udis86.git
 [submodule "mingw-w64-unifdef"]
 	path = mingw-w64-unifdef
 	url = https://github.com/atomlong/mingw-w64-unifdef.git
