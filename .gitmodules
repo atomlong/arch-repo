@@ -1897,6 +1897,9 @@
 [submodule "mingw-w64-yaml-cpp"]
 	path = mingw-w64-yaml-cpp
 	url = https://github.com/atomlong/mingw-w64-yaml-cpp.git
+[submodule "mingw-w64-yasm"]
+	path = mingw-w64-yasm
+	url = https://github.com/atomlong/mingw-w64-yasm.git
 [submodule "mingw-w64-z3"]
 	path = mingw-w64-z3
 	url = https://github.com/atomlong/mingw-w64-z3.git
