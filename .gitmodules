@@ -364,6 +364,9 @@
 [submodule "mingw-w64-atk"]
 	path = mingw-w64-atk
 	url = https://github.com/atomlong/mingw-w64-atk.git
+[submodule "mingw-w64-atkmm"]
+	path = mingw-w64-atkmm
+	url = https://github.com/atomlong/mingw-w64-atkmm.git
 [submodule "mingw-w64-babl"]
 	path = mingw-w64-babl
 	url = https://github.com/atomlong/mingw-w64-babl.git
