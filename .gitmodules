@@ -862,6 +862,9 @@
 [submodule "mingw-w64-tools"]
 	path = mingw-w64-tools
 	url = https://github.com/atomlong/mingw-w64-tools.git
+[submodule "mingw-w64-trilinos"]
+	path = mingw-w64-trilinos
+	url = https://github.com/atomlong/mingw-w64-trilinos.git
 [submodule "mingw-w64-uchardet"]
 	path = mingw-w64-uchardet
 	url = https://github.com/atomlong/mingw-w64-uchardet.git
