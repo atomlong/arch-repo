@@ -532,6 +532,9 @@
 [submodule "mingw-w64-libgnurx"]
 	path = mingw-w64-libgnurx
 	url = https://github.com/atomlong/mingw-w64-libgnurx.git
+[submodule "mingw-w64-libharu"]
+	path = mingw-w64-libharu
+	url = https://github.com/atomlong/mingw-w64-libharu.git
 [submodule "mingw-w64-libheif"]
 	path = mingw-w64-libheif
 	url = https://github.com/atomlong/mingw-w64-libheif.git
