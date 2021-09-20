@@ -1354,6 +1354,9 @@
 [submodule "mingw-w64-qt5-speech"]
 	path = mingw-w64-qt5-speech
 	url = https://github.com/atomlong/mingw-w64-qt5-speech.git
+[submodule "mingw-w64-qt5-speech-static"]
+	path = mingw-w64-qt5-speech-static
+	url = https://github.com/atomlong/mingw-w64-qt5-speech-static.git
 [submodule "mingw-w64-qt5-svg"]
 	path = mingw-w64-qt5-svg
 	url = https://github.com/atomlong/mingw-w64-qt5-svg.git
