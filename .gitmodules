@@ -547,6 +547,9 @@
 [submodule "mingw-w64-libsrtp"]
 	path = mingw-w64-libsrtp
 	url = https://github.com/atomlong/mingw-w64-libsrtp.git
+[submodule "mingw-w64-libtasn1"]
+	path = mingw-w64-libtasn1
+	url = https://github.com/atomlong/mingw-w64-libtasn1.git
 [submodule "mingw-w64-libtool"]
 	path = mingw-w64-libtool
 	url = https://github.com/atomlong/mingw-w64-libtool.git
