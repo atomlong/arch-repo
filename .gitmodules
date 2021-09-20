@@ -610,6 +610,9 @@
 [submodule "mingw-w64-kguiaddons"]
 	path = mingw-w64-kguiaddons
 	url = https://github.com/atomlong/mingw-w64-kguiaddons.git
+[submodule "mingw-w64-kitemviews"]
+	path = mingw-w64-kitemviews
+	url = https://github.com/atomlong/mingw-w64-kitemviews.git
 [submodule "mingw-w64-l-smash"]
 	path = mingw-w64-l-smash
 	url = https://github.com/atomlong/mingw-w64-l-smash.git
