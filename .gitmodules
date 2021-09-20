@@ -763,6 +763,9 @@
 [submodule "mingw-w64-solid"]
 	path = mingw-w64-solid
 	url = https://github.com/atomlong/mingw-w64-solid.git
+[submodule "mingw-w64-sparsehash"]
+	path = mingw-w64-sparsehash
+	url = https://github.com/atomlong/mingw-w64-sparsehash.git
 [submodule "mingw-w64-spatialindex"]
 	path = mingw-w64-spatialindex
 	url = https://github.com/atomlong/mingw-w64-spatialindex.git
