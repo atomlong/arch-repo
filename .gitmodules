@@ -391,6 +391,9 @@
 [submodule "mingw-w64-capstone"]
 	path = mingw-w64-capstone
 	url = https://github.com/atomlong/mingw-w64-capstone.git
+[submodule "mingw-w64-ceres-solver"]
+	path = mingw-w64-ceres-solver
+	url = https://github.com/atomlong/mingw-w64-ceres-solver.git
 [submodule "mingw-w64-cgns"]
 	path = mingw-w64-cgns
 	url = https://github.com/atomlong/mingw-w64-cgns.git
