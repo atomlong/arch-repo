@@ -1615,6 +1615,9 @@
 [submodule "ntpdate"]
 	path = ntpdate
 	url = https://github.com/atomlong/ntpdate.git
+[submodule "numix-icon-theme-git"]
+	path = numix-icon-theme-git
+	url = https://github.com/atomlong/numix-icon-theme-git.git
 [submodule "octopi"]
 	path = octopi
 	url = https://github.com/atomlong/octopi.git
