@@ -1030,6 +1030,9 @@
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
+[submodule "mingw-w64-qt5-speech"]
+	path = mingw-w64-qt5-speech
+	url = https://github.com/atomlong/mingw-w64-qt5-speech.git
 [submodule "mingw-w64-qt5-svg"]
 	path = mingw-w64-qt5-svg
 	url = https://github.com/atomlong/mingw-w64-qt5-svg.git
