@@ -820,6 +820,9 @@
 [submodule "mingw-w64-libarchive"]
 	path = mingw-w64-libarchive
 	url = https://github.com/atomlong/mingw-w64-libarchive.git
+[submodule "mingw-w64-libassuan"]
+	path = mingw-w64-libassuan
+	url = https://github.com/atomlong/mingw-w64-libassuan.git
 [submodule "mingw-w64-libatomic_ops"]
 	path = mingw-w64-libatomic_ops
 	url = https://github.com/atomlong/mingw-w64-libatomic_ops.git
