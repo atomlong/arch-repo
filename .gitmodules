@@ -1039,6 +1039,9 @@
 [submodule "mingw-w64-solid"]
 	path = mingw-w64-solid
 	url = https://github.com/atomlong/mingw-w64-solid.git
+[submodule "mingw-w64-sord"]
+	path = mingw-w64-sord
+	url = https://github.com/atomlong/mingw-w64-sord.git
 [submodule "mingw-w64-sparsehash"]
 	path = mingw-w64-sparsehash
 	url = https://github.com/atomlong/mingw-w64-sparsehash.git
