@@ -370,6 +370,9 @@
 [submodule "mingw-w64-kdreports-git"]
 	path = mingw-w64-kdreports-git
 	url = https://github.com/atomlong/mingw-w64-kdreports-git.git
+[submodule "mingw-w64-laz-perf"]
+	path = mingw-w64-laz-perf
+	url = https://github.com/atomlong/mingw-w64-laz-perf.git
 [submodule "mingw-w64-libconfig"]
 	path = mingw-w64-libconfig
 	url = https://github.com/atomlong/mingw-w64-libconfig.git
