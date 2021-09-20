@@ -607,6 +607,9 @@
 [submodule "mingw-w64-glpk"]
 	path = mingw-w64-glpk
 	url = https://github.com/atomlong/mingw-w64-glpk.git
+[submodule "mingw-w64-glslang"]
+	path = mingw-w64-glslang
+	url = https://github.com/atomlong/mingw-w64-glslang.git
 [submodule "mingw-w64-gmp"]
 	path = mingw-w64-gmp
 	url = https://github.com/atomlong/mingw-w64-gmp.git
