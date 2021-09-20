@@ -328,6 +328,9 @@
 [submodule "mingw-w64-agrum"]
 	path = mingw-w64-agrum
 	url = https://github.com/atomlong/mingw-w64-agrum.git
+[submodule "mingw-w64-allegro"]
+	path = mingw-w64-allegro
+	url = https://github.com/atomlong/mingw-w64-allegro.git
 [submodule "mingw-w64-allegro-static-bin"]
 	path = mingw-w64-allegro-static-bin
 	url = https://github.com/atomlong/mingw-w64-allegro-static-bin.git
