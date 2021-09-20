@@ -1180,6 +1180,9 @@
 [submodule "mingw-w64-polyclipping"]
 	path = mingw-w64-polyclipping
 	url = https://github.com/atomlong/mingw-w64-polyclipping.git
+[submodule "mingw-w64-popt"]
+	path = mingw-w64-popt
+	url = https://github.com/atomlong/mingw-w64-popt.git
 [submodule "mingw-w64-portablexdr"]
 	path = mingw-w64-portablexdr
 	url = https://github.com/atomlong/mingw-w64-portablexdr.git
