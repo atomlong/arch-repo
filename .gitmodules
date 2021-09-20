@@ -1444,6 +1444,9 @@
 [submodule "mingw-w64-tk"]
 	path = mingw-w64-tk
 	url = https://github.com/atomlong/mingw-w64-tk.git
+[submodule "mingw-w64-tmxparser-git"]
+	path = mingw-w64-tmxparser-git
+	url = https://github.com/atomlong/mingw-w64-tmxparser-git.git
 [submodule "mingw-w64-tools"]
 	path = mingw-w64-tools
 	url = https://github.com/atomlong/mingw-w64-tools.git
