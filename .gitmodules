@@ -1387,6 +1387,9 @@
 [submodule "mingw-w64-qt5-scxml-static"]
 	path = mingw-w64-qt5-scxml-static
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml-static.git
+[submodule "mingw-w64-qt5-sensors"]
+	path = mingw-w64-qt5-sensors
+	url = https://github.com/atomlong/mingw-w64-qt5-sensors.git
 [submodule "mingw-w64-qt5-serialport"]
 	path = mingw-w64-qt5-serialport
 	url = https://github.com/atomlong/mingw-w64-qt5-serialport.git
