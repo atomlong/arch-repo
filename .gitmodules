@@ -1015,6 +1015,9 @@
 [submodule "mingw-w64-libwebp"]
 	path = mingw-w64-libwebp
 	url = https://github.com/atomlong/mingw-w64-libwebp.git
+[submodule "mingw-w64-libwebsockets"]
+	path = mingw-w64-libwebsockets
+	url = https://github.com/atomlong/mingw-w64-libwebsockets.git
 [submodule "mingw-w64-libxdiff"]
 	path = mingw-w64-libxdiff
 	url = https://github.com/atomlong/mingw-w64-libxdiff.git
