@@ -1336,6 +1336,9 @@
 [submodule "rclone-git"]
 	path = rclone-git
 	url = https://github.com/atomlong/rclone-git.git
+[submodule "reflective-rapidjson"]
+	path = reflective-rapidjson
+	url = https://github.com/atomlong/reflective-rapidjson.git
 [submodule "rng-tools-git"]
 	path = rng-tools-git
 	url = https://github.com/atomlong/rng-tools-git.git
