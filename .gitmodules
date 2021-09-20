@@ -1018,6 +1018,9 @@
 [submodule "mingw-w64-libwebsockets"]
 	path = mingw-w64-libwebsockets
 	url = https://github.com/atomlong/mingw-w64-libwebsockets.git
+[submodule "mingw-w64-libxau"]
+	path = mingw-w64-libxau
+	url = https://github.com/atomlong/mingw-w64-libxau.git
 [submodule "mingw-w64-libxdiff"]
 	path = mingw-w64-libxdiff
 	url = https://github.com/atomlong/mingw-w64-libxdiff.git
