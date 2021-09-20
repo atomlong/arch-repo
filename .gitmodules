@@ -1105,6 +1105,9 @@
 [submodule "mingw-w64-lpsolve"]
 	path = mingw-w64-lpsolve
 	url = https://github.com/atomlong/mingw-w64-lpsolve.git
+[submodule "mingw-w64-lua51"]
+	path = mingw-w64-lua51
+	url = https://github.com/atomlong/mingw-w64-lua51.git
 [submodule "mingw-w64-lv2"]
 	path = mingw-w64-lv2
 	url = https://github.com/atomlong/mingw-w64-lv2.git
