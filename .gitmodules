@@ -952,6 +952,9 @@
 [submodule "mingw-w64-qt6-declarative"]
 	path = mingw-w64-qt6-declarative
 	url = https://github.com/atomlong/mingw-w64-qt6-declarative.git
+[submodule "mingw-w64-qt6-declarative-static"]
+	path = mingw-w64-qt6-declarative-static
+	url = https://github.com/atomlong/mingw-w64-qt6-declarative-static.git
 [submodule "mingw-w64-qt6-networkauth"]
 	path = mingw-w64-qt6-networkauth
 	url = https://github.com/atomlong/mingw-w64-qt6-networkauth.git
