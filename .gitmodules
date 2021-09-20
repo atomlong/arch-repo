@@ -1246,6 +1246,9 @@
 [submodule "mingw-w64-qt6-virtualkeyboard"]
 	path = mingw-w64-qt6-virtualkeyboard
 	url = https://github.com/atomlong/mingw-w64-qt6-virtualkeyboard.git
+[submodule "mingw-w64-qt6-virtualkeyboard-static"]
+	path = mingw-w64-qt6-virtualkeyboard-static
+	url = https://github.com/atomlong/mingw-w64-qt6-virtualkeyboard-static.git
 [submodule "mingw-w64-qtkeychain-qt5"]
 	path = mingw-w64-qtkeychain-qt5
 	url = https://github.com/atomlong/mingw-w64-qtkeychain-qt5.git
