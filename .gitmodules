@@ -1093,6 +1093,9 @@
 [submodule "mingw-w64-opencc"]
 	path = mingw-w64-opencc
 	url = https://github.com/atomlong/mingw-w64-opencc.git
+[submodule "mingw-w64-opencc-gui-git"]
+	path = mingw-w64-opencc-gui-git
+	url = https://github.com/atomlong/mingw-w64-opencc-gui-git.git
 [submodule "mingw-w64-opencl-headers"]
 	path = mingw-w64-opencl-headers
 	url = https://github.com/atomlong/mingw-w64-opencl-headers.git
