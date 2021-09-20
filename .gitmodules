@@ -856,6 +856,9 @@
 [submodule "mingw-w64-threadweaver"]
 	path = mingw-w64-threadweaver
 	url = https://github.com/atomlong/mingw-w64-threadweaver.git
+[submodule "mingw-w64-tinyobjloader"]
+	path = mingw-w64-tinyobjloader
+	url = https://github.com/atomlong/mingw-w64-tinyobjloader.git
 [submodule "mingw-w64-tinyxml"]
 	path = mingw-w64-tinyxml
 	url = https://github.com/atomlong/mingw-w64-tinyxml.git
