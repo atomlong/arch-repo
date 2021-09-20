@@ -490,6 +490,9 @@
 [submodule "mingw-w64-libconfig"]
 	path = mingw-w64-libconfig
 	url = https://github.com/atomlong/mingw-w64-libconfig.git
+[submodule "mingw-w64-libdxfrw"]
+	path = mingw-w64-libdxfrw
+	url = https://github.com/atomlong/mingw-w64-libdxfrw.git
 [submodule "mingw-w64-libfdk-aac"]
 	path = mingw-w64-libfdk-aac
 	url = https://github.com/atomlong/mingw-w64-libfdk-aac.git
