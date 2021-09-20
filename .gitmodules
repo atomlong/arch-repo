@@ -628,6 +628,9 @@
 [submodule "mingw-w64-gst-plugins-base-git"]
 	path = mingw-w64-gst-plugins-base-git
 	url = https://github.com/atomlong/mingw-w64-gst-plugins-base-git.git
+[submodule "mingw-w64-gst-plugins-good-git"]
+	path = mingw-w64-gst-plugins-good-git
+	url = https://github.com/atomlong/mingw-w64-gst-plugins-good-git.git
 [submodule "mingw-w64-gst-rtsp-server"]
 	path = mingw-w64-gst-rtsp-server
 	url = https://github.com/atomlong/mingw-w64-gst-rtsp-server.git
