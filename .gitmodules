@@ -1864,6 +1864,9 @@
 [submodule "mingw-w64-zfp"]
 	path = mingw-w64-zfp
 	url = https://github.com/atomlong/mingw-w64-zfp.git
+[submodule "mingw-w64-zimg"]
+	path = mingw-w64-zimg
+	url = https://github.com/atomlong/mingw-w64-zimg.git
 [submodule "mingw-w64-zlib"]
 	path = mingw-w64-zlib
 	url = https://github.com/atomlong/mingw-w64-zlib.git
