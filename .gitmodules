@@ -1216,6 +1216,9 @@
 [submodule "mingw-w64-qt5-websockets-static"]
 	path = mingw-w64-qt5-websockets-static
 	url = https://github.com/atomlong/mingw-w64-qt5-websockets-static.git
+[submodule "mingw-w64-qt5-winextras"]
+	path = mingw-w64-qt5-winextras
+	url = https://github.com/atomlong/mingw-w64-qt5-winextras.git
 [submodule "mingw-w64-qt5-winextras-static"]
 	path = mingw-w64-qt5-winextras-static
 	url = https://github.com/atomlong/mingw-w64-qt5-winextras-static.git
