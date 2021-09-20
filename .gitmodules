@@ -427,6 +427,9 @@
 [submodule "mingw-w64-libkate"]
 	path = mingw-w64-libkate
 	url = https://github.com/atomlong/mingw-w64-libkate.git
+[submodule "mingw-w64-libmodplug"]
+	path = mingw-w64-libmodplug
+	url = https://github.com/atomlong/mingw-w64-libmodplug.git
 [submodule "mingw-w64-librsvg-bin"]
 	path = mingw-w64-librsvg-bin
 	url = https://github.com/atomlong/mingw-w64-librsvg-bin.git
