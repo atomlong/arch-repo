@@ -973,6 +973,9 @@
 [submodule "mingw-w64-libtool"]
 	path = mingw-w64-libtool
 	url = https://github.com/atomlong/mingw-w64-libtool.git
+[submodule "mingw-w64-libtre-git"]
+	path = mingw-w64-libtre-git
+	url = https://github.com/atomlong/mingw-w64-libtre-git.git
 [submodule "mingw-w64-libuargp-git"]
 	path = mingw-w64-libuargp-git
 	url = https://github.com/atomlong/mingw-w64-libuargp-git.git
