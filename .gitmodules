@@ -1111,6 +1111,9 @@
 [submodule "mingw-w64-openblas-lapack"]
 	path = mingw-w64-openblas-lapack
 	url = https://github.com/atomlong/mingw-w64-openblas-lapack.git
+[submodule "mingw-w64-opencascade"]
+	path = mingw-w64-opencascade
+	url = https://github.com/atomlong/mingw-w64-opencascade.git
 [submodule "mingw-w64-opencc"]
 	path = mingw-w64-opencc
 	url = https://github.com/atomlong/mingw-w64-opencc.git
