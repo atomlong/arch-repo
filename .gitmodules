@@ -649,6 +649,9 @@
 [submodule "mingw-w64-qtkeychain-qt5"]
 	path = mingw-w64-qtkeychain-qt5
 	url = https://github.com/atomlong/mingw-w64-qtkeychain-qt5.git
+[submodule "mingw-w64-qwt-qt6"]
+	path = mingw-w64-qwt-qt6
+	url = https://github.com/atomlong/mingw-w64-qwt-qt6.git
 [submodule "mingw-w64-rapidjson"]
 	path = mingw-w64-rapidjson
 	url = https://github.com/atomlong/mingw-w64-rapidjson.git
