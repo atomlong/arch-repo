@@ -478,6 +478,9 @@
 [submodule "mingw-w64-libunistring"]
 	path = mingw-w64-libunistring
 	url = https://github.com/atomlong/mingw-w64-libunistring.git
+[submodule "mingw-w64-libuv0.10"]
+	path = mingw-w64-libuv0.10
+	url = https://github.com/atomlong/mingw-w64-libuv0.10.git
 [submodule "mingw-w64-libxdiff"]
 	path = mingw-w64-libxdiff
 	url = https://github.com/atomlong/mingw-w64-libxdiff.git
