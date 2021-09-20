@@ -1474,6 +1474,9 @@
 [submodule "sendmail"]
 	path = sendmail
 	url = https://github.com/atomlong/sendmail.git
+[submodule "shadowsocks-helper-git"]
+	path = shadowsocks-helper-git
+	url = https://github.com/atomlong/shadowsocks-helper-git.git
 [submodule "shadowsocksr"]
 	path = shadowsocksr
 	url = https://github.com/atomlong/shadowsocksr.git
