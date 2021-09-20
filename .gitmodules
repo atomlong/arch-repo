@@ -982,6 +982,9 @@
 [submodule "mingw-w64-qt5-websockets"]
 	path = mingw-w64-qt5-websockets
 	url = https://github.com/atomlong/mingw-w64-qt5-websockets.git
+[submodule "mingw-w64-qt5-winextras-static"]
+	path = mingw-w64-qt5-winextras-static
+	url = https://github.com/atomlong/mingw-w64-qt5-winextras-static.git
 [submodule "mingw-w64-qt5-xmlpatterns"]
 	path = mingw-w64-qt5-xmlpatterns
 	url = https://github.com/atomlong/mingw-w64-qt5-xmlpatterns.git
