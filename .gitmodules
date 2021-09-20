@@ -640,6 +640,9 @@
 [submodule "mingw-w64-qt5-websockets"]
 	path = mingw-w64-qt5-websockets
 	url = https://github.com/atomlong/mingw-w64-qt5-websockets.git
+[submodule "mingw-w64-qt6-base"]
+	path = mingw-w64-qt6-base
+	url = https://github.com/atomlong/mingw-w64-qt6-base.git
 [submodule "mingw-w64-qtkeychain-qt5"]
 	path = mingw-w64-qtkeychain-qt5
 	url = https://github.com/atomlong/mingw-w64-qtkeychain-qt5.git
