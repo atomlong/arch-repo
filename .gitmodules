@@ -349,6 +349,9 @@
 [submodule "mingw-w64-gettext"]
 	path = mingw-w64-gettext
 	url = https://github.com/atomlong/mingw-w64-gettext.git
+[submodule "mingw-w64-gflags"]
+	path = mingw-w64-gflags
+	url = https://github.com/atomlong/mingw-w64-gflags.git
 [submodule "mingw-w64-gfsm"]
 	path = mingw-w64-gfsm
 	url = https://github.com/atomlong/mingw-w64-gfsm.git
