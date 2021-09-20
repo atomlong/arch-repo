@@ -757,6 +757,9 @@
 [submodule "mingw-w64-speex"]
 	path = mingw-w64-speex
 	url = https://github.com/atomlong/mingw-w64-speex.git
+[submodule "mingw-w64-speexdsp"]
+	path = mingw-w64-speexdsp
+	url = https://github.com/atomlong/mingw-w64-speexdsp.git
 [submodule "mingw-w64-sphinxbase"]
 	path = mingw-w64-sphinxbase
 	url = https://github.com/atomlong/mingw-w64-sphinxbase.git
