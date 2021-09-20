@@ -349,6 +349,9 @@
 [submodule "mingw-w64-bcunit"]
 	path = mingw-w64-bcunit
 	url = https://github.com/atomlong/mingw-w64-bcunit.git
+[submodule "mingw-w64-blosc"]
+	path = mingw-w64-blosc
+	url = https://github.com/atomlong/mingw-w64-blosc.git
 [submodule "mingw-w64-boost"]
 	path = mingw-w64-boost
 	url = https://github.com/atomlong/mingw-w64-boost.git
