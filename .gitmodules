@@ -1612,6 +1612,9 @@
 [submodule "mingw-w64-rubberband"]
 	path = mingw-w64-rubberband
 	url = https://github.com/atomlong/mingw-w64-rubberband.git
+[submodule "mingw-w64-sassc"]
+	path = mingw-w64-sassc
+	url = https://github.com/atomlong/mingw-w64-sassc.git
 [submodule "mingw-w64-schroedinger"]
 	path = mingw-w64-schroedinger
 	url = https://github.com/atomlong/mingw-w64-schroedinger.git
