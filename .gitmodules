@@ -568,6 +568,9 @@
 [submodule "mingw-w64-mumps"]
 	path = mingw-w64-mumps
 	url = https://github.com/atomlong/mingw-w64-mumps.git
+[submodule "mingw-w64-nlohmann-json"]
+	path = mingw-w64-nlohmann-json
+	url = https://github.com/atomlong/mingw-w64-nlohmann-json.git
 [submodule "mingw-w64-nspr"]
 	path = mingw-w64-nspr
 	url = https://github.com/atomlong/mingw-w64-nspr.git
