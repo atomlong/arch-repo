@@ -508,6 +508,9 @@
 [submodule "mingw-w64-double-conversion"]
 	path = mingw-w64-double-conversion
 	url = https://github.com/atomlong/mingw-w64-double-conversion.git
+[submodule "mingw-w64-duktape"]
+	path = mingw-w64-duktape
+	url = https://github.com/atomlong/mingw-w64-duktape.git
 [submodule "mingw-w64-endian"]
 	path = mingw-w64-endian
 	url = https://github.com/atomlong/mingw-w64-endian.git
