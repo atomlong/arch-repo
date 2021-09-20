@@ -223,6 +223,9 @@
 [submodule "gstreamer-git"]
 	path = gstreamer-git
 	url = https://github.com/atomlong/gstreamer-git.git
+[submodule "gyp-git"]
+	path = gyp-git
+	url = https://github.com/atomlong/gyp-git.git
 [submodule "home-assistant"]
 	path = home-assistant
 	url = https://github.com/atomlong/home-assistant.git
