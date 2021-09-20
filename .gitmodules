@@ -568,6 +568,9 @@
 [submodule "mingw-w64-gst-editing-services-git"]
 	path = mingw-w64-gst-editing-services-git
 	url = https://github.com/atomlong/mingw-w64-gst-editing-services-git.git
+[submodule "mingw-w64-gst-libav"]
+	path = mingw-w64-gst-libav
+	url = https://github.com/atomlong/mingw-w64-gst-libav.git
 [submodule "mingw-w64-gst-libav-git"]
 	path = mingw-w64-gst-libav-git
 	url = https://github.com/atomlong/mingw-w64-gst-libav-git.git
