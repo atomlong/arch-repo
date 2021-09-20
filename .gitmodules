@@ -679,6 +679,9 @@
 [submodule "mingw-w64-rapidjson"]
 	path = mingw-w64-rapidjson
 	url = https://github.com/atomlong/mingw-w64-rapidjson.git
+[submodule "mingw-w64-rav1e"]
+	path = mingw-w64-rav1e
+	url = https://github.com/atomlong/mingw-w64-rav1e.git
 [submodule "mingw-w64-readerwriterqueue-git"]
 	path = mingw-w64-readerwriterqueue-git
 	url = https://github.com/atomlong/mingw-w64-readerwriterqueue-git.git
