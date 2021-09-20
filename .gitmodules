@@ -631,6 +631,9 @@
 [submodule "mingw-w64-glib2"]
 	path = mingw-w64-glib2
 	url = https://github.com/atomlong/mingw-w64-glib2.git
+[submodule "mingw-w64-glibmm"]
+	path = mingw-w64-glibmm
+	url = https://github.com/atomlong/mingw-w64-glibmm.git
 [submodule "mingw-w64-glpk"]
 	path = mingw-w64-glpk
 	url = https://github.com/atomlong/mingw-w64-glpk.git
