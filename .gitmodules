@@ -922,6 +922,9 @@
 [submodule "mingw-w64-libcuckoo-git"]
 	path = mingw-w64-libcuckoo-git
 	url = https://github.com/atomlong/mingw-w64-libcuckoo-git.git
+[submodule "mingw-w64-libdatrie"]
+	path = mingw-w64-libdatrie
+	url = https://github.com/atomlong/mingw-w64-libdatrie.git
 [submodule "mingw-w64-libdvdcss"]
 	path = mingw-w64-libdvdcss
 	url = https://github.com/atomlong/mingw-w64-libdvdcss.git
