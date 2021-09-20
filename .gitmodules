@@ -604,6 +604,9 @@
 [submodule "mingw-w64-gdb"]
 	path = mingw-w64-gdb
 	url = https://github.com/atomlong/mingw-w64-gdb.git
+[submodule "mingw-w64-gdbm"]
+	path = mingw-w64-gdbm
+	url = https://github.com/atomlong/mingw-w64-gdbm.git
 [submodule "mingw-w64-gdcc"]
 	path = mingw-w64-gdcc
 	url = https://github.com/atomlong/mingw-w64-gdcc.git
