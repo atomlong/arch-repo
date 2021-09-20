@@ -1117,6 +1117,9 @@
 [submodule "mingw-w64-proj"]
 	path = mingw-w64-proj
 	url = https://github.com/atomlong/mingw-w64-proj.git
+[submodule "mingw-w64-protobuf"]
+	path = mingw-w64-protobuf
+	url = https://github.com/atomlong/mingw-w64-protobuf.git
 [submodule "mingw-w64-pugixml"]
 	path = mingw-w64-pugixml
 	url = https://github.com/atomlong/mingw-w64-pugixml.git
