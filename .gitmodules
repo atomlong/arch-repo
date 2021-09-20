@@ -667,6 +667,9 @@
 [submodule "mingw-w64-lame"]
 	path = mingw-w64-lame
 	url = https://github.com/atomlong/mingw-w64-lame.git
+[submodule "mingw-w64-lapackpp"]
+	path = mingw-w64-lapackpp
+	url = https://github.com/atomlong/mingw-w64-lapackpp.git
 [submodule "mingw-w64-laszip"]
 	path = mingw-w64-laszip
 	url = https://github.com/atomlong/mingw-w64-laszip.git
