@@ -442,6 +442,9 @@
 [submodule "mingw-w64-jemalloc"]
 	path = mingw-w64-jemalloc
 	url = https://github.com/atomlong/mingw-w64-jemalloc.git
+[submodule "mingw-w64-json-c"]
+	path = mingw-w64-json-c
+	url = https://github.com/atomlong/mingw-w64-json-c.git
 [submodule "mingw-w64-kdreports-git"]
 	path = mingw-w64-kdreports-git
 	url = https://github.com/atomlong/mingw-w64-kdreports-git.git
