@@ -436,6 +436,9 @@
 [submodule "mingw-w64-coin-or-bcp"]
 	path = mingw-w64-coin-or-bcp
 	url = https://github.com/atomlong/mingw-w64-coin-or-bcp.git
+[submodule "mingw-w64-coin-or-bonmin"]
+	path = mingw-w64-coin-or-bonmin
+	url = https://github.com/atomlong/mingw-w64-coin-or-bonmin.git
 [submodule "mingw-w64-coin-or-cbc"]
 	path = mingw-w64-coin-or-cbc
 	url = https://github.com/atomlong/mingw-w64-coin-or-cbc.git
