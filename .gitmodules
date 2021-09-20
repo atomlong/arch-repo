@@ -934,6 +934,9 @@
 [submodule "mingw-w64-qt5-gamepad"]
 	path = mingw-w64-qt5-gamepad
 	url = https://github.com/atomlong/mingw-w64-qt5-gamepad.git
+[submodule "mingw-w64-qt5-gamepad-static"]
+	path = mingw-w64-qt5-gamepad-static
+	url = https://github.com/atomlong/mingw-w64-qt5-gamepad-static.git
 [submodule "mingw-w64-qt5-location"]
 	path = mingw-w64-qt5-location
 	url = https://github.com/atomlong/mingw-w64-qt5-location.git
