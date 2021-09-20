@@ -904,6 +904,9 @@
 [submodule "mingw-w64-qt5-datavis3d"]
 	path = mingw-w64-qt5-datavis3d
 	url = https://github.com/atomlong/mingw-w64-qt5-datavis3d.git
+[submodule "mingw-w64-qt5-declarative-static"]
+	path = mingw-w64-qt5-declarative-static
+	url = https://github.com/atomlong/mingw-w64-qt5-declarative-static.git
 [submodule "mingw-w64-qt5-gamepad"]
 	path = mingw-w64-qt5-gamepad
 	url = https://github.com/atomlong/mingw-w64-qt5-gamepad.git
