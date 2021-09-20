@@ -964,6 +964,9 @@
 [submodule "mingw-w64-sdl2"]
 	path = mingw-w64-sdl2
 	url = https://github.com/atomlong/mingw-w64-sdl2.git
+[submodule "mingw-w64-sdl2_net"]
+	path = mingw-w64-sdl2_net
+	url = https://github.com/atomlong/mingw-w64-sdl2_net.git
 [submodule "mingw-w64-sdl_gfx"]
 	path = mingw-w64-sdl_gfx
 	url = https://github.com/atomlong/mingw-w64-sdl_gfx.git
