@@ -808,6 +808,9 @@
 [submodule "mingw-w64-opencv"]
 	path = mingw-w64-opencv
 	url = https://github.com/atomlong/mingw-w64-opencv.git
+[submodule "mingw-w64-openexr"]
+	path = mingw-w64-openexr
+	url = https://github.com/atomlong/mingw-w64-openexr.git
 [submodule "mingw-w64-openh264"]
 	path = mingw-w64-openh264
 	url = https://github.com/atomlong/mingw-w64-openh264.git
