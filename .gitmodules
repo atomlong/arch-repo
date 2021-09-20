@@ -679,6 +679,9 @@
 [submodule "mingw-w64-libzip"]
 	path = mingw-w64-libzip
 	url = https://github.com/atomlong/mingw-w64-libzip.git
+[submodule "mingw-w64-llvm"]
+	path = mingw-w64-llvm
+	url = https://github.com/atomlong/mingw-w64-llvm.git
 [submodule "mingw-w64-lpsolve"]
 	path = mingw-w64-lpsolve
 	url = https://github.com/atomlong/mingw-w64-lpsolve.git
