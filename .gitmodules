@@ -1522,6 +1522,9 @@
 [submodule "mingw-w64-rtmpdump"]
 	path = mingw-w64-rtmpdump
 	url = https://github.com/atomlong/mingw-w64-rtmpdump.git
+[submodule "mingw-w64-rubberband"]
+	path = mingw-w64-rubberband
+	url = https://github.com/atomlong/mingw-w64-rubberband.git
 [submodule "mingw-w64-schroedinger"]
 	path = mingw-w64-schroedinger
 	url = https://github.com/atomlong/mingw-w64-schroedinger.git
