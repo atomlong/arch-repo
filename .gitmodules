@@ -2005,6 +2005,9 @@
 [submodule "mingw-w64-z3"]
 	path = mingw-w64-z3
 	url = https://github.com/atomlong/mingw-w64-z3.git
+[submodule "mingw-w64-zeromq"]
+	path = mingw-w64-zeromq
+	url = https://github.com/atomlong/mingw-w64-zeromq.git
 [submodule "mingw-w64-zfp"]
 	path = mingw-w64-zfp
 	url = https://github.com/atomlong/mingw-w64-zfp.git
