@@ -748,6 +748,9 @@
 [submodule "mingw-w64-optpp"]
 	path = mingw-w64-optpp
 	url = https://github.com/atomlong/mingw-w64-optpp.git
+[submodule "mingw-w64-opus"]
+	path = mingw-w64-opus
+	url = https://github.com/atomlong/mingw-w64-opus.git
 [submodule "mingw-w64-orc"]
 	path = mingw-w64-orc
 	url = https://github.com/atomlong/mingw-w64-orc.git
