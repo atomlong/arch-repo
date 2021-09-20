@@ -430,6 +430,9 @@
 [submodule "mingw-w64-coin-or-asl"]
 	path = mingw-w64-coin-or-asl
 	url = https://github.com/atomlong/mingw-w64-coin-or-asl.git
+[submodule "mingw-w64-coin-or-bcp"]
+	path = mingw-w64-coin-or-bcp
+	url = https://github.com/atomlong/mingw-w64-coin-or-bcp.git
 [submodule "mingw-w64-coin-or-cgl"]
 	path = mingw-w64-coin-or-cgl
 	url = https://github.com/atomlong/mingw-w64-coin-or-cgl.git
