@@ -823,6 +823,9 @@
 [submodule "mingw-w64-pdcurses"]
 	path = mingw-w64-pdcurses
 	url = https://github.com/atomlong/mingw-w64-pdcurses.git
+[submodule "mingw-w64-pegtl"]
+	path = mingw-w64-pegtl
+	url = https://github.com/atomlong/mingw-w64-pegtl.git
 [submodule "mingw-w64-pegtl2"]
 	path = mingw-w64-pegtl2
 	url = https://github.com/atomlong/mingw-w64-pegtl2.git
