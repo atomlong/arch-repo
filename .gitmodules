@@ -760,6 +760,9 @@
 [submodule "mingw-w64-unifdef"]
 	path = mingw-w64-unifdef
 	url = https://github.com/atomlong/mingw-w64-unifdef.git
+[submodule "mingw-w64-unshield"]
+	path = mingw-w64-unshield
+	url = https://github.com/atomlong/mingw-w64-unshield.git
 [submodule "mingw-w64-vo-aacenc"]
 	path = mingw-w64-vo-aacenc
 	url = https://github.com/atomlong/mingw-w64-vo-aacenc.git
