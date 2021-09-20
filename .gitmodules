@@ -586,6 +586,9 @@
 [submodule "mingw-w64-geany"]
 	path = mingw-w64-geany
 	url = https://github.com/atomlong/mingw-w64-geany.git
+[submodule "mingw-w64-geographiclib"]
+	path = mingw-w64-geographiclib
+	url = https://github.com/atomlong/mingw-w64-geographiclib.git
 [submodule "mingw-w64-geos"]
 	path = mingw-w64-geos
 	url = https://github.com/atomlong/mingw-w64-geos.git
