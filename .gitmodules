@@ -22,6 +22,9 @@
 [submodule "archlinux-java-run"]
 	path = archlinux-java-run
 	url = https://github.com/atomlong/archlinux-java-run.git
+[submodule "aria2p"]
+	path = aria2p
+	url = https://github.com/atomlong/aria2p.git
 [submodule "armutils-git"]
 	path = armutils-git
 	url = https://github.com/atomlong/armutils-git.git
