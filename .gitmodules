@@ -361,6 +361,9 @@
 [submodule "mingw-w64-dlfcn"]
 	path = mingw-w64-dlfcn
 	url = https://github.com/atomlong/mingw-w64-dlfcn.git
+[submodule "mingw-w64-endian"]
+	path = mingw-w64-endian
+	url = https://github.com/atomlong/mingw-w64-endian.git
 [submodule "mingw-w64-environment"]
 	path = mingw-w64-environment
 	url = https://github.com/atomlong/mingw-w64-environment.git
