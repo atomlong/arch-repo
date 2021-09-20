@@ -583,6 +583,9 @@
 [submodule "mingw-w64-gbalzss"]
 	path = mingw-w64-gbalzss
 	url = https://github.com/atomlong/mingw-w64-gbalzss.git
+[submodule "mingw-w64-gc"]
+	path = mingw-w64-gc
+	url = https://github.com/atomlong/mingw-w64-gc.git
 [submodule "mingw-w64-gdal"]
 	path = mingw-w64-gdal
 	url = https://github.com/atomlong/mingw-w64-gdal.git
