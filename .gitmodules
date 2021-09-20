@@ -886,6 +886,9 @@
 [submodule "mingw-w64-tbb"]
 	path = mingw-w64-tbb
 	url = https://github.com/atomlong/mingw-w64-tbb.git
+[submodule "mingw-w64-tcl"]
+	path = mingw-w64-tcl
+	url = https://github.com/atomlong/mingw-w64-tcl.git
 [submodule "mingw-w64-termcap"]
 	path = mingw-w64-termcap
 	url = https://github.com/atomlong/mingw-w64-termcap.git
