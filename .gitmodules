@@ -1489,6 +1489,9 @@
 [submodule "mingw-w64-stb-git"]
 	path = mingw-w64-stb-git
 	url = https://github.com/atomlong/mingw-w64-stb-git.git
+[submodule "mingw-w64-suitesparse"]
+	path = mingw-w64-suitesparse
+	url = https://github.com/atomlong/mingw-w64-suitesparse.git
 [submodule "mingw-w64-svt-hevc"]
 	path = mingw-w64-svt-hevc
 	url = https://github.com/atomlong/mingw-w64-svt-hevc.git
