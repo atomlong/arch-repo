@@ -439,6 +439,9 @@
 [submodule "mingw-w64-docbook-wrapper"]
 	path = mingw-w64-docbook-wrapper
 	url = https://github.com/atomlong/mingw-w64-docbook-wrapper.git
+[submodule "mingw-w64-double-conversion"]
+	path = mingw-w64-double-conversion
+	url = https://github.com/atomlong/mingw-w64-double-conversion.git
 [submodule "mingw-w64-endian"]
 	path = mingw-w64-endian
 	url = https://github.com/atomlong/mingw-w64-endian.git
