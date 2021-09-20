@@ -730,6 +730,9 @@
 [submodule "mingw-w64-gtk3-bin"]
 	path = mingw-w64-gtk3-bin
 	url = https://github.com/atomlong/mingw-w64-gtk3-bin.git
+[submodule "mingw-w64-gtkmm"]
+	path = mingw-w64-gtkmm
+	url = https://github.com/atomlong/mingw-w64-gtkmm.git
 [submodule "mingw-w64-gtksourceview4"]
 	path = mingw-w64-gtksourceview4
 	url = https://github.com/atomlong/mingw-w64-gtksourceview4.git
