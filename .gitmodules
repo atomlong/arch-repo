@@ -802,6 +802,9 @@
 [submodule "mingw-w64-libfilezilla"]
 	path = mingw-w64-libfilezilla
 	url = https://github.com/atomlong/mingw-w64-libfilezilla.git
+[submodule "mingw-w64-libfilezilla-svn"]
+	path = mingw-w64-libfilezilla-svn
+	url = https://github.com/atomlong/mingw-w64-libfilezilla-svn.git
 [submodule "mingw-w64-libfreexl"]
 	path = mingw-w64-libfreexl
 	url = https://github.com/atomlong/mingw-w64-libfreexl.git
