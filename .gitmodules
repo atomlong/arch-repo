@@ -1939,6 +1939,9 @@
 [submodule "mingw-w64-vtk-git"]
 	path = mingw-w64-vtk-git
 	url = https://github.com/atomlong/mingw-w64-vtk-git.git
+[submodule "mingw-w64-vulkan-caps-viewer"]
+	path = mingw-w64-vulkan-caps-viewer
+	url = https://github.com/atomlong/mingw-w64-vulkan-caps-viewer.git
 [submodule "mingw-w64-vulkan-icd-loader"]
 	path = mingw-w64-vulkan-icd-loader
 	url = https://github.com/atomlong/mingw-w64-vulkan-icd-loader.git
