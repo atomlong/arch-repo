@@ -397,6 +397,9 @@
 [submodule "mingw-w64-hicolor-icon-theme"]
 	path = mingw-w64-hicolor-icon-theme
 	url = https://github.com/atomlong/mingw-w64-hicolor-icon-theme.git
+[submodule "mingw-w64-hmat-oss"]
+	path = mingw-w64-hmat-oss
+	url = https://github.com/atomlong/mingw-w64-hmat-oss.git
 [submodule "mingw-w64-http-parser"]
 	path = mingw-w64-http-parser
 	url = https://github.com/atomlong/mingw-w64-http-parser.git
