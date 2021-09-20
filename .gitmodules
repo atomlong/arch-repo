@@ -556,6 +556,9 @@
 [submodule "mingw-w64-vulkan-icd-loader"]
 	path = mingw-w64-vulkan-icd-loader
 	url = https://github.com/atomlong/mingw-w64-vulkan-icd-loader.git
+[submodule "mingw-w64-waffle"]
+	path = mingw-w64-waffle
+	url = https://github.com/atomlong/mingw-w64-waffle.git
 [submodule "mingw-w64-wine"]
 	path = mingw-w64-wine
 	url = https://github.com/atomlong/mingw-w64-wine.git
