@@ -754,6 +754,9 @@
 [submodule "mingw-w64-pugixml"]
 	path = mingw-w64-pugixml
 	url = https://github.com/atomlong/mingw-w64-pugixml.git
+[submodule "mingw-w64-python-bin"]
+	path = mingw-w64-python-bin
+	url = https://github.com/atomlong/mingw-w64-python-bin.git
 [submodule "mingw-w64-python27-bin"]
 	path = mingw-w64-python27-bin
 	url = https://github.com/atomlong/mingw-w64-python27-bin.git
