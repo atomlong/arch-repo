@@ -604,6 +604,9 @@
 [submodule "mingw-w64-kdsoap"]
 	path = mingw-w64-kdsoap
 	url = https://github.com/atomlong/mingw-w64-kdsoap.git
+[submodule "mingw-w64-kguiaddons"]
+	path = mingw-w64-kguiaddons
+	url = https://github.com/atomlong/mingw-w64-kguiaddons.git
 [submodule "mingw-w64-l-smash"]
 	path = mingw-w64-l-smash
 	url = https://github.com/atomlong/mingw-w64-l-smash.git
