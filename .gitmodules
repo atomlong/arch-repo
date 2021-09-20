@@ -313,6 +313,9 @@
 [submodule "mingw-w64-bzip2"]
 	path = mingw-w64-bzip2
 	url = https://github.com/atomlong/mingw-w64-bzip2.git
+[submodule "mingw-w64-civetweb"]
+	path = mingw-w64-civetweb
+	url = https://github.com/atomlong/mingw-w64-civetweb.git
 [submodule "mingw-w64-cmake"]
 	path = mingw-w64-cmake
 	url = https://github.com/atomlong/mingw-w64-cmake.git
