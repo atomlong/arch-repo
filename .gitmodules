@@ -883,6 +883,9 @@
 [submodule "mingw-w64-pugixml"]
 	path = mingw-w64-pugixml
 	url = https://github.com/atomlong/mingw-w64-pugixml.git
+[submodule "mingw-w64-pybind11"]
+	path = mingw-w64-pybind11
+	url = https://github.com/atomlong/mingw-w64-pybind11.git
 [submodule "mingw-w64-python"]
 	path = mingw-w64-python
 	url = https://github.com/atomlong/mingw-w64-python.git
