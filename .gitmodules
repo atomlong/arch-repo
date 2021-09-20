@@ -457,6 +457,9 @@
 [submodule "mingw-w64-termcap"]
 	path = mingw-w64-termcap
 	url = https://github.com/atomlong/mingw-w64-termcap.git
+[submodule "mingw-w64-tools"]
+	path = mingw-w64-tools
+	url = https://github.com/atomlong/mingw-w64-tools.git
 [submodule "mingw-w64-unifdef"]
 	path = mingw-w64-unifdef
 	url = https://github.com/atomlong/mingw-w64-unifdef.git
