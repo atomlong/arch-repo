@@ -1099,6 +1099,9 @@
 [submodule "mingw-w64-qt6-base-static"]
 	path = mingw-w64-qt6-base-static
 	url = https://github.com/atomlong/mingw-w64-qt6-base-static.git
+[submodule "mingw-w64-qt6-charts"]
+	path = mingw-w64-qt6-charts
+	url = https://github.com/atomlong/mingw-w64-qt6-charts.git
 [submodule "mingw-w64-qt6-charts-static"]
 	path = mingw-w64-qt6-charts-static
 	url = https://github.com/atomlong/mingw-w64-qt6-charts-static.git
