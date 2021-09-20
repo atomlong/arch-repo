@@ -1243,6 +1243,9 @@
 [submodule "mingw-w64-qt6-tools-static"]
 	path = mingw-w64-qt6-tools-static
 	url = https://github.com/atomlong/mingw-w64-qt6-tools-static.git
+[submodule "mingw-w64-qt6-translations"]
+	path = mingw-w64-qt6-translations
+	url = https://github.com/atomlong/mingw-w64-qt6-translations.git
 [submodule "mingw-w64-qt6-virtualkeyboard"]
 	path = mingw-w64-qt6-virtualkeyboard
 	url = https://github.com/atomlong/mingw-w64-qt6-virtualkeyboard.git
