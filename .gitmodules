@@ -994,6 +994,9 @@
 [submodule "mingw-w64-libunistring"]
 	path = mingw-w64-libunistring
 	url = https://github.com/atomlong/mingw-w64-libunistring.git
+[submodule "mingw-w64-libusb"]
+	path = mingw-w64-libusb
+	url = https://github.com/atomlong/mingw-w64-libusb.git
 [submodule "mingw-w64-libuv"]
 	path = mingw-w64-libuv
 	url = https://github.com/atomlong/mingw-w64-libuv.git
