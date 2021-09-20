@@ -418,6 +418,9 @@
 [submodule "mingw-w64-fltk"]
 	path = mingw-w64-fltk
 	url = https://github.com/atomlong/mingw-w64-fltk.git
+[submodule "mingw-w64-gdal"]
+	path = mingw-w64-gdal
+	url = https://github.com/atomlong/mingw-w64-gdal.git
 [submodule "mingw-w64-gdb"]
 	path = mingw-w64-gdb
 	url = https://github.com/atomlong/mingw-w64-gdb.git
