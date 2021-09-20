@@ -559,6 +559,9 @@
 [submodule "mingw-w64-libvisual"]
 	path = mingw-w64-libvisual
 	url = https://github.com/atomlong/mingw-w64-libvisual.git
+[submodule "mingw-w64-libwebp"]
+	path = mingw-w64-libwebp
+	url = https://github.com/atomlong/mingw-w64-libwebp.git
 [submodule "mingw-w64-libxdiff"]
 	path = mingw-w64-libxdiff
 	url = https://github.com/atomlong/mingw-w64-libxdiff.git
