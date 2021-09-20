@@ -1330,6 +1330,9 @@
 [submodule "mingw-w64-qt5-graphicaleffects"]
 	path = mingw-w64-qt5-graphicaleffects
 	url = https://github.com/atomlong/mingw-w64-qt5-graphicaleffects.git
+[submodule "mingw-w64-qt5-graphicaleffects-static"]
+	path = mingw-w64-qt5-graphicaleffects-static
+	url = https://github.com/atomlong/mingw-w64-qt5-graphicaleffects-static.git
 [submodule "mingw-w64-qt5-imageformats"]
 	path = mingw-w64-qt5-imageformats
 	url = https://github.com/atomlong/mingw-w64-qt5-imageformats.git
