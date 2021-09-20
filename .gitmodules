@@ -706,6 +706,9 @@
 [submodule "mingw-w64-jansson"]
 	path = mingw-w64-jansson
 	url = https://github.com/atomlong/mingw-w64-jansson.git
+[submodule "mingw-w64-jasper"]
+	path = mingw-w64-jasper
+	url = https://github.com/atomlong/mingw-w64-jasper.git
 [submodule "mingw-w64-jemalloc"]
 	path = mingw-w64-jemalloc
 	url = https://github.com/atomlong/mingw-w64-jemalloc.git
