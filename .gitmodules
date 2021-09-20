@@ -493,6 +493,9 @@
 [submodule "mingw-w64-python38-bin"]
 	path = mingw-w64-python38-bin
 	url = https://github.com/atomlong/mingw-w64-python38-bin.git
+[submodule "mingw-w64-qt5-datavis3d"]
+	path = mingw-w64-qt5-datavis3d
+	url = https://github.com/atomlong/mingw-w64-qt5-datavis3d.git
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
