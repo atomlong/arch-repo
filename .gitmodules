@@ -823,6 +823,9 @@
 [submodule "mingw-w64-levmar"]
 	path = mingw-w64-levmar
 	url = https://github.com/atomlong/mingw-w64-levmar.git
+[submodule "mingw-w64-libaacs"]
+	path = mingw-w64-libaacs
+	url = https://github.com/atomlong/mingw-w64-libaacs.git
 [submodule "mingw-w64-libaec"]
 	path = mingw-w64-libaec
 	url = https://github.com/atomlong/mingw-w64-libaec.git
