@@ -841,6 +841,9 @@
 [submodule "mingw-w64-libarchive"]
 	path = mingw-w64-libarchive
 	url = https://github.com/atomlong/mingw-w64-libarchive.git
+[submodule "mingw-w64-libass"]
+	path = mingw-w64-libass
+	url = https://github.com/atomlong/mingw-w64-libass.git
 [submodule "mingw-w64-libassuan"]
 	path = mingw-w64-libassuan
 	url = https://github.com/atomlong/mingw-w64-libassuan.git
