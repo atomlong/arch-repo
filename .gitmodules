@@ -1012,6 +1012,9 @@
 [submodule "mingw-w64-qt5-multimedia"]
 	path = mingw-w64-qt5-multimedia
 	url = https://github.com/atomlong/mingw-w64-qt5-multimedia.git
+[submodule "mingw-w64-qt5-multimedia-static"]
+	path = mingw-w64-qt5-multimedia-static
+	url = https://github.com/atomlong/mingw-w64-qt5-multimedia-static.git
 [submodule "mingw-w64-qt5-networkauth"]
 	path = mingw-w64-qt5-networkauth
 	url = https://github.com/atomlong/mingw-w64-qt5-networkauth.git
