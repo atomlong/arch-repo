@@ -1231,6 +1231,9 @@
 [submodule "mingw-w64-sdl2_gfx"]
 	path = mingw-w64-sdl2_gfx
 	url = https://github.com/atomlong/mingw-w64-sdl2_gfx.git
+[submodule "mingw-w64-sdl2_image"]
+	path = mingw-w64-sdl2_image
+	url = https://github.com/atomlong/mingw-w64-sdl2_image.git
 [submodule "mingw-w64-sdl2_net"]
 	path = mingw-w64-sdl2_net
 	url = https://github.com/atomlong/mingw-w64-sdl2_net.git
