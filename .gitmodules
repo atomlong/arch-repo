@@ -907,6 +907,9 @@
 [submodule "mingw-w64-rtmpdump"]
 	path = mingw-w64-rtmpdump
 	url = https://github.com/atomlong/mingw-w64-rtmpdump.git
+[submodule "mingw-w64-sdl"]
+	path = mingw-w64-sdl
+	url = https://github.com/atomlong/mingw-w64-sdl.git
 [submodule "mingw-w64-shared-mime-info-bin"]
 	path = mingw-w64-shared-mime-info-bin
 	url = https://github.com/atomlong/mingw-w64-shared-mime-info-bin.git
