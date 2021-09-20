@@ -469,6 +469,9 @@
 [submodule "mingw-w64-coveo-linq-git"]
 	path = mingw-w64-coveo-linq-git
 	url = https://github.com/atomlong/mingw-w64-coveo-linq-git.git
+[submodule "mingw-w64-cppunit"]
+	path = mingw-w64-cppunit
+	url = https://github.com/atomlong/mingw-w64-cppunit.git
 [submodule "mingw-w64-dav1d"]
 	path = mingw-w64-dav1d
 	url = https://github.com/atomlong/mingw-w64-dav1d.git
