@@ -640,6 +640,9 @@
 [submodule "mingw-w64-glew"]
 	path = mingw-w64-glew
 	url = https://github.com/atomlong/mingw-w64-glew.git
+[submodule "mingw-w64-glfw"]
+	path = mingw-w64-glfw
+	url = https://github.com/atomlong/mingw-w64-glfw.git
 [submodule "mingw-w64-glib-networking"]
 	path = mingw-w64-glib-networking
 	url = https://github.com/atomlong/mingw-w64-glib-networking.git
