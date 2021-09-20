@@ -448,6 +448,9 @@
 [submodule "mingw-w64-libgeoip"]
 	path = mingw-w64-libgeoip
 	url = https://github.com/atomlong/mingw-w64-libgeoip.git
+[submodule "mingw-w64-libgnurx"]
+	path = mingw-w64-libgnurx
+	url = https://github.com/atomlong/mingw-w64-libgnurx.git
 [submodule "mingw-w64-libiconv"]
 	path = mingw-w64-libiconv
 	url = https://github.com/atomlong/mingw-w64-libiconv.git
