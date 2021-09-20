@@ -781,6 +781,9 @@
 [submodule "mingw-w64-kguiaddons"]
 	path = mingw-w64-kguiaddons
 	url = https://github.com/atomlong/mingw-w64-kguiaddons.git
+[submodule "mingw-w64-kimageformats"]
+	path = mingw-w64-kimageformats
+	url = https://github.com/atomlong/mingw-w64-kimageformats.git
 [submodule "mingw-w64-kirigami2"]
 	path = mingw-w64-kirigami2
 	url = https://github.com/atomlong/mingw-w64-kirigami2.git
