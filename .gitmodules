@@ -595,6 +595,9 @@
 [submodule "mingw-w64-gtest"]
 	path = mingw-w64-gtest
 	url = https://github.com/atomlong/mingw-w64-gtest.git
+[submodule "mingw-w64-gtk3"]
+	path = mingw-w64-gtk3
+	url = https://github.com/atomlong/mingw-w64-gtk3.git
 [submodule "mingw-w64-gtk3-bin"]
 	path = mingw-w64-gtk3-bin
 	url = https://github.com/atomlong/mingw-w64-gtk3-bin.git
