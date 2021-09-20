@@ -1378,6 +1378,9 @@
 [submodule "mingw-w64-qt5-webglplugin"]
 	path = mingw-w64-qt5-webglplugin
 	url = https://github.com/atomlong/mingw-w64-qt5-webglplugin.git
+[submodule "mingw-w64-qt5-webglplugin-static"]
+	path = mingw-w64-qt5-webglplugin-static
+	url = https://github.com/atomlong/mingw-w64-qt5-webglplugin-static.git
 [submodule "mingw-w64-qt5-websockets"]
 	path = mingw-w64-qt5-websockets
 	url = https://github.com/atomlong/mingw-w64-qt5-websockets.git
