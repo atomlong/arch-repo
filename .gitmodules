@@ -754,6 +754,9 @@
 [submodule "mingw-w64-libsigc-"]
 	path = mingw-w64-libsigc-
 	url = https://github.com/atomlong/mingw-w64-libsigc-.git
+[submodule "mingw-w64-libsndfile"]
+	path = mingw-w64-libsndfile
+	url = https://github.com/atomlong/mingw-w64-libsndfile.git
 [submodule "mingw-w64-libsquish"]
 	path = mingw-w64-libsquish
 	url = https://github.com/atomlong/mingw-w64-libsquish.git
