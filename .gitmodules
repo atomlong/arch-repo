@@ -1249,6 +1249,9 @@
 [submodule "mingw-w64-qt5-gamepad-static"]
 	path = mingw-w64-qt5-gamepad-static
 	url = https://github.com/atomlong/mingw-w64-qt5-gamepad-static.git
+[submodule "mingw-w64-qt5-imageformats"]
+	path = mingw-w64-qt5-imageformats
+	url = https://github.com/atomlong/mingw-w64-qt5-imageformats.git
 [submodule "mingw-w64-qt5-location"]
 	path = mingw-w64-qt5-location
 	url = https://github.com/atomlong/mingw-w64-qt5-location.git
