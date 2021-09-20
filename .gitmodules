@@ -340,6 +340,9 @@
 [submodule "mingw-w64-arpack"]
 	path = mingw-w64-arpack
 	url = https://github.com/atomlong/mingw-w64-arpack.git
+[submodule "mingw-w64-arpack-"]
+	path = mingw-w64-arpack-
+	url = https://github.com/atomlong/mingw-w64-arpack-.git
 [submodule "mingw-w64-asio"]
 	path = mingw-w64-asio
 	url = https://github.com/atomlong/mingw-w64-asio.git
