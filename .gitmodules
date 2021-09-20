@@ -418,6 +418,9 @@
 [submodule "mingw-w64-coin-or-csdp"]
 	path = mingw-w64-coin-or-csdp
 	url = https://github.com/atomlong/mingw-w64-coin-or-csdp.git
+[submodule "mingw-w64-coin-or-osi"]
+	path = mingw-w64-coin-or-osi
+	url = https://github.com/atomlong/mingw-w64-coin-or-osi.git
 [submodule "mingw-w64-configure"]
 	path = mingw-w64-configure
 	url = https://github.com/atomlong/mingw-w64-configure.git
