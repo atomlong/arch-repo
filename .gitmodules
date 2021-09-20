@@ -652,6 +652,9 @@
 [submodule "mingw-w64-libvisual"]
 	path = mingw-w64-libvisual
 	url = https://github.com/atomlong/mingw-w64-libvisual.git
+[submodule "mingw-w64-libvorbis-bin"]
+	path = mingw-w64-libvorbis-bin
+	url = https://github.com/atomlong/mingw-w64-libvorbis-bin.git
 [submodule "mingw-w64-libwebp"]
 	path = mingw-w64-libwebp
 	url = https://github.com/atomlong/mingw-w64-libwebp.git
