@@ -1084,6 +1084,9 @@
 [submodule "mingw-w64-portablexdr"]
 	path = mingw-w64-portablexdr
 	url = https://github.com/atomlong/mingw-w64-portablexdr.git
+[submodule "mingw-w64-portaudio"]
+	path = mingw-w64-portaudio
+	url = https://github.com/atomlong/mingw-w64-portaudio.git
 [submodule "mingw-w64-potrace"]
 	path = mingw-w64-potrace
 	url = https://github.com/atomlong/mingw-w64-potrace.git
