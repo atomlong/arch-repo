@@ -1018,6 +1018,9 @@
 [submodule "mingw-w64-qt5-quickcontrols"]
 	path = mingw-w64-qt5-quickcontrols
 	url = https://github.com/atomlong/mingw-w64-qt5-quickcontrols.git
+[submodule "mingw-w64-qt5-quickcontrols-static"]
+	path = mingw-w64-qt5-quickcontrols-static
+	url = https://github.com/atomlong/mingw-w64-qt5-quickcontrols-static.git
 [submodule "mingw-w64-qt5-quickcontrols2"]
 	path = mingw-w64-qt5-quickcontrols2
 	url = https://github.com/atomlong/mingw-w64-qt5-quickcontrols2.git
