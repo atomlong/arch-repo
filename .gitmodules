@@ -505,6 +505,9 @@
 [submodule "mingw-w64-wine"]
 	path = mingw-w64-wine
 	url = https://github.com/atomlong/mingw-w64-wine.git
+[submodule "mingw-w64-xgboost"]
+	path = mingw-w64-xgboost
+	url = https://github.com/atomlong/mingw-w64-xgboost.git
 [submodule "mingw-w64-zlib"]
 	path = mingw-w64-zlib
 	url = https://github.com/atomlong/mingw-w64-zlib.git
