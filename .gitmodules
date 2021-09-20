@@ -1765,6 +1765,9 @@
 [submodule "mingw-w64-suitesparse"]
 	path = mingw-w64-suitesparse
 	url = https://github.com/atomlong/mingw-w64-suitesparse.git
+[submodule "mingw-w64-sundials"]
+	path = mingw-w64-sundials
+	url = https://github.com/atomlong/mingw-w64-sundials.git
 [submodule "mingw-w64-svt-hevc"]
 	path = mingw-w64-svt-hevc
 	url = https://github.com/atomlong/mingw-w64-svt-hevc.git
