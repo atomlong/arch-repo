@@ -178,6 +178,9 @@
 [submodule "gitea-tea-git"]
 	path = gitea-tea-git
 	url = https://github.com/atomlong/gitea-tea-git.git
+[submodule "gip"]
+	path = gip
+	url = https://github.com/atomlong/gip.git
 [submodule "git-hub"]
 	path = git-hub
 	url = https://github.com/atomlong/git-hub.git
