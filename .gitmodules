@@ -1126,6 +1126,9 @@
 [submodule "mingw-w64-ois"]
 	path = mingw-w64-ois
 	url = https://github.com/atomlong/mingw-w64-ois.git
+[submodule "mingw-w64-openal"]
+	path = mingw-w64-openal
+	url = https://github.com/atomlong/mingw-w64-openal.git
 [submodule "mingw-w64-openblas-lapack"]
 	path = mingw-w64-openblas-lapack
 	url = https://github.com/atomlong/mingw-w64-openblas-lapack.git
