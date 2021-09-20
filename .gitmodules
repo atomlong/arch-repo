@@ -931,6 +931,9 @@
 [submodule "mingw-w64-qt5-charts"]
 	path = mingw-w64-qt5-charts
 	url = https://github.com/atomlong/mingw-w64-qt5-charts.git
+[submodule "mingw-w64-qt5-charts-static"]
+	path = mingw-w64-qt5-charts-static
+	url = https://github.com/atomlong/mingw-w64-qt5-charts-static.git
 [submodule "mingw-w64-qt5-connectivity"]
 	path = mingw-w64-qt5-connectivity
 	url = https://github.com/atomlong/mingw-w64-qt5-connectivity.git
