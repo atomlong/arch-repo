@@ -313,6 +313,9 @@
 [submodule "mingw-w64-bcunit"]
 	path = mingw-w64-bcunit
 	url = https://github.com/atomlong/mingw-w64-bcunit.git
+[submodule "mingw-w64-brotli"]
+	path = mingw-w64-brotli
+	url = https://github.com/atomlong/mingw-w64-brotli.git
 [submodule "mingw-w64-bzip2"]
 	path = mingw-w64-bzip2
 	url = https://github.com/atomlong/mingw-w64-bzip2.git
