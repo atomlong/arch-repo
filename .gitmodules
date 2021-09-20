@@ -673,6 +673,9 @@
 [submodule "mingw-w64-pkg-config"]
 	path = mingw-w64-pkg-config
 	url = https://github.com/atomlong/mingw-w64-pkg-config.git
+[submodule "mingw-w64-pocketsphinx"]
+	path = mingw-w64-pocketsphinx
+	url = https://github.com/atomlong/mingw-w64-pocketsphinx.git
 [submodule "mingw-w64-portablexdr"]
 	path = mingw-w64-portablexdr
 	url = https://github.com/atomlong/mingw-w64-portablexdr.git
