@@ -631,6 +631,9 @@
 [submodule "mingw-w64-unifdef"]
 	path = mingw-w64-unifdef
 	url = https://github.com/atomlong/mingw-w64-unifdef.git
+[submodule "mingw-w64-vo-aacenc"]
+	path = mingw-w64-vo-aacenc
+	url = https://github.com/atomlong/mingw-w64-vo-aacenc.git
 [submodule "mingw-w64-vulkan-icd-loader"]
 	path = mingw-w64-vulkan-icd-loader
 	url = https://github.com/atomlong/mingw-w64-vulkan-icd-loader.git
