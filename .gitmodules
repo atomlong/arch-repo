@@ -1738,6 +1738,9 @@
 [submodule "mingw-w64-xorg-util-macros"]
 	path = mingw-w64-xorg-util-macros
 	url = https://github.com/atomlong/mingw-w64-xorg-util-macros.git
+[submodule "mingw-w64-xorgproto"]
+	path = mingw-w64-xorgproto
+	url = https://github.com/atomlong/mingw-w64-xorgproto.git
 [submodule "mingw-w64-xvidcore"]
 	path = mingw-w64-xvidcore
 	url = https://github.com/atomlong/mingw-w64-xvidcore.git
