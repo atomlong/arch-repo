@@ -421,6 +421,9 @@
 [submodule "mingw-w64-glpk"]
 	path = mingw-w64-glpk
 	url = https://github.com/atomlong/mingw-w64-glpk.git
+[submodule "mingw-w64-gmp"]
+	path = mingw-w64-gmp
+	url = https://github.com/atomlong/mingw-w64-gmp.git
 [submodule "mingw-w64-gnu-efi"]
 	path = mingw-w64-gnu-efi
 	url = https://github.com/atomlong/mingw-w64-gnu-efi.git
