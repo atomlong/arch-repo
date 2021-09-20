@@ -379,6 +379,9 @@
 [submodule "mingw-w64-coin-or-asl"]
 	path = mingw-w64-coin-or-asl
 	url = https://github.com/atomlong/mingw-w64-coin-or-asl.git
+[submodule "mingw-w64-coin-or-coinutils"]
+	path = mingw-w64-coin-or-coinutils
+	url = https://github.com/atomlong/mingw-w64-coin-or-coinutils.git
 [submodule "mingw-w64-coin-or-csdp"]
 	path = mingw-w64-coin-or-csdp
 	url = https://github.com/atomlong/mingw-w64-coin-or-csdp.git
