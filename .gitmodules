@@ -1624,6 +1624,9 @@
 [submodule "mingw-w64-rhash"]
 	path = mingw-w64-rhash
 	url = https://github.com/atomlong/mingw-w64-rhash.git
+[submodule "mingw-w64-robin-map"]
+	path = mingw-w64-robin-map
+	url = https://github.com/atomlong/mingw-w64-robin-map.git
 [submodule "mingw-w64-rtmpdump"]
 	path = mingw-w64-rtmpdump
 	url = https://github.com/atomlong/mingw-w64-rtmpdump.git
