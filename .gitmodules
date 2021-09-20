@@ -976,6 +976,9 @@
 [submodule "mingw-w64-mpdecimal"]
 	path = mingw-w64-mpdecimal
 	url = https://github.com/atomlong/mingw-w64-mpdecimal.git
+[submodule "mingw-w64-mpfr"]
+	path = mingw-w64-mpfr
+	url = https://github.com/atomlong/mingw-w64-mpfr.git
 [submodule "mingw-w64-mpg123"]
 	path = mingw-w64-mpg123
 	url = https://github.com/atomlong/mingw-w64-mpg123.git
