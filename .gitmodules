@@ -436,6 +436,9 @@
 [submodule "mingw-w64-potrace"]
 	path = mingw-w64-potrace
 	url = https://github.com/atomlong/mingw-w64-potrace.git
+[submodule "mingw-w64-python38-bin"]
+	path = mingw-w64-python38-bin
+	url = https://github.com/atomlong/mingw-w64-python38-bin.git
 [submodule "mingw-w64-qt5-scxml"]
 	path = mingw-w64-qt5-scxml
 	url = https://github.com/atomlong/mingw-w64-qt5-scxml.git
