@@ -481,6 +481,9 @@
 [submodule "mingw-w64-grvk"]
 	path = mingw-w64-grvk
 	url = https://github.com/atomlong/mingw-w64-grvk.git
+[submodule "mingw-w64-gst-editing-services"]
+	path = mingw-w64-gst-editing-services
+	url = https://github.com/atomlong/mingw-w64-gst-editing-services.git
 [submodule "mingw-w64-gst-plugins-base"]
 	path = mingw-w64-gst-plugins-base
 	url = https://github.com/atomlong/mingw-w64-gst-plugins-base.git
