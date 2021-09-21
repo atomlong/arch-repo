@@ -847,6 +847,9 @@
 [submodule "mingw-w64-kcoreaddons"]
 	path = mingw-w64-kcoreaddons
 	url = https://github.com/atomlong/mingw-w64-kcoreaddons.git
+[submodule "mingw-w64-kcrash"]
+	path = mingw-w64-kcrash
+	url = https://github.com/atomlong/mingw-w64-kcrash.git
 [submodule "mingw-w64-kdbusaddons"]
 	path = mingw-w64-kdbusaddons
 	url = https://github.com/atomlong/mingw-w64-kdbusaddons.git
