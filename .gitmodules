@@ -619,6 +619,9 @@
 [submodule "mingw-w64-fmt-git"]
 	path = mingw-w64-fmt-git
 	url = https://github.com/atomlong/mingw-w64-fmt-git.git
+[submodule "mingw-w64-fontconfig"]
+	path = mingw-w64-fontconfig
+	url = https://github.com/atomlong/mingw-w64-fontconfig.git
 [submodule "mingw-w64-fpc"]
 	path = mingw-w64-fpc
 	url = https://github.com/atomlong/mingw-w64-fpc.git
