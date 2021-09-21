@@ -1912,6 +1912,9 @@
 [submodule "mingw-w64-spatialindex"]
 	path = mingw-w64-spatialindex
 	url = https://github.com/atomlong/mingw-w64-spatialindex.git
+[submodule "mingw-w64-spdlog"]
+	path = mingw-w64-spdlog
+	url = https://github.com/atomlong/mingw-w64-spdlog.git
 [submodule "mingw-w64-spectra"]
 	path = mingw-w64-spectra
 	url = https://github.com/atomlong/mingw-w64-spectra.git
