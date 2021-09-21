@@ -709,6 +709,9 @@
 [submodule "mingw-w64-graphicsmagick"]
 	path = mingw-w64-graphicsmagick
 	url = https://github.com/atomlong/mingw-w64-graphicsmagick.git
+[submodule "mingw-w64-graphite"]
+	path = mingw-w64-graphite
+	url = https://github.com/atomlong/mingw-w64-graphite.git
 [submodule "mingw-w64-grvk"]
 	path = mingw-w64-grvk
 	url = https://github.com/atomlong/mingw-w64-grvk.git
