@@ -1432,6 +1432,9 @@
 [submodule "mingw-w64-pcre"]
 	path = mingw-w64-pcre
 	url = https://github.com/atomlong/mingw-w64-pcre.git
+[submodule "mingw-w64-pcre2"]
+	path = mingw-w64-pcre2
+	url = https://github.com/atomlong/mingw-w64-pcre2.git
 [submodule "mingw-w64-pdal"]
 	path = mingw-w64-pdal
 	url = https://github.com/atomlong/mingw-w64-pdal.git
