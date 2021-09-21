@@ -805,6 +805,9 @@
 [submodule "mingw-w64-gts"]
 	path = mingw-w64-gts
 	url = https://github.com/atomlong/mingw-w64-gts.git
+[submodule "mingw-w64-harfbuzz"]
+	path = mingw-w64-harfbuzz
+	url = https://github.com/atomlong/mingw-w64-harfbuzz.git
 [submodule "mingw-w64-hdf5"]
 	path = mingw-w64-hdf5
 	url = https://github.com/atomlong/mingw-w64-hdf5.git
