@@ -418,6 +418,9 @@
 [submodule "mingw-w64-c-utilities"]
 	path = mingw-w64-c-utilities
 	url = https://github.com/atomlong/mingw-w64-c-utilities.git
+[submodule "mingw-w64-cairo"]
+	path = mingw-w64-cairo
+	url = https://github.com/atomlong/mingw-w64-cairo.git
 [submodule "mingw-w64-cairo-bootstrap"]
 	path = mingw-w64-cairo-bootstrap
 	url = https://github.com/atomlong/mingw-w64-cairo-bootstrap.git
