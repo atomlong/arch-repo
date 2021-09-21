@@ -250,6 +250,9 @@
 [submodule "home-assistant-cli"]
 	path = home-assistant-cli
 	url = https://github.com/atomlong/home-assistant-cli.git
+[submodule "home-assistant-git"]
+	path = home-assistant-git
+	url = https://github.com/atomlong/home-assistant-git.git
 [submodule "inetutils-git"]
 	path = inetutils-git
 	url = https://github.com/atomlong/inetutils-git.git
