@@ -1024,6 +1024,9 @@
 [submodule "mingw-w64-libircclient"]
 	path = mingw-w64-libircclient
 	url = https://github.com/atomlong/mingw-w64-libircclient.git
+[submodule "mingw-w64-libjpeg-turbo"]
+	path = mingw-w64-libjpeg-turbo
+	url = https://github.com/atomlong/mingw-w64-libjpeg-turbo.git
 [submodule "mingw-w64-libkate"]
 	path = mingw-w64-libkate
 	url = https://github.com/atomlong/mingw-w64-libkate.git
