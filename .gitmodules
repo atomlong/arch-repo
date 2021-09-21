@@ -1441,6 +1441,9 @@
 [submodule "mingw-w64-pagmo"]
 	path = mingw-w64-pagmo
 	url = https://github.com/atomlong/mingw-w64-pagmo.git
+[submodule "mingw-w64-pango"]
+	path = mingw-w64-pango
+	url = https://github.com/atomlong/mingw-w64-pango.git
 [submodule "mingw-w64-pangomm"]
 	path = mingw-w64-pangomm
 	url = https://github.com/atomlong/mingw-w64-pangomm.git
