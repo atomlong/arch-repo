@@ -1108,6 +1108,9 @@
 [submodule "mingw-w64-libplacebo"]
 	path = mingw-w64-libplacebo
 	url = https://github.com/atomlong/mingw-w64-libplacebo.git
+[submodule "mingw-w64-libpng"]
+	path = mingw-w64-libpng
+	url = https://github.com/atomlong/mingw-w64-libpng.git
 [submodule "mingw-w64-libpsl"]
 	path = mingw-w64-libpsl
 	url = https://github.com/atomlong/mingw-w64-libpsl.git
