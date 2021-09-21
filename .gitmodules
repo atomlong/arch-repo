@@ -898,6 +898,9 @@
 [submodule "mingw-w64-kguiaddons"]
 	path = mingw-w64-kguiaddons
 	url = https://github.com/atomlong/mingw-w64-kguiaddons.git
+[submodule "mingw-w64-ki18n"]
+	path = mingw-w64-ki18n
+	url = https://github.com/atomlong/mingw-w64-ki18n.git
 [submodule "mingw-w64-kimageformats"]
 	path = mingw-w64-kimageformats
 	url = https://github.com/atomlong/mingw-w64-kimageformats.git
