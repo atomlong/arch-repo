@@ -2056,6 +2056,9 @@
 [submodule "mingw-w64-wavpack"]
 	path = mingw-w64-wavpack
 	url = https://github.com/atomlong/mingw-w64-wavpack.git
+[submodule "mingw-w64-win-iconv"]
+	path = mingw-w64-win-iconv
+	url = https://github.com/atomlong/mingw-w64-win-iconv.git
 [submodule "mingw-w64-wine"]
 	path = mingw-w64-wine
 	url = https://github.com/atomlong/mingw-w64-wine.git
