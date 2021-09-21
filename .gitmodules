@@ -205,6 +205,9 @@
 [submodule "git-hub"]
 	path = git-hub
 	url = https://github.com/atomlong/git-hub.git
+[submodule "github-actions-bin"]
+	path = github-actions-bin
+	url = https://github.com/atomlong/github-actions-bin.git
 [submodule "glib2-git"]
 	path = glib2-git
 	url = https://github.com/atomlong/glib2-git.git
