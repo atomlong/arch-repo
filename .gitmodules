@@ -1858,6 +1858,9 @@
 [submodule "mingw-w64-solid"]
 	path = mingw-w64-solid
 	url = https://github.com/atomlong/mingw-w64-solid.git
+[submodule "mingw-w64-sonnet"]
+	path = mingw-w64-sonnet
+	url = https://github.com/atomlong/mingw-w64-sonnet.git
 [submodule "mingw-w64-sord"]
 	path = mingw-w64-sord
 	url = https://github.com/atomlong/mingw-w64-sord.git
