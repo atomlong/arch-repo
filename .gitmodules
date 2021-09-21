@@ -1315,6 +1315,9 @@
 [submodule "mingw-w64-minizip2"]
 	path = mingw-w64-minizip2
 	url = https://github.com/atomlong/mingw-w64-minizip2.git
+[submodule "mingw-w64-mman-win32-git"]
+	path = mingw-w64-mman-win32-git
+	url = https://github.com/atomlong/mingw-w64-mman-win32-git.git
 [submodule "mingw-w64-mono"]
 	path = mingw-w64-mono
 	url = https://github.com/atomlong/mingw-w64-mono.git
