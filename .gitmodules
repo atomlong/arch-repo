@@ -643,6 +643,9 @@
 [submodule "mingw-w64-gdcc"]
 	path = mingw-w64-gdcc
 	url = https://github.com/atomlong/mingw-w64-gdcc.git
+[submodule "mingw-w64-gdk-pixbuf2"]
+	path = mingw-w64-gdk-pixbuf2
+	url = https://github.com/atomlong/mingw-w64-gdk-pixbuf2.git
 [submodule "mingw-w64-gdk-pixbuf2-bin"]
 	path = mingw-w64-gdk-pixbuf2-bin
 	url = https://github.com/atomlong/mingw-w64-gdk-pixbuf2-bin.git
