@@ -1951,6 +1951,9 @@
 [submodule "mingw-w64-taglib"]
 	path = mingw-w64-taglib
 	url = https://github.com/atomlong/mingw-w64-taglib.git
+[submodule "mingw-w64-tagparser"]
+	path = mingw-w64-tagparser
+	url = https://github.com/atomlong/mingw-w64-tagparser.git
 [submodule "mingw-w64-tbb"]
 	path = mingw-w64-tbb
 	url = https://github.com/atomlong/mingw-w64-tbb.git
