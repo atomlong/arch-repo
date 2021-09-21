@@ -2068,6 +2068,9 @@
 [submodule "mingw-w64-xxhash"]
 	path = mingw-w64-xxhash
 	url = https://github.com/atomlong/mingw-w64-xxhash.git
+[submodule "mingw-w64-xz"]
+	path = mingw-w64-xz
+	url = https://github.com/atomlong/mingw-w64-xz.git
 [submodule "mingw-w64-yajl"]
 	path = mingw-w64-yajl
 	url = https://github.com/atomlong/mingw-w64-yajl.git
