@@ -871,6 +871,9 @@
 [submodule "mingw-w64-kcodecs"]
 	path = mingw-w64-kcodecs
 	url = https://github.com/atomlong/mingw-w64-kcodecs.git
+[submodule "mingw-w64-kcompletion"]
+	path = mingw-w64-kcompletion
+	url = https://github.com/atomlong/mingw-w64-kcompletion.git
 [submodule "mingw-w64-kcoreaddons"]
 	path = mingw-w64-kcoreaddons
 	url = https://github.com/atomlong/mingw-w64-kcoreaddons.git
