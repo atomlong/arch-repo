@@ -457,6 +457,9 @@
 [submodule "mingw-w64-cmake"]
 	path = mingw-w64-cmake
 	url = https://github.com/atomlong/mingw-w64-cmake.git
+[submodule "mingw-w64-cmake-static"]
+	path = mingw-w64-cmake-static
+	url = https://github.com/atomlong/mingw-w64-cmake-static.git
 [submodule "mingw-w64-cminpack"]
 	path = mingw-w64-cminpack
 	url = https://github.com/atomlong/mingw-w64-cminpack.git
