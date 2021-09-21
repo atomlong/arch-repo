@@ -1393,6 +1393,9 @@
 [submodule "mingw-w64-openimageio"]
 	path = mingw-w64-openimageio
 	url = https://github.com/atomlong/mingw-w64-openimageio.git
+[submodule "mingw-w64-openjpeg2"]
+	path = mingw-w64-openjpeg2
+	url = https://github.com/atomlong/mingw-w64-openjpeg2.git
 [submodule "mingw-w64-openlibm"]
 	path = mingw-w64-openlibm
 	url = https://github.com/atomlong/mingw-w64-openlibm.git
