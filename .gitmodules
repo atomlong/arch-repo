@@ -544,6 +544,9 @@
 [submodule "mingw-w64-duktape"]
 	path = mingw-w64-duktape
 	url = https://github.com/atomlong/mingw-w64-duktape.git
+[submodule "mingw-w64-eigen"]
+	path = mingw-w64-eigen
+	url = https://github.com/atomlong/mingw-w64-eigen.git
 [submodule "mingw-w64-enca"]
 	path = mingw-w64-enca
 	url = https://github.com/atomlong/mingw-w64-enca.git
