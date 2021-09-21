@@ -1483,6 +1483,9 @@
 [submodule "mingw-w64-polyclipping"]
 	path = mingw-w64-polyclipping
 	url = https://github.com/atomlong/mingw-w64-polyclipping.git
+[submodule "mingw-w64-poppler"]
+	path = mingw-w64-poppler
+	url = https://github.com/atomlong/mingw-w64-poppler.git
 [submodule "mingw-w64-popt"]
 	path = mingw-w64-popt
 	url = https://github.com/atomlong/mingw-w64-popt.git
