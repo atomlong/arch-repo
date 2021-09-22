@@ -1123,6 +1123,9 @@
 [submodule "mingw-w64-libraw"]
 	path = mingw-w64-libraw
 	url = https://github.com/atomlong/mingw-w64-libraw.git
+[submodule "mingw-w64-librsvg"]
+	path = mingw-w64-librsvg
+	url = https://github.com/atomlong/mingw-w64-librsvg.git
 [submodule "mingw-w64-librsvg-bin"]
 	path = mingw-w64-librsvg-bin
 	url = https://github.com/atomlong/mingw-w64-librsvg-bin.git
