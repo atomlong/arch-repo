@@ -526,6 +526,9 @@
 [submodule "mingw-w64-crypto-"]
 	path = mingw-w64-crypto-
 	url = https://github.com/atomlong/mingw-w64-crypto-.git
+[submodule "mingw-w64-curl"]
+	path = mingw-w64-curl
+	url = https://github.com/atomlong/mingw-w64-curl.git
 [submodule "mingw-w64-dav1d"]
 	path = mingw-w64-dav1d
 	url = https://github.com/atomlong/mingw-w64-dav1d.git
