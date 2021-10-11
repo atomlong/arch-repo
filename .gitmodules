@@ -82,6 +82,9 @@
 [submodule "cloudflared"]
 	path = cloudflared
 	url = https://github.com/atomlong/cloudflared.git
+[submodule "clash-dashboard-git"]
+	path = clash-dashboard-git
+	url = https://github.com/atomlong/clash-dashboard-git.git
 [submodule "clashup"]
 	path = clashup
 	url = https://github.com/atomlong/clashup.git
