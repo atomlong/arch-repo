@@ -82,6 +82,9 @@
 [submodule "cloudflared"]
 	path = cloudflared
 	url = https://github.com/atomlong/cloudflared.git
+[submodule "clashup"]
+	path = clashup
+	url = https://github.com/atomlong/clashup.git
 [submodule "cloudflare-wrangler"]
 	path = cloudflare-wrangler
 	url = https://github.com/atomlong/cloudflare-wrangler.git
