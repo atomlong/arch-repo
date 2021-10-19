@@ -2416,6 +2416,9 @@
 [submodule "sofia-sip"]
 	path = sofia-sip
 	url = https://github.com/atomlong/sofia-sip.git
+[submodule "speed-test"]
+	path = speed-test
+	url = https://github.com/atomlong/speed-test.git
 [submodule "ssr2json"]
 	path = ssr2json
 	url = https://github.com/atomlong/ssr2json.git
