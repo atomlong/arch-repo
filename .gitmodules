@@ -2428,6 +2428,9 @@
 [submodule "stm32flash-git"]
 	path = stm32flash-git
 	url = https://github.com/atomlong/stm32flash-git.git
+[submodule "subconverter-bin"]
+	path = subconverter-bin
+	url = https://github.com/atomlong/subconverter-bin.git
 [submodule "sunxi-tools-git"]
 	path = sunxi-tools-git
 	url = https://github.com/atomlong/sunxi-tools-git.git
