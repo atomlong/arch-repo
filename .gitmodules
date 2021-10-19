@@ -2431,6 +2431,9 @@
 [submodule "ssr2json"]
 	path = ssr2json
 	url = https://github.com/atomlong/ssr2json.git
+[submodule "stairspeedtest-reborn-bin"]
+	path = stairspeedtest-reborn-bin
+	url = https://github.com/atomlong/stairspeedtest-reborn-bin.git
 [submodule "stlink-git"]
 	path = stlink-git
 	url = https://github.com/atomlong/stlink-git.git
