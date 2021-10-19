@@ -2449,6 +2449,9 @@
 [submodule "ttf-vista-fonts"]
 	path = ttf-vista-fonts
 	url = https://github.com/atomlong/ttf-vista-fonts.git
+[submodule "urlencode"]
+	path = urlencode
+	url = https://github.com/atomlong/urlencode.git
 [submodule "ustreamer"]
 	path = ustreamer
 	url = https://github.com/atomlong/ustreamer.git
