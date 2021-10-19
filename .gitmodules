@@ -2419,6 +2419,9 @@
 [submodule "speed-test"]
 	path = speed-test
 	url = https://github.com/atomlong/speed-test.git
+[submodule "speedtest-"]
+	path = speedtest-
+	url = https://github.com/atomlong/speedtest-.git
 [submodule "ssr2json"]
 	path = ssr2json
 	url = https://github.com/atomlong/ssr2json.git
