@@ -2239,6 +2239,9 @@
 [submodule "onedriver"]
 	path = onedriver
 	url = https://github.com/atomlong/onedriver.git
+[submodule "ookla-speedtest-bin"]
+	path = ookla-speedtest-bin
+	url = https://github.com/atomlong/ookla-speedtest-bin.git
 [submodule "openrc"]
 	path = openrc
 	url = https://github.com/atomlong/openrc.git
