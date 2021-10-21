@@ -175,6 +175,9 @@
 [submodule "fcitx-sogoupinyin"]
 	path = fcitx-sogoupinyin
 	url = https://github.com/atomlong/fcitx-sogoupinyin.git
+[submodule "ffmpeg3.4"]
+	path = ffmpeg3.4
+	url = https://github.com/atomlong/ffmpeg3.4.git
 [submodule "ffx264"]
 	path = ffx264
 	url = https://github.com/atomlong/ffx264.git
