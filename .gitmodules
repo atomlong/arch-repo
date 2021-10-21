@@ -2224,6 +2224,9 @@
 [submodule "mjpg-streamer-git"]
 	path = mjpg-streamer-git
 	url = https://github.com/atomlong/mjpg-streamer-git.git
+[submodule "mplayer2"]
+	path = mplayer2
+	url = https://github.com/atomlong/mplayer2.git
 [submodule "ncurses5-compat-libs"]
 	path = ncurses5-compat-libs
 	url = https://github.com/atomlong/ncurses5-compat-libs.git
