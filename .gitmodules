@@ -346,6 +346,9 @@
 [submodule "libva-v4l2-request-git"]
 	path = libva-v4l2-request-git
 	url = https://github.com/atomlong/libva-v4l2-request-git.git
+[submodule "libxxf86dga"]
+	path = libxxf86dga
+	url = https://github.com/atomlong/libxxf86dga.git
 [submodule "linux-armv7"]
 	path = linux-armv7
 	url = https://github.com/atomlong/linux-armv7.git
