@@ -310,6 +310,9 @@
 [submodule "libchardet"]
 	path = libchardet
 	url = https://github.com/atomlong/libchardet.git
+[submodule "libffi6"]
+	path = libffi6
+	url = https://github.com/atomlong/libffi6.git
 [submodule "libffi7"]
 	path = libffi7
 	url = https://github.com/atomlong/libffi7.git
