@@ -313,6 +313,9 @@
 [submodule "libchardet"]
 	path = libchardet
 	url = https://github.com/atomlong/libchardet.git
+[submodule "libcron"]
+	path = libcron
+	url = https://github.com/atomlong/libcron.git
 [submodule "libcron-git"]
 	path = libcron-git
 	url = https://github.com/atomlong/libcron-git.git
