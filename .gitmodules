@@ -2473,6 +2473,9 @@
 [submodule "tagparser-doc"]
 	path = tagparser-doc
 	url = https://github.com/atomlong/tagparser-doc.git
+[submodule "toml11-git"]
+	path = toml11-git
+	url = https://github.com/atomlong/toml11-git.git
 [submodule "transfer.sh"]
 	path = transfer.sh
 	url = https://github.com/atomlong/transfer.sh.git
