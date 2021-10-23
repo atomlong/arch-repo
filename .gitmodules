@@ -2410,6 +2410,9 @@
 [submodule "quickjspp-git"]
 	path = quickjspp-git
 	url = https://github.com/atomlong/quickjspp-git.git
+[submodule "rapidjson-git"]
+	path = rapidjson-git
+	url = https://github.com/atomlong/rapidjson-git.git
 [submodule "raspi-config-git"]
 	path = raspi-config-git
 	url = https://github.com/atomlong/raspi-config-git.git
