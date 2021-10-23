@@ -100,6 +100,9 @@
 [submodule "crosstool-ng-git"]
 	path = crosstool-ng-git
 	url = https://github.com/atomlong/crosstool-ng-git.git
+[submodule "curl-git"]
+	path = curl-git
+	url = https://github.com/atomlong/curl-git.git
 [submodule "cyrus-imapd"]
 	path = cyrus-imapd
 	url = https://github.com/atomlong/cyrus-imapd.git
