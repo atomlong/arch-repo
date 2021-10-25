@@ -21,9 +21,9 @@ jobs:
       DEPLOY_PATH:  ${{ secrets.DEPLOY_PATH }}
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
-    - name: Checkout submodules
-      uses: snickerbockers/submodules-init@v4
+      uses: actions/checkout@v2.3.5
+      with:
+        persist-credentials: false
     - name: Refresh access token
       id: refresh
       run: |
@@ -57,15 +57,12 @@ jobs:
         value: ${{ steps.refresh.outputs.rclone_config }}
         pa_token: ${{ secrets.GH_PA_TOKEN }}
     - name: Submodule Update
+      env:
+        GH_TOKEN: ${{ secrets.GH_PA_TOKEN }}
       run: |
+        sudo apt install expect -y
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        Submodules=($(git config --file .gitmodules --name-only --get-regexp path | sed -rn 's/^submodule\.(\S+)\.path\s*$/\1/p'))
-        for mod in ${Submodules[@]}; do
-        git submodule update --progress --remote "${mod}"
-        git add "${mod}"
-        done
-        git commit -m "Submodule Update" -a || true
         .ci/ci-submod.sh auto
     - name: Push changes
       uses: ad-m/github-push-action@master
