@@ -196,6 +196,9 @@
 [submodule "freenom-next"]
 	path = freenom-next
 	url = https://github.com/atomlong/freenom-next.git
+[submodule "freenom-script"]
+	path = freenom-script
+	url = https://github.com/atomlong/freenom-script.git
 [submodule "frp"]
 	path = frp
 	url = https://github.com/atomlong/frp.git
