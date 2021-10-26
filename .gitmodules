@@ -2491,6 +2491,9 @@
 [submodule "subconverter-bin"]
 	path = subconverter-bin
 	url = https://github.com/atomlong/subconverter-bin.git
+[submodule "subconverter-git"]
+	path = subconverter-git
+	url = https://github.com/atomlong/subconverter-git.git
 [submodule "sunxi-tools-git"]
 	path = sunxi-tools-git
 	url = https://github.com/atomlong/sunxi-tools-git.git
