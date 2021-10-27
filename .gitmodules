@@ -271,9 +271,6 @@
 [submodule "gyp-git"]
 	path = gyp-git
 	url = https://github.com/atomlong/gyp-git.git
-[submodule "home-assistant"]
-	path = home-assistant
-	url = https://github.com/atomlong/home-assistant.git
 [submodule "home-assistant-cli"]
 	path = home-assistant-cli
 	url = https://github.com/atomlong/home-assistant-cli.git
