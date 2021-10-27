@@ -4,7 +4,7 @@
 check_repo_exist()
 {
 local repo_name="${1}"
-local repo_url=$(sed -r "s|^([^/]+//)([^/]+/.*/)[^/]+(\s*)$|\1${GH_USER}:${GH_TOKEN}@\2${repo_name##*/}.git\3|" <<< "${GH_URL}")
+local repo_url="${GH_HOME}/${repo_name##*/}.git"
 local RES
 while true; do
 RES=$(GIT_TERMINAL_PROMPT=0 git ls-remote ${repo_url} 2>&1)
@@ -32,8 +32,6 @@ REPO_URL=$(check_repo_exist ${REPO_NAME}) || { echo "Not found repo ${REPO_NAME}
 while ! git submodule add "${REPO_URL}" "${REPO_NAME}" 2>/dev/null; do
 rm -rf "${REPO_NAME}"
 done
-REPO_URL=$(printf "${REPO_URL}" | sed -r 's#(.*//)[^/]*@(.*)$#\1\2#')
-git submodule set-url "${REPO_NAME}" "${REPO_URL}"
 
 submodules=($(sed -n -r 's/^\[submodule\s+"(.*)"\s*\]\s*$/\1/p' .gitmodules | sort -u))
 mod_insert=$(sed -r "s/(^|.*\s)${REPO_NAME}( (\S+).*|$)/\3/" <<< "${submodules[@]}")
@@ -77,46 +75,56 @@ submodule_sync()
 {
 [ "$#" == 1 ] || { echo "Usage: submodule_sync submod"; return 1; }
 local REPO_NAME=${1}
-expect << EOF
-set timeout 300
-spawn git submodule update --progress --remote "${REPO_NAME}"
-expect "Username for"
-send "${GH_USER}\r"
-expect "Password for"
-send "${GH_TOKEN}\r"
-expect EOF
-EOF
-
-git diff --exit-code "${REPO_NAME}" || {
-git add "${REPO_NAME}"
-git commit -m "Submodule Update" -a
+git submodule update --remote "${REPO_NAME}"
+git diff --exit-code "${REPO_NAME}" >/dev/null || {
+git commit -m "update submodule \"${REPO_NAME}\"" "${REPO_NAME}"
 }
+}
+
+# Init submodules
+submodule_init()
+{
+[ -z "${GH_TOKEN}" ] && { echo "GH_TOKEN not set"; return 1; }
+[ -z "${GH_HOME}" ] && { echo "GH_HOME not set"; return 1; }
+local err
+git config --global url."${GH_HOME/\/\////${GH_TOKEN}@}".insteadOf "${GH_HOME}"
+err=$(git submodule update --init --recursive 2>&1 | tee /dev/stderr | sed -n "/fatal: repository .* not found/p"
+exit ${PIPESTATUS})
+[ $? == 0 ] || [ -n "${err}" ]
 }
 
 # Add/Remove a submodule as build marker file
+# Please set the http location of build marker files via GH_TOKEN before call this function
+# example:
+# BM_FILES="https://example.com/archlinux/x86_64/build.marker
+# https://example.com/archlinuxarm/aarch64/build.marker
+# https://example.com/archlinuxarm/armv7h/build.marker"
 submodule_auto()
 {
-local BM_FILES=(
-https://efiles.cf/archlinux/x86_64/build.marker
-https://efiles.cf/archlinuxarm/aarch64/build.marker
-https://efiles.cf/archlinuxarm/armv7h/build.marker
-)
-local bm mod submodules
+[ -z "${BM_FILES}" ] && { echo "BM_FILES not set"; return 1; }
+local bm mod submodules h m
 
 submodules=($(git config --file .gitmodules --name-only --get-regexp "submodule\..*\.path" | grep -Po '^submodule\.\K\S+(?=\.path)'))
 
-for mod in ${submodules}; do
+h=$(git rev-parse HEAD)
+for mod in ${submodules[@]}; do
 submodule_sync ${mod}
 done
+m="$(git log ${h}..HEAD --format=%s)"
+[ -z "${m}" ] || {
+git reset --soft "${h}"
+git commit -m "Submodule Update
+${m}"
+}
 
-for bm in ${BM_FILES[@]}; do
+for bm in ${BM_FILES}; do
 for mod in $(curl -sL ${bm} | grep -Po '^\[\w+\]((?!://).)*?\K[^/\s]+(?=\s*$)'); do
 git config --file .gitmodules --name-only --get-regexp "submodule.${mod}.path" &>/dev/null || submodule_add ${mod}
 done
 done
 
-for mod in ${submodules}; do
-check_repo_exist ${mod} || submodule_remove ${mod}
+for mod in ${submodules[@]}; do
+check_repo_exist ${mod} >/dev/null || submodule_remove ${mod}
 done
 }
 
@@ -124,13 +132,13 @@ done
 THIS_DIR=$(readlink -f "$(dirname ${0})")
 ROOT_DIR=$(readlink -f ${THIS_DIR}/../)
 GH_URL=$(git config --get remote.origin.url)
-GH_USER=$(grep -Po '\.\w+/\K[^/]+(?=/)' <<< "${GH_URL}")
-[ -z "${GH_TOKEN}" ] && { echo "GH_TOKEN not set"; exit 1; }
+GH_HOME="${GH_URL%/*}"
 COMMAND=${1}
 shift
 REPO_LIST=(${@})
 
 pushd ${ROOT_DIR}
+submodule_init || exit 1
 case ${COMMAND} in
 	add)
 		for repo in ${REPO_LIST[@]}; do
@@ -140,6 +148,11 @@ case ${COMMAND} in
 	remove)
 		for repo in ${REPO_LIST[@]}; do
 		submodule_remove ${repo}
+		done
+		;;
+	sync)
+		for repo in ${REPO_LIST[@]}; do
+		submodule_sync ${repo}
 		done
 		;;
 	auto)
