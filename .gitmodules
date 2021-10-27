@@ -2323,6 +2323,9 @@
 [submodule "plowshare-git"]
 	path = plowshare-git
 	url = https://github.com/atomlong/plowshare-git.git
+[submodule "pngwriter-git"]
+	path = pngwriter-git
+	url = https://github.com/atomlong/pngwriter-git.git
 [submodule "pnpm"]
 	path = pnpm
 	url = https://github.com/atomlong/pnpm.git
