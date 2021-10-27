@@ -2344,6 +2344,9 @@
 [submodule "python-asciimatics"]
 	path = python-asciimatics
 	url = https://github.com/atomlong/python-asciimatics.git
+[submodule "python-awesomeversion"]
+	path = python-awesomeversion
+	url = https://github.com/atomlong/python-awesomeversion.git
 [submodule "python-buildbot-gitea"]
 	path = python-buildbot-gitea
 	url = https://github.com/atomlong/python-buildbot-gitea.git
