@@ -2458,6 +2458,9 @@
 [submodule "shadowsocks-helper-git"]
 	path = shadowsocks-helper-git
 	url = https://github.com/atomlong/shadowsocks-helper-git.git
+[submodule "shadowsocks-libev-git"]
+	path = shadowsocks-libev-git
+	url = https://github.com/atomlong/shadowsocks-libev-git.git
 [submodule "shadowsocksr"]
 	path = shadowsocksr
 	url = https://github.com/atomlong/shadowsocksr.git
