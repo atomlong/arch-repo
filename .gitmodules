@@ -385,6 +385,9 @@
 [submodule "linux-wifi-hotspot"]
 	path = linux-wifi-hotspot
 	url = https://github.com/atomlong/linux-wifi-hotspot.git
+[submodule "mariadb-git"]
+	path = mariadb-git
+	url = https://github.com/atomlong/mariadb-git.git
 [submodule "mediastreamer-git"]
 	path = mediastreamer-git
 	url = https://github.com/atomlong/mediastreamer-git.git
