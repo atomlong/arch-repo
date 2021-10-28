@@ -2536,6 +2536,9 @@
 [submodule "translate-shell-git"]
 	path = translate-shell-git
 	url = https://github.com/atomlong/translate-shell-git.git
+[submodule "trojan-git"]
+	path = trojan-git
+	url = https://github.com/atomlong/trojan-git.git
 [submodule "ttf-ms-fonts"]
 	path = ttf-ms-fonts
 	url = https://github.com/atomlong/ttf-ms-fonts.git
