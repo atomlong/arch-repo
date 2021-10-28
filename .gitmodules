@@ -355,6 +355,9 @@
 [submodule "libsepol"]
 	path = libsepol
 	url = https://github.com/atomlong/libsepol.git
+[submodule "libsodium-static"]
+	path = libsodium-static
+	url = https://github.com/atomlong/libsodium-static.git
 [submodule "libusrsctp"]
 	path = libusrsctp
 	url = https://github.com/atomlong/libusrsctp.git
