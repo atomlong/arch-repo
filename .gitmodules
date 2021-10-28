@@ -2461,6 +2461,9 @@
 [submodule "shadowsocksr"]
 	path = shadowsocksr
 	url = https://github.com/atomlong/shadowsocksr.git
+[submodule "simple-obfs-git"]
+	path = simple-obfs-git
+	url = https://github.com/atomlong/simple-obfs-git.git
 [submodule "slick"]
 	path = slick
 	url = https://github.com/atomlong/slick.git
