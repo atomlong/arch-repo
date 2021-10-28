@@ -2356,9 +2356,6 @@
 [submodule "python-asciimatics"]
 	path = python-asciimatics
 	url = https://github.com/atomlong/python-asciimatics.git
-[submodule "python-awesomeversion"]
-	path = python-awesomeversion
-	url = https://github.com/atomlong/python-awesomeversion.git
 [submodule "python-awesomeversion-git"]
 	path = python-awesomeversion-git
 	url = https://github.com/atomlong/python-awesomeversion-git.git
