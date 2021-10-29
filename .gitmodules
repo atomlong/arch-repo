@@ -196,9 +196,6 @@
 [submodule "freenom-git"]
 	path = freenom-git
 	url = https://github.com/atomlong/freenom-git.git
-[submodule "freenom-next"]
-	path = freenom-next
-	url = https://github.com/atomlong/freenom-next.git
 [submodule "freenom-script"]
 	path = freenom-script
 	url = https://github.com/atomlong/freenom-script.git
