@@ -7,6 +7,9 @@
 [submodule "act"]
 	path = act
 	url = https://github.com/atomlong/act.git
+[submodule "act-git"]
+	path = act-git
+	url = https://github.com/atomlong/act-git.git
 [submodule "aliyunpan-cli"]
 	path = aliyunpan-cli
 	url = https://github.com/atomlong/aliyunpan-cli.git
