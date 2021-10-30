@@ -2341,6 +2341,9 @@
 [submodule "pnpm"]
 	path = pnpm
 	url = https://github.com/atomlong/pnpm.git
+[submodule "pod2man"]
+	path = pod2man
+	url = https://github.com/atomlong/pod2man.git
 [submodule "proxychains-ng-git"]
 	path = proxychains-ng-git
 	url = https://github.com/atomlong/proxychains-ng-git.git
