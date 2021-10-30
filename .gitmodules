@@ -2299,6 +2299,9 @@
 [submodule "pacman-git"]
 	path = pacman-git
 	url = https://github.com/atomlong/pacman-git.git
+[submodule "pacutils-git"]
+	path = pacutils-git
+	url = https://github.com/atomlong/pacutils-git.git
 [submodule "paho-mqtt-c-git"]
 	path = paho-mqtt-c-git
 	url = https://github.com/atomlong/paho-mqtt-c-git.git
