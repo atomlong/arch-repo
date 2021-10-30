@@ -2500,6 +2500,9 @@
 [submodule "stairspeedtest-reborn-bin"]
 	path = stairspeedtest-reborn-bin
 	url = https://github.com/atomlong/stairspeedtest-reborn-bin.git
+[submodule "stairspeedtest-reborn-git"]
+	path = stairspeedtest-reborn-git
+	url = https://github.com/atomlong/stairspeedtest-reborn-git.git
 [submodule "stlink-git"]
 	path = stlink-git
 	url = https://github.com/atomlong/stlink-git.git
