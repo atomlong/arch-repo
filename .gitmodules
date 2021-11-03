@@ -2359,9 +2359,6 @@
 [submodule "proxypool"]
 	path = proxypool
 	url = https://github.com/atomlong/proxypool.git
-[submodule "proxypool-git"]
-	path = proxypool-git
-	url = https://github.com/atomlong/proxypool-git.git
 [submodule "python-aioesphomeapi"]
 	path = python-aioesphomeapi
 	url = https://github.com/atomlong/python-aioesphomeapi.git
