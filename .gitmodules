@@ -1333,6 +1333,9 @@
 [submodule "mingw-w64-make"]
 	path = mingw-w64-make
 	url = https://github.com/atomlong/mingw-w64-make.git
+[submodule "mingw-w64-mariadb-connector-c"]
+	path = mingw-w64-mariadb-connector-c
+	url = https://github.com/atomlong/mingw-w64-mariadb-connector-c.git
 [submodule "mingw-w64-marisa"]
 	path = mingw-w64-marisa
 	url = https://github.com/atomlong/mingw-w64-marisa.git
