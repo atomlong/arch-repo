@@ -2611,3 +2611,6 @@
 [submodule "yay-git"]
 	path = yay-git
 	url = https://github.com/atomlong/yay-git.git
+[submodule "yourls"]
+	path = yourls
+	url = https://github.com/atomlong/yourls.git
