@@ -2329,6 +2329,9 @@
 [submodule "perl-encode-detect"]
 	path = perl-encode-detect
 	url = https://github.com/atomlong/perl-encode-detect.git
+[submodule "perl-file-grep"]
+	path = perl-file-grep
+	url = https://github.com/atomlong/perl-file-grep.git
 [submodule "perl-pod-pom"]
 	path = perl-pod-pom
 	url = https://github.com/atomlong/perl-pod-pom.git
