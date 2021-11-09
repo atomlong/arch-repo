@@ -244,9 +244,6 @@
 [submodule "go-git"]
 	path = go-git
 	url = https://github.com/atomlong/go-git.git
-[submodule "godns"]
-	path = godns
-	url = https://github.com/atomlong/godns.git
 [submodule "gogs"]
 	path = gogs
 	url = https://github.com/atomlong/gogs.git
