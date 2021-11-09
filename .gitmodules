@@ -2371,6 +2371,9 @@
 [submodule "python-aiohttp-git"]
 	path = python-aiohttp-git
 	url = https://github.com/atomlong/python-aiohttp-git.git
+[submodule "python-aiosignal"]
+	path = python-aiosignal
+	url = https://github.com/atomlong/python-aiosignal.git
 [submodule "python-ajsonrpc"]
 	path = python-ajsonrpc
 	url = https://github.com/atomlong/python-ajsonrpc.git
