@@ -2401,6 +2401,9 @@
 [submodule "python-esphome-dashboard"]
 	path = python-esphome-dashboard
 	url = https://github.com/atomlong/python-esphome-dashboard.git
+[submodule "python-frozenlist"]
+	path = python-frozenlist
+	url = https://github.com/atomlong/python-frozenlist.git
 [submodule "python-jsonpath-rw"]
 	path = python-jsonpath-rw
 	url = https://github.com/atomlong/python-jsonpath-rw.git
