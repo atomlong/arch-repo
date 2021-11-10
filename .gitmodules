@@ -2407,6 +2407,9 @@
 [submodule "python-click-aliases"]
 	path = python-click-aliases
 	url = https://github.com/atomlong/python-click-aliases.git
+[submodule "python-dicttoxml"]
+	path = python-dicttoxml
+	url = https://github.com/atomlong/python-dicttoxml.git
 [submodule "python-dtlssocket"]
 	path = python-dtlssocket
 	url = https://github.com/atomlong/python-dtlssocket.git
