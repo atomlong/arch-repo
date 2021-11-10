@@ -292,6 +292,9 @@
 [submodule "ipgeo-git"]
 	path = ipgeo-git
 	url = https://github.com/atomlong/ipgeo-git.git
+[submodule "ipinfo-cli"]
+	path = ipinfo-cli
+	url = https://github.com/atomlong/ipinfo-cli.git
 [submodule "janus-gateway"]
 	path = janus-gateway
 	url = https://github.com/atomlong/janus-gateway.git
