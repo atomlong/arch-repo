@@ -355,6 +355,9 @@
 [submodule "libpdfium-nojs"]
 	path = libpdfium-nojs
 	url = https://github.com/atomlong/libpdfium-nojs.git
+[submodule "libscrypt"]
+	path = libscrypt
+	url = https://github.com/atomlong/libscrypt.git
 [submodule "libselinux"]
 	path = libselinux
 	url = https://github.com/atomlong/libselinux.git
