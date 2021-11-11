@@ -2419,6 +2419,9 @@
 [submodule "python-frozenlist"]
 	path = python-frozenlist
 	url = https://github.com/atomlong/python-frozenlist.git
+[submodule "python-gtts"]
+	path = python-gtts
+	url = https://github.com/atomlong/python-gtts.git
 [submodule "python-ip2geotools"]
 	path = python-ip2geotools
 	url = https://github.com/atomlong/python-ip2geotools.git
