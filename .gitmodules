@@ -2425,6 +2425,9 @@
 [submodule "python-ip2location"]
 	path = python-ip2location
 	url = https://github.com/atomlong/python-ip2location.git
+[submodule "python-jinja"]
+	path = python-jinja
+	url = https://github.com/atomlong/python-jinja.git
 [submodule "python-jsonpath-rw"]
 	path = python-jsonpath-rw
 	url = https://github.com/atomlong/python-jsonpath-rw.git
