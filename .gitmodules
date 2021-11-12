@@ -2413,6 +2413,9 @@
 [submodule "python-dtlssocket"]
 	path = python-dtlssocket
 	url = https://github.com/atomlong/python-dtlssocket.git
+[submodule "python-envs"]
+	path = python-envs
+	url = https://github.com/atomlong/python-envs.git
 [submodule "python-esphome-dashboard"]
 	path = python-esphome-dashboard
 	url = https://github.com/atomlong/python-esphome-dashboard.git
