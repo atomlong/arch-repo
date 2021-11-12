@@ -2449,6 +2449,9 @@
 [submodule "python-npyscreen"]
 	path = python-npyscreen
 	url = https://github.com/atomlong/python-npyscreen.git
+[submodule "python-pycognito"]
+	path = python-pycognito
+	url = https://github.com/atomlong/python-pycognito.git
 [submodule "python-pyexecjs"]
 	path = python-pyexecjs
 	url = https://github.com/atomlong/python-pyexecjs.git
