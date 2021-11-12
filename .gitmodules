@@ -2470,6 +2470,9 @@
 [submodule "python-ruyaml"]
 	path = python-ruyaml
 	url = https://github.com/atomlong/python-ruyaml.git
+[submodule "python-snitun"]
+	path = python-snitun
+	url = https://github.com/atomlong/python-snitun.git
 [submodule "python-yaml"]
 	path = python-yaml
 	url = https://github.com/atomlong/python-yaml.git
