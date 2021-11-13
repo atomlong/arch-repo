@@ -223,6 +223,9 @@
 [submodule "geoip-git"]
 	path = geoip-git
 	url = https://github.com/atomlong/geoip-git.git
+[submodule "gh-hosts-git"]
+	path = gh-hosts-git
+	url = https://github.com/atomlong/gh-hosts-git.git
 [submodule "gip"]
 	path = gip
 	url = https://github.com/atomlong/gip.git
