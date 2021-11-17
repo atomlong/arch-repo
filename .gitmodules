@@ -2395,6 +2395,9 @@
 [submodule "python-asciimatics"]
 	path = python-asciimatics
 	url = https://github.com/atomlong/python-asciimatics.git
+[submodule "python-async-timeout"]
+	path = python-async-timeout
+	url = https://github.com/atomlong/python-async-timeout.git
 [submodule "python-async-timeout-git"]
 	path = python-async-timeout-git
 	url = https://github.com/atomlong/python-async-timeout-git.git
