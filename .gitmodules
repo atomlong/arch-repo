@@ -2380,9 +2380,6 @@
 [submodule "python-aioesphomeapi"]
 	path = python-aioesphomeapi
 	url = https://github.com/atomlong/python-aioesphomeapi.git
-[submodule "python-aiohttp"]
-	path = python-aiohttp
-	url = https://github.com/atomlong/python-aiohttp.git
 [submodule "python-aiohttp-git"]
 	path = python-aiohttp-git
 	url = https://github.com/atomlong/python-aiohttp-git.git
