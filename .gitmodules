@@ -2422,9 +2422,6 @@
 [submodule "python-esphome-dashboard"]
 	path = python-esphome-dashboard
 	url = https://github.com/atomlong/python-esphome-dashboard.git
-[submodule "python-frozenlist"]
-	path = python-frozenlist
-	url = https://github.com/atomlong/python-frozenlist.git
 [submodule "python-gtts"]
 	path = python-gtts
 	url = https://github.com/atomlong/python-gtts.git
