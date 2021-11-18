@@ -2440,6 +2440,9 @@
 [submodule "python-jinja"]
 	path = python-jinja
 	url = https://github.com/atomlong/python-jinja.git
+[submodule "python-jsonpath-ng"]
+	path = python-jsonpath-ng
+	url = https://github.com/atomlong/python-jsonpath-ng.git
 [submodule "python-jsonpath-rw"]
 	path = python-jsonpath-rw
 	url = https://github.com/atomlong/python-jsonpath-rw.git
