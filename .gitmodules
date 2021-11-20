@@ -2428,6 +2428,9 @@
 [submodule "python-hass-nabucasa"]
 	path = python-hass-nabucasa
 	url = https://github.com/atomlong/python-hass-nabucasa.git
+[submodule "python-httpcore"]
+	path = python-httpcore
+	url = https://github.com/atomlong/python-httpcore.git
 [submodule "python-httpx"]
 	path = python-httpx
 	url = https://github.com/atomlong/python-httpx.git
