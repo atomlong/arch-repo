@@ -2428,6 +2428,9 @@
 [submodule "python-hass-nabucasa"]
 	path = python-hass-nabucasa
 	url = https://github.com/atomlong/python-hass-nabucasa.git
+[submodule "python-httpx"]
+	path = python-httpx
+	url = https://github.com/atomlong/python-httpx.git
 [submodule "python-ip2geotools"]
 	path = python-ip2geotools
 	url = https://github.com/atomlong/python-ip2geotools.git
