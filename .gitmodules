@@ -2389,6 +2389,9 @@
 [submodule "python-ajsonrpc"]
 	path = python-ajsonrpc
 	url = https://github.com/atomlong/python-ajsonrpc.git
+[submodule "python-altgraph"]
+	path = python-altgraph
+	url = https://github.com/atomlong/python-altgraph.git
 [submodule "python-asciimatics"]
 	path = python-asciimatics
 	url = https://github.com/atomlong/python-asciimatics.git
