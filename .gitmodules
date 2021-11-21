@@ -13,6 +13,9 @@
 [submodule "aliyunpan-cli"]
 	path = aliyunpan-cli
 	url = https://github.com/atomlong/aliyunpan-cli.git
+[submodule "aliyunpan-cli-bin"]
+	path = aliyunpan-cli-bin
+	url = https://github.com/atomlong/aliyunpan-cli-bin.git
 [submodule "alpm_octopi_utils"]
 	path = alpm_octopi_utils
 	url = https://github.com/atomlong/alpm_octopi_utils.git
