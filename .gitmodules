@@ -2377,6 +2377,9 @@
 [submodule "proxypool"]
 	path = proxypool
 	url = https://github.com/atomlong/proxypool.git
+[submodule "pyinstaller"]
+	path = pyinstaller
+	url = https://github.com/atomlong/pyinstaller.git
 [submodule "pyinstaller-hooks-contrib"]
 	path = pyinstaller-hooks-contrib
 	url = https://github.com/atomlong/pyinstaller-hooks-contrib.git
