@@ -2470,6 +2470,9 @@
 [submodule "python-pycognito"]
 	path = python-pycognito
 	url = https://github.com/atomlong/python-pycognito.git
+[submodule "python-pycrypto"]
+	path = python-pycrypto
+	url = https://github.com/atomlong/python-pycrypto.git
 [submodule "python-pyexecjs"]
 	path = python-pyexecjs
 	url = https://github.com/atomlong/python-pyexecjs.git
