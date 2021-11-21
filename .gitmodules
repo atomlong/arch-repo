@@ -2383,6 +2383,9 @@
 [submodule "pyinstaller"]
 	path = pyinstaller
 	url = https://github.com/atomlong/pyinstaller.git
+[submodule "pyinstaller-git"]
+	path = pyinstaller-git
+	url = https://github.com/atomlong/pyinstaller-git.git
 [submodule "pyinstaller-hooks-contrib"]
 	path = pyinstaller-hooks-contrib
 	url = https://github.com/atomlong/pyinstaller-hooks-contrib.git
