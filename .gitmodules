@@ -271,6 +271,9 @@
 [submodule "gst-plugins-openwebrtc"]
 	path = gst-plugins-openwebrtc
 	url = https://github.com/atomlong/gst-plugins-openwebrtc.git
+[submodule "gst-rtsp-server"]
+	path = gst-rtsp-server
+	url = https://github.com/atomlong/gst-rtsp-server.git
 [submodule "gstreamer-git"]
 	path = gstreamer-git
 	url = https://github.com/atomlong/gstreamer-git.git
