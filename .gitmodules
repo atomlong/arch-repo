@@ -2560,6 +2560,9 @@
 [submodule "rollup"]
 	path = rollup
 	url = https://github.com/atomlong/rollup.git
+[submodule "rtsp-simple-server"]
+	path = rtsp-simple-server
+	url = https://github.com/atomlong/rtsp-simple-server.git
 [submodule "sendmail"]
 	path = sendmail
 	url = https://github.com/atomlong/sendmail.git
