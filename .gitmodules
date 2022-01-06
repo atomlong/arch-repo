@@ -2656,6 +2656,9 @@
 [submodule "ttf-vista-fonts"]
 	path = ttf-vista-fonts
 	url = https://github.com/atomlong/ttf-vista-fonts.git
+[submodule "tzupdate"]
+	path = tzupdate
+	url = https://github.com/atomlong/tzupdate.git
 [submodule "urlencode"]
 	path = urlencode
 	url = https://github.com/atomlong/urlencode.git
