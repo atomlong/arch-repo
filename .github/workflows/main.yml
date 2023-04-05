@@ -16,29 +16,27 @@ jobs:
     if: github.event.repository.owner.id == github.event.sender.id || github.event_name == 'schedule'
     env:
       RCLONE_CONF:  ${{ secrets.RCLONE_CONF }}
-      ZIP_PASSWD:   ${{ secrets.ZIP_PASSWD }}
-      ZIP_COMMENT:    ${{ secrets.ZIP_COMMENT }}
       DEPLOY_PATH:  ${{ secrets.DEPLOY_PATH }}
+      PGP_KEY: ${{ secrets.PGP_KEY }}
+      PGP_KEY_PASSWD: ${{ secrets.PGP_KEY_PASSWD }}
+      PACMAN_REPO: ${{ secrets.PACMAN_REPO }}
+      CUSTOM_REPOS: ${{ secrets.CUSTOM_REPOS }}
+      MAIL_HOST: ${{ secrets.MAIL_HOST }}
+      MAIL_PORT: ${{ secrets.MAIL_PORT }}
+      MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+      MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
     steps:
     - name: Checkout
-      uses: actions/checkout@v2.3.5
+      uses: actions/checkout@v3.5.0
       with:
         persist-credentials: false
-    - name: Submodule Update
-      env:
-        GH_TOKEN: ${{ secrets.GH_PA_TOKEN }}
-        BM_FILES: ${{ secrets.BM_FILES }}
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git config --global diff.ignoreSubmodules dirty
-        .ci/ci-submod.sh auto
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-    - name: Refresh access token
+    - name: Refresh Rclone Config
       id: refresh
+      env:
+        ZIP_PASSWD:   ${{ secrets.ZIP_PASSWD }}
+        ZIP_COMMENT:  ${{ secrets.ZIP_COMMENT }}
+        CFG_DEPLOY_PATH: ${{ secrets.CFG_DEPLOY_PATH }}
       run: |
         sudo apt install rclone zip -y
         RCLONE_CONFIG_PATH=$(rclone config file | tail -n1)
@@ -56,19 +54,32 @@ jobs:
         .
         EOF
         [ -f rclone.config.zip ] && {
-        rclone copy rclone.config.zip ${DEPLOY_PATH}
+        rclone copy rclone.config.zip ${CFG_DEPLOY_PATH}
         }
         RCLONE_CONFIG_NEW=$(base64 ${RCLONE_CONFIG_PATH} | tr '\n' '\0')
-        echo ::set-output name=rclone_config::${RCLONE_CONFIG_NEW}
+        echo "rclone_config=${RCLONE_CONFIG_NEW}" >>${GITHUB_OUTPUT}
         echo ::add-mask::${RCLONE_CONFIG_NEW}
         rm -vf ${RCLONE_CONFIG_PATH}{,.gpg}
     - name: Update Rclone Config secret
-      uses: atomlong/gh-update-secret@submod
+      uses: atomlong/gh-update-secret@master
       if: ${{ steps.refresh.outputs.rclone_config != '' }}
       with:
         name: RCLONE_CONF
         value: ${{ steps.refresh.outputs.rclone_config }}
         pa_token: ${{ secrets.GH_PA_TOKEN }}
+    - name: Submodule Update
+      env:
+        GH_TOKEN: ${{ secrets.GH_PA_TOKEN }}
+        BM_FILES: ${{ secrets.BM_FILES }}
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git config --global diff.ignoreSubmodules dirty
+        .ci/ci-submod.sh auto
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Enable Action Workflows
       id: enwf
       run: |

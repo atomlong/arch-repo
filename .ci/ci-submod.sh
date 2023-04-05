@@ -93,6 +93,27 @@ exit ${PIPESTATUS})
 [ $? == 0 ] || [ -n "${err}" ]
 }
 
+# Create or Update secrets for a submodule
+submodule_secrets()
+{
+[ "$#" == 1 ] || { echo "Usage: submodule_secrets submod"; return 1; }
+local REPO_NAME=${1}
+[ -d "${REPO_NAME}" ] || { echo "No ${REPO_NAME} sub folder"; return 1; }
+pushd "${REPO_NAME}"
+[ -n "${RCLONE_CONF}" ]    && while ! (sleep 1 && gh secret set RCLONE_CONF		-b"${RCLONE_CONF}" 2>/dev/null); do :; done
+[ -n "${PGP_KEY}" ]        && while ! (sleep 1 && gh secret set PGP_KEY			-b"${PGP_KEY}" 2>/dev/null); do :; done
+[ -n "${PGP_KEY_PASSWD}" ] && while ! (sleep 1 && gh secret set PGP_KEY_PASSWD	-b"${PGP_KEY_PASSWD}" 2>/dev/null); do :; done
+[ -n "${PACMAN_REPO}" ]    && while ! (sleep 1 && gh secret set PACMAN_REPO		-b"${PACMAN_REPO}" 2>/dev/null); do :; done
+[ -n "${DEPLOY_PATH}" ]    && while ! (sleep 1 && gh secret set DEPLOY_PATH		-b"${DEPLOY_PATH}" 2>/dev/null); do :; done
+[ -n "${CUSTOM_REPOS}" ]   && while ! (sleep 1 && gh secret set CUSTOM_REPOS	-b"${CUSTOM_REPOS}" 2>/dev/null); do :; done
+[ -n "${MAIL_HOST}" ]      && while ! (sleep 1 && gh secret set MAIL_HOST		-b"${MAIL_HOST}" 2>/dev/null); do :; done
+[ -n "${MAIL_PORT}" ]      && while ! (sleep 1 && gh secret set MAIL_PORT		-b"${MAIL_PORT}" 2>/dev/null); do :; done
+[ -n "${MAIL_USERNAME}" ]  && while ! (sleep 1 && gh secret set MAIL_USERNAME	-b"${MAIL_USERNAME}" 2>/dev/null); do :; done
+[ -n "${MAIL_PASSWORD}" ]  && while ! (sleep 1 && gh secret set MAIL_PASSWORD	-b"${MAIL_PASSWORD}" 2>/dev/null); do :; done
+[ -n "${MAIL_TO}" ]        && while ! (sleep 1 && gh secret set MAIL_TO			-b"${MAIL_TO}" 2>/dev/null); do :; done
+popd
+}
+
 # Add/Remove a submodule as build marker file
 # Please set the http location of build marker files via GH_TOKEN before call this function
 # example:
@@ -126,6 +147,10 @@ done
 for mod in ${submodules[@]}; do
 check_repo_exist ${mod} >/dev/null || submodule_remove ${mod}
 done
+
+for mod in ${submodules[@]}; do
+submodule_secrets ${mod}
+done
 }
 
 # Run from here ......
@@ -153,6 +178,11 @@ case ${COMMAND} in
 	sync)
 		for repo in ${REPO_LIST[@]}; do
 		submodule_sync ${repo}
+		done
+		;;
+	secrets)
+		for repo in ${REPO_LIST[@]}; do
+		submodule_secrets ${repo}
 		done
 		;;
 	auto)
