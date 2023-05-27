@@ -140,7 +140,7 @@ _last_package_hash()
 {
 local package="${1}"
 local marker="build.marker"
-rclone cat "${DEPLOY_PATH}/${marker}" 2>/dev/null | sed -rn "s|^\[([[:xdigit:]]+)\]${package}\s*$|\1|p"
+rclone cat "${DEPLOY_PATH}/${marker}" 2>/dev/null | sed -rn "s|^\[([[:xdigit:]]+)\]${PACMAN_REPO}/${package}\s*$|\1|p"
 return 0
 }
 
@@ -148,7 +148,7 @@ return 0
 _now_package_hash()
 {
 local package="${1}"
-git log --pretty=format:'%H' -1 ${package} 2>/dev/null
+git -C ${package} log --pretty=format:'%H' -1 2>/dev/null
 return 0
 }
 
@@ -164,7 +164,7 @@ commit_sha="$(_now_package_hash ${package})"
 rclone lsf "${DEPLOY_PATH}/${marker}" &>/dev/null && while ! rclone copy "${DEPLOY_PATH}/${marker}" . &>/dev/null; do :; done || touch "${marker}"
 grep -Pq "\[[[:xdigit:]]+\]${package}\s*$" ${marker} && \
 sed -i -r "s|^(\[)[[:xdigit:]]+(\]${package}\s*)$|\1${commit_sha}\2|g" "${marker}" || \
-echo "[${commit_sha}]${package}" >> "${marker}"
+echo "[${commit_sha}]${PACMAN_REPO}/${package}" >> "${marker}"
 rclone move "${marker}" "${DEPLOY_PATH}"
 _release_file "${marker}"
 return 0
@@ -398,8 +398,6 @@ done
 message=${message}"<p>Architecture: ${PACMAN_ARCH}</p>"
 # message=${message}"<p>Build Number: ${CI_BUILD_NUMBER}</p>"
 
-# echo ::set-output name=message::${message}
-
 # Send mail
 cat > mail.txt << EOF
 From: "Build" <${MAIL_USERNAME}>
@@ -411,13 +409,13 @@ ${message}
 Bye!
 EOF
 
-curl --url "smtps://${MAIL_HOST}:${MAIL_PORT}" \
-	--ssl-reqd  \
-	--mail-from "${MAIL_USERNAME}" \
-	--mail-rcpt "${MAIL_TO}" \
-	--upload-file mail.txt \
-	--user "${MAIL_USERNAME}:${MAIL_PASSWD}" \
-	--insecure
+curl --url "smtp://${MAIL_HOST}:${MAIL_PORT}" \
+ --ssl-reqd  \
+ --mail-from "${MAIL_USERNAME}" \
+ --mail-rcpt "${MAIL_TO}" \
+ --upload-file mail.txt \
+ --user "${MAIL_USERNAME}:${MAIL_PASSWORD}" \
+ --insecure
 rm -f mail.txt
 }
 
@@ -453,7 +451,7 @@ unset RAR_FILE_SECRET
 [ -f "${BUILD_CFG}" ] && source ${BUILD_CFG} && rm -vf ${BUILD_CFG}
 _release_file "build.config"
 
-[ -z "${PACMAN_REPO}" ] && export PACMAN_REPO=$([ "$(uname -o)" == "Msys" ] && tr 'A-Z' 'a-z' <<< ${MSYSTEM%%[0-9]*} || echo "eyun")
+[ -z "${PACMAN_REPO}" ] && export PACMAN_REPO=$([ "$(uname -o)" == "Msys" ] && tr 'A-Z' 'a-z' <<< ${MSYSTEM%%[0-9]*} || echo "cygn")
 [[ ${PACMAN_REPO} =~ '$' ]] && eval export PACMAN_REPO=${PACMAN_ARCH}
 [ -z "${PACMAN_ARCH}" ] && export PACMAN_ARCH=$(sed -nr 's|^CARCH=\"(\w+).*|\1|p' /etc/makepkg.conf)
 [[ ${PACMAN_ARCH} =~ '$' ]] && eval export PACMAN_ARCH=${PACMAN_ARCH}
@@ -518,7 +516,6 @@ _lock_file "pacman_sync"
 pacman --sync --refresh --noconfirm --disable-download-timeout
 _release_file "pacman_sync"
 done
-_create_build_marker
 create_mail_message
 [ -z "${FAILED_PKGS}" ] && success 'All packages built successfully'
 popd
