@@ -2584,6 +2584,9 @@
 [submodule "simple-obfs-git"]
 	path = simple-obfs-git
 	url = https://github.com/atomlong/simple-obfs-git.git
+[submodule "siyuan-kernel"]
+	path = siyuan-kernel
+	url = https://github.com/atomlong/siyuan-kernel.git
 [submodule "slick"]
 	path = slick
 	url = https://github.com/atomlong/slick.git
