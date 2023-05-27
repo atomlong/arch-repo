@@ -112,6 +112,9 @@
 [submodule "curl-git"]
 	path = curl-git
 	url = https://github.com/atomlong/curl-git.git
+[submodule "cygn-keyring"]
+	path = cygn-keyring
+	url = https://github.com/atomlong/cygn-keyring.git
 [submodule "cyrus-imapd"]
 	path = cyrus-imapd
 	url = https://github.com/atomlong/cyrus-imapd.git
