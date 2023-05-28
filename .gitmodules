@@ -2512,6 +2512,9 @@
 [submodule "python-yaml-git"]
 	path = python-yaml-git
 	url = https://github.com/atomlong/python-yaml-git.git
+[submodule "python2-bin"]
+	path = python2-bin
+	url = https://github.com/atomlong/python2-bin.git
 [submodule "python2-ruamel-yaml"]
 	path = python2-ruamel-yaml
 	url = https://github.com/atomlong/python2-ruamel-yaml.git
