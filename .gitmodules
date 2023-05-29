@@ -2527,6 +2527,9 @@
 [submodule "python2-mock"]
 	path = python2-mock
 	url = https://github.com/atomlong/python2-mock.git
+[submodule "python2-more-itertools"]
+	path = python2-more-itertools
+	url = https://github.com/atomlong/python2-more-itertools.git
 [submodule "python2-pbr"]
 	path = python2-pbr
 	url = https://github.com/atomlong/python2-pbr.git
