@@ -2521,6 +2521,9 @@
 [submodule "python2-funcsigs"]
 	path = python2-funcsigs
 	url = https://github.com/atomlong/python2-funcsigs.git
+[submodule "python2-lockfile"]
+	path = python2-lockfile
+	url = https://github.com/atomlong/python2-lockfile.git
 [submodule "python2-mock"]
 	path = python2-mock
 	url = https://github.com/atomlong/python2-mock.git
