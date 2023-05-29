@@ -2527,6 +2527,9 @@
 [submodule "python2-setuptools"]
 	path = python2-setuptools
 	url = https://github.com/atomlong/python2-setuptools.git
+[submodule "python2-six"]
+	path = python2-six
+	url = https://github.com/atomlong/python2-six.git
 [submodule "python38"]
 	path = python38
 	url = https://github.com/atomlong/python38.git
