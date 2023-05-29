@@ -2518,6 +2518,9 @@
 [submodule "python2-bin"]
 	path = python2-bin
 	url = https://github.com/atomlong/python2-bin.git
+[submodule "python2-funcsigs"]
+	path = python2-funcsigs
+	url = https://github.com/atomlong/python2-funcsigs.git
 [submodule "python2-pbr"]
 	path = python2-pbr
 	url = https://github.com/atomlong/python2-pbr.git
