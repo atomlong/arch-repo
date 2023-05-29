@@ -2515,6 +2515,9 @@
 [submodule "python2-appdirs"]
 	path = python2-appdirs
 	url = https://github.com/atomlong/python2-appdirs.git
+[submodule "python2-attrs"]
+	path = python2-attrs
+	url = https://github.com/atomlong/python2-attrs.git
 [submodule "python2-bin"]
 	path = python2-bin
 	url = https://github.com/atomlong/python2-bin.git
