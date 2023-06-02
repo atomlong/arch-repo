@@ -346,6 +346,9 @@
 [submodule "libffi7"]
 	path = libffi7
 	url = https://github.com/atomlong/libffi7.git
+[submodule "libglade"]
+	path = libglade
+	url = https://github.com/atomlong/libglade.git
 [submodule "libgnome"]
 	path = libgnome
 	url = https://github.com/atomlong/libgnome.git
