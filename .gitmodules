@@ -2527,6 +2527,9 @@
 [submodule "python2-bin"]
 	path = python2-bin
 	url = https://github.com/atomlong/python2-bin.git
+[submodule "python2-contextlib2"]
+	path = python2-contextlib2
+	url = https://github.com/atomlong/python2-contextlib2.git
 [submodule "python2-funcsigs"]
 	path = python2-funcsigs
 	url = https://github.com/atomlong/python2-funcsigs.git
