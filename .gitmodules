@@ -2545,6 +2545,9 @@
 [submodule "python2-pbr"]
 	path = python2-pbr
 	url = https://github.com/atomlong/python2-pbr.git
+[submodule "python2-pytz"]
+	path = python2-pytz
+	url = https://github.com/atomlong/python2-pytz.git
 [submodule "python2-ruamel-yaml"]
 	path = python2-ruamel-yaml
 	url = https://github.com/atomlong/python2-ruamel-yaml.git
