@@ -26,6 +26,7 @@ jobs:
       MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
       MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
       MAIL_TO: ${{ secrets.MAIL_TO }}
+      MARKER_PATH: ${{ secrets.MARKER_PATH }}
     steps:
     - name: Checkout
       uses: actions/checkout@v3.5.2

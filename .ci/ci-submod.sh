@@ -111,6 +111,7 @@ pushd "${REPO_NAME}"
 [ -n "${MAIL_USERNAME}" ]  && while ! (sleep 1 && gh secret set MAIL_USERNAME	-b"${MAIL_USERNAME}" 2>/dev/null); do :; done
 [ -n "${MAIL_PASSWORD}" ]  && while ! (sleep 1 && gh secret set MAIL_PASSWORD	-b"${MAIL_PASSWORD}" 2>/dev/null); do :; done
 [ -n "${MAIL_TO}" ]        && while ! (sleep 1 && gh secret set MAIL_TO			-b"${MAIL_TO}" 2>/dev/null); do :; done
+[ -n "${MARKER_PATH}" ]    && while ! (sleep 1 && gh secret set MARKER_PATH		-b"${MARKER_PATH}" 2>/dev/null); do :; done
 popd
 }
 
